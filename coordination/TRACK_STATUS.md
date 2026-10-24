@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch24 (2026-10-25)
+
+- Source **EDU-SRC0020**, *6 Levels to Make Any Video Addictive on YouTube.*, original 38,445-byte transcript, SHA256 `6e826960c9c348522533e9e35da3e8ffac4efd1d66da7f0c6a2577838828b561` register MATCH; full text and archive CRC PASS.
+- **41 new provisional claim records EDU-C1166–EDU-C1206**; old 1,165-claim ledger 2,798,688-byte prefix unchanged; historical private Batch23 ZIP nested unchanged.
+- **1,206** cumulative provisional claims; **56/162** sources fully text reviewed, **106** first-time reviews pending, **0** historic Batch01 QA pending. Next **EDU-C1207**, original source **EDU-SRC0022**, SHA to reverify.
+- [Batch24 GitHub binary safe ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/EDU_BATCH24_PUBLIC_SAFE_GITHUB_ARCHIVE.zip): **12,477 bytes**, blob `0947aee396517f372a4b93d6351c6ba99100cbd0`, 5/5 CRC PASS. [Verified receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/04_GITHUB_UPLOAD_RECEIPT.md).
+- Full **PRIVATE** research ZIP: `EDU_BATCH24_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, 3,098,011 bytes, SHA-256 `e79458b6a0d6b07be6b0d0102209991af1b3d661c3c8acf85bc6a13f3f397827` (12/12 CRC/manifest PASS); **NOT uploaded to PUBLIC GitHub**.
+- PUBLIC_RIGHTS_LIMIT; fictional case material, native AV, performance/brain claims unverified; T01–T13 unexecuted; Claude transfer and production SKILL.md HOLD.
+
+---
+
 ## Latest educational source execution — Batch23 (2026-10-25)
 
 - **Actual original:** `EDU-SRC0019`, *50 Minutes of Beautifully Brutal Life of Content Creation.*; `transcripts (1).zip` exact member 147,191 original UTF-8 bytes / 68,961 characters; original member SHA256 `ac88b4632bac83fb81d08e1365c6f4dc381ca1e769b20a5edc1528c5b5f5bd39` **matches historical 162-source register**, source ZIP CRC PASS; full Hindi/Hinglish Q&A captions reviewed (audio/video unverified, malformed time cues and six original replacement characters noted).
