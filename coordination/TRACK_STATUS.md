@@ -1,3 +1,15 @@
+## Research Director decision: Education Batch14 pending coverage (2026-10-24)
+
+**Coverage policy decided:** all 116 first-time source dispositions + 6 historical independent QA reviews must be resolved to declare **the entire 162-source educational corpus** complete. This is a completeness criterion, not a promise that every source yields script rules, and not a prerequisite automatically imposed on independently authorized narrow test planning.
+
+**Actual completion has not changed:** 40 reviewed; 116 first-time pending; 6 historical QA pending; 983 provisional claims; next unused claim `EDU-C0984`; Batch15 first source `EDU-SRC0006`. Historical original raw transcript archives have not yet been individually verified for this execution. No extraction or QA completion is claimed.
+
+Decision: [RD-EDU-B14-COVERAGE-01](RD_EDU_B14_COVERAGE_DECISION_2026-10-24.md) · [122 exact source review queue](EDU_122_PENDING_SOURCE_REVIEW_QUEUE_2026-10-24.csv).
+
+Final full-corpus closure: **HOLD**. Public source-text redistribution: **not authorized without rights**. Tests and production SKILL.md: **not authorized**.
+
+---
+
 ## Latest cross-track integration decision — 24 October 2026
 
 **Completed:** a source-grounded Research Integration Audit across GitHub S/F, R, K, V, EDU and validation tracks. Canonical counts/IDs checked: 90 F, 171 R, 48 K (synthesis and validation one-to-one), 13 T, 42 R–F candidate links. No broken positive F/R/T references detected; F verdicts 20 PASS / 64 CONDITIONAL / 5 FAIL / 1 UNVERIFIED. 48/48 skill approval NO, 13/13 tests NOT_EXECUTED. Educational Batch14: 983 provisional claims, 116 pending first-time sources and 6 QA. This is **not experimental validity or final skill approval**.
