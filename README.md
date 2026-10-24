@@ -2,7 +2,7 @@
 
 Central archive for **separate ChatGPT research tracks** related to a future Universal Professional Scriptwriting Skill. It is not the Claude Code Browser GitHub repository, and this archive is **not** an approved SKILL.md or validated production system.
 
-> **VISIBILITY NOTICE (2026-10-24): THIS REPOSITORY WAS PUBLIC WHEN THE ARCHIVE SCAFFOLD WAS CREATED.** Do **not** upload research text, uploaded transcripts, copyrighted source material, private records, credentials, or other sensitive assets until the owner changes the repository visibility to **Private** and verifies that change.
+> **PUBLIC REPOSITORY NOTICE (2026-10-24):** The owner chose to keep this archive Public so Claude Code Browser can later fetch it using a GitHub link. Upload **only publication-safe, rights-cleared, nonconfidential research artifacts**. Never publish private information, credentials, raw third-party transcripts without redistribution rights, proprietary provider outputs, or inaccessible originals reconstructed from summaries.
 
 ## Research tracks
 
