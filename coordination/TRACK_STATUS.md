@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch25 (2026-10-25)
+
+- **Original:** EDU-SRC0022 *7 Years of Storytelling Advice in 54 Mins*, original member `transcripts (1) (1).zip`, 56,296 UTF-8 bytes/characters, 1,273 caption lines, historical member SHA256 `ca9016e05270b1da25998e1fd4cedad2ace909cac213bbd6bf353e714994dcbb` matched; original source ZIP CRC PASS and full source text read.
+- **Research:** 68 new source-grounded provisional claims `EDU-C1207`–`EDU-C1274`. Previous 1,206-claim 2,970,420-byte cumulative original CSV retained exactly as prefix; prior original Batch24 ZIP preserved byte-for-byte. Title says 7 years, creator outro says 5 years: discrepancy retained, not resolved.
+- **Cumulative:** **1,274 provisional claim IDs**, **57/162** fully text-reviewed original sources, **105 first-time pending**, **0** historic six-item QA pending. Next `EDU-C1275`; next genuinely pending `EDU-SRC0023`, *77 Minutes Straight of Solid Communications Advice*, original `transcripts (5).zip` to SHA-verify before execution.
+- **Publication-safe GitHub ZIP:** [Batch25 22,788-byte verified binary archive](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/EDU_BATCH25_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), Git blob `d557b509cb2b46f6cc502d62d8bbbca8c32863a4`, **5/5 CRC and exact remote bytes PASS**. [Batch25 upload receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/04_GITHUB_UPLOAD_RECEIPT.md).
+- **Full ORIGINAL private ZIP:** `EDU_BATCH25_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, 3,506,773 bytes SHA256 `4c2765c0af46f44e822624cf7eb1550b806be1dc39a4f3fdcdb95b281580a5bf`, 12 entry CRC/manifest PASS, original historical B24 ZIP nested unchanged; NOT uploaded to PUBLIC GitHub.
+- PUBLIC_RIGHTS_LIMIT; native audiovisual / external efficacy and creator credentials unverified. T01–T13 unexecuted; Claude transfer and production SKILL.md HOLD.
+
+---
+
 ## Latest educational source execution — Batch24 (2026-10-25)
 
 - Source **EDU-SRC0020**, *6 Levels to Make Any Video Addictive on YouTube.*, original 38,445-byte transcript, SHA256 `6e826960c9c348522533e9e35da3e8ffac4efd1d66da7f0c6a2577838828b561` register MATCH; full text and archive CRC PASS.
