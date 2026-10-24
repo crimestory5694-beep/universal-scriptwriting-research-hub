@@ -1,0 +1,3 @@
+Source ID,File,Original file SHA256,Original byte count,UTF8-SIG decoded length,Verified read spans,Gaps,Full text read,Timestamp status,Claim count
+EDU-SRC0006,25 Storytelling Secrets I Wish I Knew In My 20s.txt,f1db6e3dc80e82a03300f3c9022234610466702a48e316a92eb0a275d6fc96ed,18665,18665,"[0,4800);[4800,9600);[9600,14400);[14400,18665)",0,YES,CAPTION_TEXT_MARKERS_ONLY,25
+EDU-SRC0021,7 Storytelling Techniques to Tell Great Stories.txt,ddad1d18ab2831b4fa7184a3f5495827bab1b431784e5f3c05d01ef4b4683b68,6556,6556,"[0,6556)",0,YES,CAPTION_TEXT_MARKERS_ONLY,"9 HISTORIC QA, 0 NEW"
