@@ -1,0 +1,2 @@
+Source ID,Old coverage,New coverage,New IDs,New items,Old cumulative,New cumulative,Reviewed before,Reviewed after,Pending before,Pending after,Historical QA pending
+EDU-SRC0025,INDEXED_NOT_CLAIM_EXTRACTED,BATCH28_FIRST_TIME_FULL_ORIGINAL_TEXT_REVIEW,EDU-C1415..EDU-C1429,15,1414,1429,59,60,103,102,0

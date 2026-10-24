@@ -1,0 +1,9 @@
+# Batch28 — original source SHA verification and PUBLIC rights limit
+
+- Original file `transcripts.zip`: 415,284 bytes, SHA256 `71ecb5cf5e98e6390c001628d8758222de28b5118a1732c699c6790e237c81c6`, all 16 members ZIP CRC PASS.
+- Member `Ai Se Na Ho Paayega! 💀#shortsfeed #shorts #ai.txt`: 4,242 exact UTF-8 bytes / 1,968 decoded characters, SHA256 `046df9c6d929959bb4cfc97b73d021cb1d3094cb164a5283c84d05507279bf8e`, historical register MATCH. Full text reviewed; 15 distinct exact original phrase plus UTF-8 byte and character range checks PASS. No native audiovisual verification.
+- Prior 1,414-row original cumulative claims CSV: 3,546,165 bytes, SHA256 `b0cf424b27e616d53e5c32fd6ddbf99487bb5445fd499ff9da1ae60db632b800`, retained unchanged as exact prefix of the current 1,429-row user-held private ledger.
+- Unchanged original private Batch27 ZIP: 4,414,357 bytes SHA256 `5626898c5b7e47bbb14d9f7109b2c73148e99a81c0a6a3b980e624c8e17f5594`, nested in new original private Batch28 ZIP.
+- New private Batch28 ZIP: **4,855,326 bytes**, SHA256 `1364a79e64a84cae0cb1ad79b620b9c245a69efc4212cf54cb792291376e84b5`, 13/13 ZIP member CRC and 12/12 internal SHA manifest PASS. NOT uploaded to PUBLIC GitHub.
+- Cumulative 1,429 provisional claim IDs, 60/162 original text reviewed, 102 first-time pending, historic six-unit text QA 0 pending. Next source EDU-SRC0026, next claim EDU-C1430. Historical B25 top-level ZIP hash mismatch remains OPEN, unchanged.
+- **PUBLIC_RIGHTS_LIMIT:** Third-party transcript bytes, exact original-language private source passages, unrestricted cumulative source-rich research ledger and nested prior private ZIP are withheld. This GitHub folder has only short original analyst paraphrases and integrity metadata. Named human designer and other video, AI design abilities, AGI emotion/goal conjectures, and market saturation not independently verified. T01–T13 experiments NOT_EXECUTED. Production skill and Claude transfer HOLD.
