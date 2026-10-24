@@ -1,0 +1,21 @@
+﻿r_id,category,format,access,batch
+R052,Cross-category,Audio guide,BLOCKED_ROBOTS,PILOT_1
+R137,Cross-category,Documentary,READ_ORIGINAL_HTML,PILOT_1
+R140,Education,Sports guide,PORTAL_READ_PDF_BLOCKED_SIZE,PILOT_1
+R145,Cross-category,News guide,READ_ORIGINAL_HTML,PILOT_1
+R149,Cross-category,Accessibility,READ_ORIGINAL_HTML,PILOT_1
+R154,Nature,TV documentary,INDEXED_PUBLISHER_EXCERPT,PILOT_1
+R163,Education,Academic paper,READ_ORIGINAL_HTML,PILOT_1
+R098,Technology,Analytics help,READ_ORIGINAL_HTML,PILOT_1
+R057,Cross-category,Radio documentary,READ_ORIGINAL_HTML,PILOT_1
+R142,Sports,Live sport commentary,READ_ORIGINAL_HTML,PILOT_1
+R079,Education,Lecture|Tutorial|Instructional video,ORIGINAL_PDF_READ,BATCH_2
+R133,Nature,Wildlife documentary|Editorial policy PDF,REGISTERED_HTML_BLOCKED_OFFICIAL_2012_PDF_READ,BATCH_2
+R141,Sports,Live radio sport|Live television commentary,ORIGINAL_PDF_READ,BATCH_2
+R150,Cross-category,Captions|Subtitles|Accessible online video,ORIGINAL_HTML_READ,BATCH_2
+R156,Finance,Short-form explainer|Video catalog,ORIGINAL_HTML_READ_INDEX_ONLY,BATCH_2
+R157,Finance,Web guide|Financial explainer source material,ORIGINAL_HTML_READ,BATCH_2
+R158,Finance,Short-form video index|Training tools,ORIGINAL_HTML_READ_INDEX_ONLY,BATCH_2
+R159,Finance,Web guide|Webinar|Transcript index|Handout,ORIGINAL_HTML_READ,BATCH_2
+R160,Technology,Shorts|Help documentation,ORIGINAL_HTML_READ,BATCH_2
+R161,Technology,Shorts|Long-form|Live|Analytics documentation,ORIGINAL_HTML_READ,BATCH_2
