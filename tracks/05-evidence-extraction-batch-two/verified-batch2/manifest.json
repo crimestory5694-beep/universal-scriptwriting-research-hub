@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-18",
+  "batch2_ids": [
+    "R079",
+    "R133",
+    "R141",
+    "R150",
+    "R156",
+    "R157",
+    "R158",
+    "R159",
+    "R160",
+    "R161"
+  ],
+  "prior_batch_ids": [
+    "R052",
+    "R137",
+    "R140",
+    "R145",
+    "R149",
+    "R154",
+    "R163",
+    "R098",
+    "R057",
+    "R142"
+  ],
+  "registered_r_ids": 171,
+  "github_sources": 63,
+  "audited_original_f_ids": 90,
+  "assessed_cumulative": 20,
+  "original_urls_substantively_accessible_batch2": 9,
+  "alternate_publisher_historical_pdf_accessible_R133": true,
+  "crosswalk_old": 24,
+  "crosswalk_new": 18,
+  "crosswalk_total": 42,
+  "unique_f_ids": 19,
+  "read_only_inputs": [
+    "/mnt/data/real_world_discovery_2026-10-18/output/01_CUMULATIVE_R_SOURCE_REGISTER.csv",
+    "/mnt/data/independent_audit_CLOSURE_2026-10-18/01_CANONICAL_90_FINDING_REGISTER.csv",
+    "/mnt/data/real_world_evidence_PILOT_2026-10-18/01_EVIDENCE_EXTRACTION_REGISTER.csv"
+  ],
+  "sha256_inputs": {
+    "/mnt/data/real_world_discovery_2026-10-18/output/01_CUMULATIVE_R_SOURCE_REGISTER.csv": "8bdc4b04f6dd7f6ba0cd9ef9a2b4b867278264de857000671317a6eba6d4d40b",
+    "/mnt/data/independent_audit_CLOSURE_2026-10-18/01_CANONICAL_90_FINDING_REGISTER.csv": "2b9487b5ce1495269f77b12d6c584860b6d7e3b014b5f2a0a8863950a3842cf8",
+    "/mnt/data/real_world_evidence_PILOT_2026-10-18/01_EVIDENCE_EXTRACTION_REGISTER.csv": "3bfdd63e992266b9fd1f4edab9ddb594b4d497bc138b52f9ed13aa0afdf5246d",
+    "/mnt/data/real_world_evidence_PILOT_2026-10-18/03_GITHUB_REALWORLD_FINDING_CROSSWALK.csv": "e96a7702d3278c6f6e0921462d2dd57efad2f25d95d0fb449c47e9433876f83b"
+  }
+}
