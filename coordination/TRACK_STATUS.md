@@ -1,3 +1,15 @@
+## Latest educational source execution — Batch22 (2026-10-25)
+
+- **Original exact source:** EDU-SRC0016 *5 Storytelling Books That Will Transform Your Storytelling Skills*, exact UTF-8 original member in `transcripts (1) (2).zip`, **4,643 bytes/characters**, registered and reverified SHA256 `5a1da34faf04b06c93c999d646be4745e0faf5e532f3af6d32f1ee34e688f606`, source archive CRC PASS; entire transcript read.
+- **Research:** **15** distinct source-grounded provisional `EDU-C1099`–`EDU-C1113` entries with source character anchors, creator/secondhand-book claims and cautions. This is a five-book narrated recommendation, including speaker's own book; books, bibliographical spellings, commercial effect claims and native video/audio not independently verified.
+- **Cumulative:** **162** historic sources, **54 reviewed**, **108 first-time pending**, **0** historical Batch01 independent text-QA pending. **1,113 claims**; next `EDU-C1114`. Old 1,098-row **2,567,045-byte** CSV retained unchanged as the prefix; prior B21 ZIP preserved unchanged in private B22 package.
+- **Next original source:** `EDU-SRC0019` *50 Minutes of Beautifully Brutal Life of Content Creation.*, original archive `transcripts (1).zip`; historical hash in updated private 162-source register, freshly verify before extraction. IDs 0017–0018 already reviewed in history; do not repeat.
+- **PUBLIC GitHub derivative:** [Batch22 10,616-byte public-safe binary ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/EDU_BATCH22_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), Git blob SHA-1 `658812d04a220b5d47c953b044ae51c01ccb5fa6`, **5/5 entry CRC PASS**, exact base64 GitHub readback bytes match; [verified detailed receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/04_GITHUB_UPLOAD_RECEIPT.md). Four safe research files separately committed and verified.
+- **PRIVATE original:** `EDU_BATCH22_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, **2,311,590 bytes** SHA256 `60ce67edaba0ec681b32cac337ebfbd09e002193e8f80dd62259e34c69e73ffc`, 12-entry manifest/CRC pass, original B21 ZIP nested; **NOT uploaded to PUBLIC GitHub** due source-dense third-party material rights restrictions.
+- **Approval state:** `EDUCATIONAL_SOURCE_RESEARCH_PARTIAL`, `PUBLIC_RIGHTS_LIMIT`, `SCIENTIFIC_TESTS_NOT_EXECUTED`, `CLAUDE_TRANSFER_HOLD`, `PRODUCTION_SKILL_HOLD`.
+
+---
+
 ## Latest educational source execution — Batch21 (2026-10-25)
 
 - **Original exact source:** EDU-SRC0015 *5 Speaking Techniques That Separate the Top 1%*, original `transcripts (5).zip :: 5 Speaking Techniques That Separate the Top 1%.txt`, SHA-256 `dcff02e9f8e38991f81bb17bf9691ce274546e0f108ad2fc3a3d025238383860`, full 9,726-byte/9,726-character source read; source ZIP CRC PASS. **16** new source-grounded provisional EDU-C1083–EDU-C1098 findings, each anchored and qualified; unverified attributed clips/speaker sample/audience efficacy.
