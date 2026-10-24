@@ -12,6 +12,6 @@ This table reflects **actual repository upload status**, not the research comple
 | 06 Audit integrity findings | NOT_UPLOADED | N/A | N/A | Complete archive from chat |
 | 07 Educational transcript batches | NOT_UPLOADED | N/A | N/A | Batch history and necessary source records |
 
-**Archive ready for Claude transfer? NO.** Visibility gate: repository was public on 2026-10-24; verify private before any research content upload.
+**Archive ready for Claude transfer? NO.** Public-repository uploads of **publication-safe, rights-cleared, nonconfidential research only** are authorized by owner choice. Restricted source bytes stay outside this public archive; record gaps in each track manifest.
 
 Tracking rules: change `NOT_UPLOADED` only after independent repo readback. Keep exported/unknown/pending distinct from successfully committed bytes.
