@@ -1,0 +1,2 @@
+Source ID,Old coverage,New coverage,New claim range,Claim total before,Claim total after,Reviewed before,Reviewed after,First-time pending before,First-time pending after,Historical six-source QA pending
+EDU-SRC0019,INDEXED_NOT_CLAIM_EXTRACTED,BATCH23_COMPLETE_FULL_ORIGINAL_TEXT_REVIEW_52_PROVISIONAL_CLAIMS,EDU-C1114..EDU-C1165,1113,1165,54,55,108,107,0

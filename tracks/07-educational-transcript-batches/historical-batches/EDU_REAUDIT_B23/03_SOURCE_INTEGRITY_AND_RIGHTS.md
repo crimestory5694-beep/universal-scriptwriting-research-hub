@@ -1,0 +1,8 @@
+# EDU Batch23 Source Integrity and Rights Record
+- User-held source archive: `transcripts (1).zip`, **1,030,903 bytes**, SHA-256 `c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08`; ZIP CRC PASS.
+- Exact source member `50 Minutes of Beautifully Brutal Life of Content Creation..txt`: 147,191 bytes / 68,961 strictly decoded characters, source member SHA-256 `ac88b4632bac83fb81d08e1365c6f4dc381ca1e769b20a5edc1528c5b5f5bd39` **historical register MATCH**. Six U+FFFD sequences are present in original captions; unverified and malformed timestamps never treated as native video timing.
+- Previous cumulative private ledger **1,113 claims; 2,615,020 bytes**, SHA-256 `cb668c3552dcce4480d7eaee21c462d02af1647c346045966a614813fa6e50b9`; B23 full original claim ledger retains that exact byte prefix and appends 52 distinct IDs, ending EDU-C1165.
+- Historical original Batch22 ZIP: **2,311,590 bytes**, SHA-256 `60ce67edaba0ec681b32cac337ebfbd09e002193e8f80dd62259e34c69e73ffc`, preserved unchanged inside **new separate private Batch23 archive**.
+- Resulting checkpoint: 55/162 reviewed; 107 first-time pending; 0 historical six-item QA pending; 1,165 provisional claims, next EDU-C1166 / EDU-SRC0020.
+- **PUBLIC_RIGHTS_LIMIT:** Private original full ZIP, 1,165-row source-dense original ledger, raw third-party transcript and long source quotation corpus are withheld from public GitHub; this directory contains exclusively original researcher summaries, source hashes and progress metadata.
+- **EVIDENCE HOLD:** No confirmed platform mechanisms, independently verified revenue/policy claims, native audiovisual, causal viewer effects, tested T01–T13 protocols or approved production skill.
