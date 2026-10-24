@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-18",
+  "original_artifact_sha256": {
+    "original_pilot_zip_sha256": "ed5091d87d4269e7553702831eb49fcc1f6205210c18f9163d3cdfa268093e38",
+    "original_crosswalk_sha256": "91fe52bfcb6f53c05d5f0d9e5b6da145a0cc90c2893da397777d4fa1efa92767",
+    "original_12_cards_sha256": "432b92a072e5a73f597b6f0979ad4c316c6a9c4904a4bc92b46e4e9ca1dea8a7",
+    "checked_utc": "2026-10-18",
+    "artifact_mutation": "None: this run writes in a separate directory only"
+  },
+  "crosswalk_original_rows": 22,
+  "crosswalk_repair_counts": {
+    "UNSUPPORTED_CONNECTION": 7,
+    "DIRECT_SOURCE_SUPPORT_NORMATIVE_ONLY": 5,
+    "CONTEXTUAL_ANALOGY": 10
+  },
+  "video_ids": [
+    "V01",
+    "V04",
+    "V07",
+    "V10"
+  ],
+  "full_transcripts_in_package": false,
+  "audio_files_in_package": false,
+  "paid_transcript_api_calls_in_repair": 0,
+  "files": {
+    "00_README_AND_DIRECTOR_HANDOFF.md": {
+      "sha256": "9211f7bac8bd6a80a40f5e2d78d336e601b364e0e91eda4efbb9ecd224d19562",
+      "bytes": 1811
+    },
+    "01_FOUR_ANCHOR_TIMESTAMP_REGISTER.csv": {
+      "sha256": "8a861e23516ffb49551657583f8b1ceeb433d9476f272bb3b7da0aa666742be3",
+      "bytes": 3956
+    },
+    "01_FOUR_TIMESTAMP_VERIFICATION_CARDS.md": {
+      "sha256": "9d82e9179bdc8a79da1f2cbade01f7009235750b476affb80689af15ec4a868d",
+      "bytes": 7525
+    },
+    "02_AUDIO_FIDELITY_AND_ASR_ERRATA.md": {
+      "sha256": "083fc30a9d4be63d80bf294efa7b6f681e5c7d9354b34c26d0a66b80d0ba0a23",
+      "bytes": 4034
+    },
+    "03_TRANSCRIPT_PROVIDER_AND_COST_VERIFICATION.md": {
+      "sha256": "9856dc036f4fe429c5e4ac698444cd6d41ce68d8ff90c45a533d0aca5c2e3ade",
+      "bytes": 4622
+    },
+    "04_CORRECTED_22_LINK_CROSSWALK.csv": {
+      "sha256": "1448f9b9566291a74143f0277211854ae86a7cd7c5708014b71db38877ed1ebc",
+      "bytes": 9349
+    },
+    "04_CROSSWALK_QC_ASSESSMENT.md": {
+      "sha256": "15d9f3b5e4226b8dc5bfb17925d707c56e9d63213f8d0a65154adc1b61b5d2e1",
+      "bytes": 2074
+    },
+    "05_ORIGINAL_SOURCES_AND_LICENSING_NOTES.md": {
+      "sha256": "469be4f6f2fd28d3d4cf500b8029cbd55e6064b02d33276bef6b5877bcca556b",
+      "bytes": 3284
+    },
+    "06_REMAINING_EIGHT_SCALING_METHOD.md": {
+      "sha256": "3c18c3a1aaf9f6dc78a7125d5ee701d76a8dd5f0a389d801c30d3a57f9ff6d98",
+      "bytes": 3257
+    },
+    "07_EXACT_CONTINUATION_CHECKPOINT.md": {
+      "sha256": "638157bc6ec51ede247be96bf1c186a19f087804637af6a96a50c3a1069b7025",
+      "bytes": 2321
+    }
+  }
+}
