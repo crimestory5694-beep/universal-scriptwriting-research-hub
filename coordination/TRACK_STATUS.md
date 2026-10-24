@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch21 (2026-10-25)
+
+- **Original exact source:** EDU-SRC0015 *5 Speaking Techniques That Separate the Top 1%*, original `transcripts (5).zip :: 5 Speaking Techniques That Separate the Top 1%.txt`, SHA-256 `dcff02e9f8e38991f81bb17bf9691ce274546e0f108ad2fc3a3d025238383860`, full 9,726-byte/9,726-character source read; source ZIP CRC PASS. **16** new source-grounded provisional EDU-C1083–EDU-C1098 findings, each anchored and qualified; unverified attributed clips/speaker sample/audience efficacy.
+- **Cumulative status:** 162 registered historical EDU source IDs; **53 fully text-reviewed**, **109 first-time reviews pending**, **0 six-item historical Batch01 text QA pending**, **1,098 provisional claims**, next `EDU-C1099`. Old exact 2,521,769-byte Batch20 cumulative claim CSV retained unchanged as a prefix; 16 new rows appended.
+- **Next original source:** EDU-SRC0016 *5 Storytelling Books That Will Transform Your Storytelling Skills*, historical `transcripts (1) (2).zip` member SHA `5a1da34faf04b06c93c999d646be4745e0faf5e532f3af6d32f1ee34e688f606` — source member to be independently reverified.
+- **GitHub publication-safe ZIP:** [Batch21 research archive](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/EDU_BATCH21_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), **13,378 bytes**, Git blob SHA `5ea7885cf37202335c4cbc51fd866d21582d6f2f`, **5/5 internal files CRC PASS**. [Upload read-back and integrity receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/04_GITHUB_UPLOAD_RECEIPT.md).
+- **Full private user-held original package:** `EDU_BATCH21_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, **1,969,962 bytes**, SHA256 `6d2762cd8a15f6b2eabce3d88740b2495bf592f279e25898c9bc84611fa0475c`, 12 ZIP entries including unmodified B20 original research ZIP, full 1,098-claim CSV and internal sha/anchors. **NOT uploaded to PUBLIC GitHub** because rights for third-party transcript-derived long-form source details were not established.
+- Corpus remains **PARTIAL**, native video/audio and empirical retention efficacy not independently verified; no authorized final `SKILL.md` implementation or T01–T13 validation trials.
+
+---
+
 ## Latest educational research execution — Batch20 (2026-10-25)
 
 - **EDU-SRC0014** original member `5 Habits That Make You Sound Brilliant in 2026.txt` within `transcripts (5).zip`: 10,721 bytes, original SHA256 `4f9f9ce22bb233f7fe10e7559a64eb35c99c4d24d6b881cfc391e7b0ec656782`; full text reviewed, **15** provisional new claims `EDU-C1068–EDU-C1082`.
