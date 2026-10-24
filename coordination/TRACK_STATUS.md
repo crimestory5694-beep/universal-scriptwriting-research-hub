@@ -1,3 +1,15 @@
+## Latest educational source execution — Batch23 (2026-10-25)
+
+- **Actual original:** `EDU-SRC0019`, *50 Minutes of Beautifully Brutal Life of Content Creation.*; `transcripts (1).zip` exact member 147,191 original UTF-8 bytes / 68,961 characters; original member SHA256 `ac88b4632bac83fb81d08e1365c6f4dc381ca1e769b20a5edc1528c5b5f5bd39` **matches historical 162-source register**, source ZIP CRC PASS; full Hindi/Hinglish Q&A captions reviewed (audio/video unverified, malformed time cues and six original replacement characters noted).
+- **New research:** **52 distinct provisional source-grounded creator observations**, `EDU-C1114`–`EDU-C1165`, exact source character/byte anchors recorded privately; source-role and external-verification cautions retained. Creator statements about the algorithm, psychology, government funds, earnings and outcomes are not scientific proof.
+- **Cumulative source status:** 162 historical source IDs, **55 fully original-text reviewed**, **107 first-time reviews remaining**, historical six-item Batch01 QA **0 pending**; **1,165 provisional claims**, next unused `EDU-C1166`. Old exact **2,615,020-byte** cumulative 1,113-claim CSV preserved byte-for-byte as prefix; nested original Batch22 ZIP preserved without modification.
+- **Next genuine first-time source:** `EDU-SRC0020`, *6 Levels to Make Any Video Addictive on YouTube.*, from `transcripts (1).zip`; prior expected SHA256 `6e826960c9c348522533e9e35da3e8ffac4efd1d66da7f0c6a2577838828b561`, recheck full original before issuing IDs.
+- **PUBLIC-safe GitHub ZIP:** [Batch23 verified binary publication-safe archive](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/EDU_BATCH23_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), **25,678 bytes**, Git blob SHA-1 `cbbd85bbc13b660bc59c4067d34a2979cd7eb903`, **5/5 ZIP files CRC PASS**, full live GitHub base64 read-back exact match; [upload integrity receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/04_GITHUB_UPLOAD_RECEIPT.md). Rights-filtered public original researcher summaries and 52 short claim descriptions only.
+- **Full original user-held ZIP:** `EDU_BATCH23_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, **2,697,235 bytes**, SHA-256 `4c6b7a268559d36ff468e2d08b2fcab072b6415779279aa0bbe427b00efcdc93`, **12/12 entries CRC and internal SHA manifest PASS**, includes previous original Batch22 ZIP unchanged. **NOT on PUBLIC GitHub** due copyright/source-dense rights.
+- **Approval gates unchanged:** `EDUCATIONAL_SOURCE_RESEARCH_PARTIAL`, `PUBLIC_RIGHTS_LIMIT`, `SCIENTIFIC_TESTS_NOT_EXECUTED`, `CLAUDE_TRANSFER_HOLD`, `PRODUCTION_SKILL_HOLD`.
+
+---
+
 ## Latest educational source execution — Batch22 (2026-10-25)
 
 - **Original exact source:** EDU-SRC0016 *5 Storytelling Books That Will Transform Your Storytelling Skills*, exact UTF-8 original member in `transcripts (1) (2).zip`, **4,643 bytes/characters**, registered and reverified SHA256 `5a1da34faf04b06c93c999d646be4745e0faf5e532f3af6d32f1ee34e688f606`, source archive CRC PASS; entire transcript read.
