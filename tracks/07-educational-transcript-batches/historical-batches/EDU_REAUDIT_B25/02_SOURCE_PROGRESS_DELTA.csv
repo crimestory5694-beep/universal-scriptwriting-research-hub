@@ -1,0 +1,2 @@
+Source ID,Previous status,New status,New claim range,Claims before,Claims after,Reviewed before,Reviewed after,First-time pending before,First-time pending after,Historical QA pending
+EDU-SRC0022,INDEXED_NOT_CLAIM_EXTRACTED,BATCH25_COMPLETE_FULL_ORIGINAL_TEXT_REVIEW_68_PROVISIONAL_CLAIMS,EDU-C1207..EDU-C1274,1206,1274,56,57,106,105,0
