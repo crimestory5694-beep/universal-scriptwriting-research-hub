@@ -6,7 +6,7 @@
 
 **Status:** AWAITING_UPLOAD. This is only a folder placeholder; no historical research has been imported here yet.
 
-**Safety prerequisite:** Verify the repository is **Private** before uploading anything substantive. Follow [the global upload protocol](../../coordination/UPLOAD_PROTOCOL.md).
+**Public archive prerequisite:** Upload only publication-safe, nonconfidential, rights-cleared research artifacts; withhold restricted original bytes and disclose omissions in the manifest. Follow [the global upload protocol](../../coordination/UPLOAD_PROTOCOL.md).
 
 ## Deliverables expected from this chat
 
