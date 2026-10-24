@@ -1,0 +1,9 @@
+# Historical Decisions and Conversation Provenance (newly assembled excerpt)
+**This is a newly assembled archival record, NOT an original historical file or a complete message-level export.** It paraphrases instructions actually visible in this conversation; no unseen original materials are recreated.
+
+1. User directed **12-video Script DNA pilot**, 3 videos each in German emotional WWI/WWII history, aerospace/military aviation, US weather, and psychology/education; the assistant returned versioned Markdown/CSV/ZIP outputs, with caption-only limitations.
+2. User accepted existing pilot as **CAPTION-ONLY**, requested four-video timestamp and audio repair only on V01, V04, V07 and V10; preserve video/source IDs; crosswalk quality control 22 rows.
+3. User accepted that repair only as caption-timing provenance, **not audio verification**, and ordered one final original-player attempt on V01, V04, V07 only; V10 untouched; preserve 5 direct normative-only / 10 contextual / 7 unsupported.
+4. Final gate was **CAPTION_ONLY_FREEZE** after YouTube original-player access blockers; no new valid audio verification, no approved universal writing rule, no causal success claim.
+5. User ordered historical upload to GitHub. Initial private-only instruction caused an intentional no-upload hold when repository was PUBLIC; a later, more specific provided document expressly authorized **PUBLIC** for rights-cleared publication-safe research. GitHub `coordination/UPLOAD_PROTOCOL.md` confirmed public-safe upload was allowed.
+6. During archive intake, 33 source text entries were actually readable as local members of three ZIPs; the 25 additionally surfaced standalone reports were uploaded to GitHub with exact original git-object SHA matches. Eight other entries and three ZIP binaries remain separately recorded as not uploaded; separate Track 05 input excluded.
