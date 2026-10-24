@@ -1,0 +1,17 @@
+﻿line_id,protocols,work_unit,gross_low_hr,gross_high_hr,potential_overlap_with,scoped_scenario,status
+B01,T01,Source/licensing/provenance review,3,6,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+B02,T02/T11,Fact and ethical claim audit,12,22,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+B03,T03/T10,Independent editorial/counterexample scoring,12,20,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+B04,T04,Agreement/data lock/adjudication,4,8,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+B05,T05,Bilingual meaning desk review (if material exists),4,7,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+B06,T06,Storyboard semantic/accessibility desk review (only if owned storyboard exists),3,6,See O01–O05; only subtract logged duplicate minutes,A1_REVIEW_ESTIMATE,HISTORICAL_ESTIMATE_NOT_VERIFIED
+O01,T01↔T02/T11,Checking identical primary source locator & dated provenance in intake and factual atom ledger,-2,-3,T01↔T02/T11,CONDITIONAL_DUPLICATE_CREDIT,POSSIBLE_ONLY_IF_TIMELOG_PROVES_EXACT_SAME_WORK
+O02,T02/T11↔T03/T10,Single fact/ethics severity gate reused in editorial gating instead of re-coded independently,-2,-3,T02/T11↔T03/T10,CONDITIONAL_DUPLICATE_CREDIT,POSSIBLE_ONLY_IF_TIMELOG_PROVES_EXACT_SAME_WORK
+O03,T03/T10↔T04,"Same raw forms/data entry used for scoring and later agreement, not independent new scoring",-2,-2,T03/T10↔T04,CONDITIONAL_DUPLICATE_CREDIT,POSSIBLE_ONLY_IF_TIMELOG_PROVES_EXACT_SAME_WORK
+O04,T03/T10↔T05,"Text-level German/English register/speakability checks reused, *not* translation equivalence",-1,-1,T03/T10↔T05,CONDITIONAL_DUPLICATE_CREDIT,POSSIBLE_ONLY_IF_TIMELOG_PROVES_EXACT_SAME_WORK
+O05,T03/T10↔T06,Text-to-storyboard referent map used for both semantic/accessibility desk rubric,-1,-1,T03/T10↔T06,CONDITIONAL_DUPLICATE_CREDIT,POSSIBLE_ONLY_IF_TIMELOG_PROVES_EXACT_SAME_WORK
+E01,A1-0,Case selection/primary packet inventory & version intake,3,6,Exclude T01 identical license checking,ADDITIONAL_REQUIRED_SETUP,PRELIMINARY_ASSUMPTION_NOT_STAFF_QUOTE
+E02,A1-0,Pre-registration masking/order and no-peek protocol implementation,4,8,NOT_ALREADY_INCLUDED_IN_38_TO_69,ADDITIONAL_REQUIRED_SETUP,PRELIMINARY_ASSUMPTION_NOT_STAFF_QUOTE
+E03,T10,Separate calibration/negative fixtures (not drafted yet),3,6,NOT_ALREADY_INCLUDED_IN_38_TO_69,ADDITIONAL_REQUIRED_SETUP,PRELIMINARY_ASSUMPTION_NOT_STAFF_QUOTE
+E04,A1-close,"Director-quality reporting, manifest and archive/review close",3,6,NOT_ALREADY_INCLUDED_IN_38_TO_69,ADDITIONAL_REQUIRED_SETUP,PRELIMINARY_ASSUMPTION_NOT_STAFF_QUOTE
+E05,A1-0,OPTIONAL: create owned paired candidate/comparator case texts (NOT AUTHORIZED),16,32,NOT_ALREADY_INCLUDED_IN_38_TO_69,OPTIONAL_UNAUTHORIZED_AUTHORING,PRELIMINARY_ASSUMPTION_NOT_STAFF_QUOTE

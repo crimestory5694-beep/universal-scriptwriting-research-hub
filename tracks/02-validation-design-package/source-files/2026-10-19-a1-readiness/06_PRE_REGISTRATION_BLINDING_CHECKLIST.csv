@@ -1,0 +1,23 @@
+﻿check_id,preregistered_item,scope,status,proof_or_version,owner,hard_gate,execution_permitted
+PR01,"Case inclusion/exclusion, canonical category and language; 8 cases/2 per category",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR02,Legal identity and permission to review/transform each case text,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR03,"Primary source packet version, as-of dates and actual locator list",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR04,Counterfactual candidate/comparator factual equivalence and author separation,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR05,No K evidence roles promoted from caption/index/context to causal efficacy,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR06,A1-RUBRIC-mapping v0.1 proposal locked against original four-category weights,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR07,Text-level speakability only; actual audio-prosody explicitly NOT_OBSERVED,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR08,Storyboard semantic alignment only; real video sync explicitly NOT_OBSERVED,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR09,Four-to-eight separate calibration and true-negative / legitimate N/A fixtures,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR10,Critical factual severity definitions and NOT_CHECKABLE versus 0 distinctions,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR11,"Two independent domain reviewers per case, conflict and fluency screen",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR12,Independent bilingual meaning check only if owner-cleared pair exists,TRANSFER,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,IF_INCLUDED,NO
+PR13,"Authorless blind labels and secret mapping key, protected by non-rater steward",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR14,Counterbalanced presentation order; reviewer exposure trace,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR15,Separate sources needed to verify claims remain visible; no fake source blinding,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR16,Predefined randomization seed or deterministically archived ordering rule,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR17,"Frozen raw forms before discussion, timestamp/immutable version control",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR18,"Predeclared agreement table, subgroup stats, small-n caveat, NA handling",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR19,"Predefined severity escalation, immediate stops and replacement policy",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR20,"No measurement labels for viewer retention, actual listening or natural audio",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR21,"Risk-aware data access, retention, deletion and audit log",ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO
+PR22,Signed Director execution authorization listing actual named packets and people,ALL,PENDING_DESIGN_ONLY,NONE_VERIFIED,NOT_ASSIGNED,YES,NO

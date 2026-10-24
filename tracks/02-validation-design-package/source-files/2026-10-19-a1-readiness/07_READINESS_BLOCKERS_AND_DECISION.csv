@@ -1,0 +1,13 @@
+﻿blocker_id,applies_to,area,blocker,severity,resolution_required,path_status
+G01,ALL,CASE_INVENTORY,Eight actual creator-owned/permissioned case subjects are not named or verified,HARD,Director-approved 8-case owners and identities,CONDITIONAL
+G02,ALL,RIGHTS,"No signed lawful access, derivative comparison/translation grants, or restricted-source checks",HARD,Per-case title/rightsholder license evidence,CONDITIONAL
+G03,ALL,PRIMARY_FACTS,No A1 per-claim primary fact packets and dated source locators verified,HARD,Case source ledger and original primary documents,CONDITIONAL
+G04,ALL,TEXT_PAIRS,No 16 authorized matched text versions; authoring explicitly not permitted at readiness phase,HARD,Authorized owner text pairs or separate material-creation approval,CONDITIONAL
+G05,ALL,INDEPENDENCE,"No independent rater roster, qualification checks or adjudicator confirmed",HARD,Two qualified raters per case + non-scoring adjudicator + conflict disclosure,CONDITIONAL
+G06,TRANSFER_ONLY,BILINGUAL,No rights-cleared DE/EN transfer pairs or independent bilingual reviewer,SCOPE_DEPENDENT,Licensed bilingual pair and independent meaning evaluator OR exclude transfer,CONDITIONAL
+G07,STORYBOARD_ONLY,VISUAL,No owned storyboard/diagram pairs or versions declared,SCOPE_DEPENDENT,Permissioned semantic storyboard or mark T06 not assessable,CONDITIONAL
+G08,ALL,PREREG,Rubric mapping/fixture calibration/blind assignment plan not frozen,HARD,"Prereg signature with case list, blind seed/assignment and fixtures",CONDITIONAL
+G09,ALL,STAFFING,Historic hours overlap not verified; cash/labor budget and availability absent,HARD,"Detailed time-map, roles and signed budget allocation",CONDITIONAL
+G10,MEDIA_DEPENDENT,AUDIO_OR_VIDEO,Native original player audio/sync needed by any expanded A1 interpretation is unavailable and out of scope,PROHIBITION,Remove media-dependent evaluation; do not execute it under A1,BLOCKED
+G11,ANY_ANALYTICS,OWNER_DATA,Owner Analytics not allowed by A1 scope and not requested,PROHIBITION,Separate approved C research protocol; no A1 substitute,BLOCKED
+G12,HISTORICAL_V_CASE,COMPETITOR_CAPTIONS,V01–V12 third-party caption/media reuse permissions unverified,PROHIBITION,Avoid using third-party case content or seek explicit new rights decision outside A1,BLOCKED

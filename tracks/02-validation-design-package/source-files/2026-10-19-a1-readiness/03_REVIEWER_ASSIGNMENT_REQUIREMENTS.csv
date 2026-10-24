@@ -1,0 +1,12 @@
+﻿assignment_id,case_ids,required_role,expertise,language_requirement,name_verified,consent_or_availability_verified,conflicts_screened,preregistered_masked_id,must_not_author_variants,must_not_read_other_ratings_until_locked,assigned
+HIST_DE-R1,A1-H01;A1-H02,INDEPENDENT_EDITORIAL_RATER,WW-era historical source criticism; public history ethics,DE native-level,NO,NO,NO,NOT_CREATED,YES,YES,NO
+HIST_DE-R2,A1-H01;A1-H02,INDEPENDENT_EDITORIAL_RATER,WW-era historical source criticism; public history ethics,DE native-level,NO,NO,NO,NOT_CREATED,YES,YES,NO
+AVIATION_EN-R1,A1-A01;A1-A02,INDEPENDENT_EDITORIAL_RATER,Aerospace engineering; aviation procurement as appropriate,EN professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+AVIATION_EN-R2,A1-A01;A1-A02,INDEPENDENT_EDITORIAL_RATER,Aerospace engineering; aviation procurement as appropriate,EN professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+WEATHER_EN-R1,A1-W01;A1-W02,INDEPENDENT_EDITORIAL_RATER,US operational meteorology; hazardous communication,EN-US professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+WEATHER_EN-R2,A1-W01;A1-W02,INDEPENDENT_EDITORIAL_RATER,US operational meteorology; hazardous communication,EN-US professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+PSYCH_EDU_EN-R1,A1-P01;A1-P02,INDEPENDENT_EDITORIAL_RATER,Psychology methods and education/non-diagnostic ethics,EN professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+PSYCH_EDU_EN-R2,A1-P01;A1-P02,INDEPENDENT_EDITORIAL_RATER,Psychology methods and education/non-diagnostic ethics,EN professional,NO,NO,NO,NOT_CREATED,YES,YES,NO
+A1-LANG-DEEN,DE/EN TRANSFER ONLY IF PERMISSIONED PAIRS EXIST,INDEPENDENT_BILINGUAL_MEANING_REVIEWER,Native German proficiency plus high English fluency; scholarly translation / documentary register,DE native + EN C1/C2 equivalent,NO,NO,NO,NOT_CREATED,YES,YES,NO
+A1-ADJ,ALL A1 cases,NONSCORING_ADJUDICATOR_METHODS_LEAD,"Source audit, research methods, conflicts and severity coding; case expert consulted without replacing ratings",DE adjudication requires an independent DE-qualified consultant when needed,NO,NO,NO,NOT_CREATED,YES,N/A_POST_LOCK_ONLY,NO
+A1-COORD,ALL A1 cases,MASKING_DATA_STEWARD,Secure case-handling; maintains code key separate from raters,N/A,NO,NO,NO,NOT_CREATED,YES,YES,NO
