@@ -1,3 +1,11 @@
+## Batch16 and Batch17 publication-safe ZIPs both verified — 2026-10-24
+
+- **Batch16:** [17,594-byte public-safe ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/EDU_BATCH16_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), SHA `8020aefa7a115eec09fc229af0d24618a7b740a3`, 6/6 internal file CRC verified. [Receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/05_PUBLIC_SAFE_ZIP_VERIFICATION_RECEIPT.md).
+- **Batch17:** [17,934-byte public-safe ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), SHA `1d4510a653cce4359b33d919e0217db6fbd86d5b`, 7/7 internal file CRC verified.
+- **Neither** publication-safe ZIP is identical to, nor includes all content of, the privately retained full original Batch16/17 research ZIPs. Source redistribution/rights review remains in effect.
+
+---
+
 ## Batch17 full-original vs PUBLIC-safe GitHub ZIP (2026-10-24)
 
 **New verified binary ZIP:** [EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip) — **17,934 bytes**, Git blob `1d4510a653cce4359b33d919e0217db6fbd86d5b`, 7/7 ZIP entries CRC checked. This ZIP contains six rights-filtered B17 research files plus a README. **It is not the 637,651-byte original B17 research ZIP, which remains separately held and not published.** Future requested educational research batches use [the same rights-safe ZIP publication and verification workflow](EDU_BATCH_PUBLICATION_WORKFLOW.md).
