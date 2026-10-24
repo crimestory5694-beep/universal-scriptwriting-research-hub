@@ -1,3 +1,9 @@
+## Batch17 full-original vs PUBLIC-safe GitHub ZIP (2026-10-24)
+
+**New verified binary ZIP:** [EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip) — **17,934 bytes**, Git blob `1d4510a653cce4359b33d919e0217db6fbd86d5b`, 7/7 ZIP entries CRC checked. This ZIP contains six rights-filtered B17 research files plus a README. **It is not the 637,651-byte original B17 research ZIP, which remains separately held and not published.** Future requested educational research batches use [the same rights-safe ZIP publication and verification workflow](EDU_BATCH_PUBLICATION_WORKFLOW.md).
+
+---
+
 ## Latest educational execution — Batch 17 (2026-10-24)
 
 - **Actual original research:** EDU-SRC0009 (`3 Storytelling Examples From The Most Iconic CEOs`) read in full from original `transcripts (2).zip` and SHA-256 verified; 11 new source-grounded provisional claims `EDU-C1020–EDU-C1030`.
