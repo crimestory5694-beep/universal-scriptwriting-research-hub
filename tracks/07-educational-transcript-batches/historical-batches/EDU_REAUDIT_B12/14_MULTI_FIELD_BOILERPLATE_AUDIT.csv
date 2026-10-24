@@ -1,0 +1,10 @@
+﻿Field,Total records,Distinct values including placeholders,Distinct non-placeholder values,Placeholder count,Frequent repeated substantive values,Disposition
+Detailed explanation (English),54,54,54,0,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Creator instruction,54,54,53,1,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Mechanism or reasoning offered,54,54,53,1,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Supporting example,54,54,54,0,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Applies when,54,54,54,0,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Exception or caution,54,4,3,51,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Claimed result,54,54,54,0,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
+Example classification,54,45,45,0,3x CREATOR_PERSONAL_EXPERIENCE; 4x EXTERNAL_FILM_AND_OWN_VIDEO_EXAMPLES; 3x CREATOR_OWN_EXAMPLE,MANUALLY_REVIEW_CONTEXTUAL_REPETITION
+Potential research value,54,54,54,0,,NO_GENERIC_SUBSTANTIVE_FILLER_DETECTED
