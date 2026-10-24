@@ -1,0 +1,10 @@
+feasibility_group,protocols,work_unit,estimated_staff_effort,external_spend,access_preconditions,limitation
+A,T01,Internal provenance/licensing desk review,3–6 staff-hours,0 external subscription spend; labor not free,Sealed baseline + rights declarations,"No license? block item, do not assume public access"
+A,T02/T11,Factual/ethical claim review,12–22 staff-hours,0 service spend; additional archival lookup unbudgeted,Primary dated source packets; domain experts,Missing verified primary source -> NOT_CHECKABLE
+A,T03/T10,Editorial suitability/counterexample scoring,12–20 staff-hours,0 service spend; case drafting/authoring extra,Rights-cleared test passages; 2 editors per category,"Only scores writing quality, not views"
+A,T04,Independent agreement management,4–8 staff-hours,0 service spend; people time,Blind scoring and reserved adjudicator,Reliability unstable with small pilot
+A,T05,DE/EN native-language meaning review,4–7 staff-hours,0 service spend; translator not rater,German/English qualified independent reviewers,Unavailable expertise -> defer bilingual gate
+A_OR_D,T06,Semantic visual and accessible-information desk review,3–6 staff-hours,0 service spend with owned storyboard,"Storyboard, accessible diagrams/caption source",Original V playback not presumed
+B,T07/T08/T09,Consented human spoken comprehension,"Not priced: design, ethics, participant compensation and recording needed",Approval and cost ceiling must be set,Opt-in representative listeners and lawful audio,Never launch without explicit approval
+C,T12,Owner Analytics retention design,"Not priced: owner, statistician, power design",Owner-controlled analytics + valid exposure assignment,Owner consent and privacy review,No randomization/owner data -> no causal retention result
+D,T13,Original video native caption/audio access,Blocked/no amount estimated,No paid transcript retrieval authorized,Legal primary player access and rights,No speculative timestamps or audio
