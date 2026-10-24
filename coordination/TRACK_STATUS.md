@@ -1,3 +1,15 @@
+## Latest educational research execution: Batch16 — 2026-10-24
+
+- **Original text execution:** EDU-SRC0008 `3 Stories Every Entrepreneur Needs to Know` — original ZIP member hash verified, entire 10,157-character caption/ASR source read. **11 provisional new claims EDU-C1009–EDU-C1019** (each text-anchored and bounded).
+- **Historical QA:** EDU-SRC0114 `Storytelling Science To Hook Viewer Till End` — original ZIP member hash verified, entire 11,846-character caption/ASR source read. **16/16 original claims EDU-C0081–EDU-C0096** audited and append-only qualifications recorded; no original claim rewritten.
+- **New totals:** `162 historical source IDs`; **44 reviewed**, **114 first-time reviews pending**, **4 historical QA pending**, **118 total pending**; **1,019 provisional claims** and next unused ID **EDU-C1020**.
+- **Next fixed queue:** first-time `EDU-SRC0009`, historical QA `EDU-SRC0123`, both subject to fresh original-member checks.
+- **Original downloadable Batch16 package** exists outside PUBLIC GitHub: `EDU_BATCH16_SOURCE_EXTRACTION_AND_QA_2026-10-24.zip` (317,127 bytes; SHA-256 `3d4e86df63a2646ac4f54a99ce1e240e8f2f7d6f1ef1a1ae5f7eac773b8dc643`). Third-party raw transcript ZIPs not included or published to the PUBLIC repository.
+- **Public-safe GitHub outputs (5):** [Batch16 status](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/00_PUBLIC_SAFE_BATCH16_REPORT.md), [11 new claims](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/01_PUBLIC_SAFE_11_NEW_CLAIMS.csv), [16 QA](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/02_PUBLIC_SAFE_16_HISTORICAL_QA.csv), [status delta](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/03_SOURCE_PROGRESS_DELTA.csv), [integrity and rights](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/04_SOURCE_AND_RIGHTS_MANIFEST.md).
+- Audio/video cue verification, creator neuroscience or sales-effect proof, 13 validation experiments, full educational-corpus closure and final `SKILL.md` authorization: **NOT COMPLETE / NOT APPROVED**.
+
+---
+
 ## Batch 15 actual GitHub publication verified — 2026-10-24
 
 Track 07 Batch15 directory now holds **12 GitHub files** including its earlier summary, six exact original publication-safe source documents, three clearly labelled public-safe derivatives, SHA/provenance publication manifest and verified upload report. The 25 new claim IDs and nine historical QA decisions are represented in public-safe registers. **The complete 10.65-MB original Batch15 ZIP, source-dense 1008-claim CSV, and historical B14 ZIP are NOT on this PUBLIC repository; original bytes remain in the separately delivered user ZIP.** Claims and QA are still text-only research, not retention validation.
