@@ -1,3 +1,18 @@
+## Latest educational source execution: Batch15 (2026-10-24)
+
+**Executed from original Library transcript archives, not from reconstructed prior summaries:**
+
+- `EDU-SRC0006` original member hash matched; whole 18,665-character transcript reviewed; **25 new provisional claims EDU-C0984–EDU-C1008** recorded in a separate private research package.
+- `EDU-SRC0021` original member hash matched; whole 6,556-character transcript reviewed; **9/9 historical claims EDU-C0031–EDU-C0039** independently text-QA checked; historical rows unchanged, qualifications appended.
+- Updated coverage: **42/162 source units reviewed**, **115 first-time pending + 5 historical QA pending = 120 open reviews**, **1,008 provisional claim IDs**, **EDU-C1009 next unused**.
+- Next source by verified pending queue: `EDU-SRC0008`; next historical QA: `EDU-SRC0114`. Source `EDU-SRC0007` is already Batch04 reviewed, not pending.
+- Original user-held third-party transcript ZIP bytes and historical source-dense full research package **NOT uploaded to this public repository**.
+- This is source-content extraction/QA, not independent audio verification, viewer effect evidence, validation experiments, or production `SKILL.md` clearance.
+
+[Publication-safe Track07 B15 receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/00_PUBLIC_SAFE_B15_PROGRESS.md) · [Append-only progress delta](EDU_BATCH15_2026-10-24_PROGRESS_DELTA.csv). Prior Batch14 completion policy remains valid; older register versions are preserved for provenance.
+
+---
+
 ## Research Director decision: Education Batch14 pending coverage (2026-10-24)
 
 **Coverage policy decided:** all 116 first-time source dispositions + 6 historical independent QA reviews must be resolved to declare **the entire 162-source educational corpus** complete. This is a completeness criterion, not a promise that every source yields script rules, and not a prerequisite automatically imposed on independently authorized narrow test planning.
