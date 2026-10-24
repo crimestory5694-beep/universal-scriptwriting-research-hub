@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch28 (2026-10-25)
+
+- **Original:** EDU-SRC0025 *Ai Se Na Ho Paayega! 💀#shortsfeed #shorts #ai*, full original `transcripts.zip` member **4,242 strict UTF-8 bytes / 1,968 decoded characters**, member SHA256 `046df9c6d929959bb4cfc97b73d021cb1d3094cb164a5283c84d05507279bf8e` historic register MATCH, source ZIP CRC PASS; native video/audio unverified.
+- **15 new provisional source-anchored claims:** `EDU-C1415`–`EDU-C1429`, exact unique original phrase plus character/UTF-8 byte interval checks 15/15 PASS. Source comprises an approx 84-second creator Short, **not** a validated AI capability or future AGI study.
+- **Cumulative:** **1,429 claims**, **60/162** registered sources fully original-text reviewed, **102 first-time reviews pending**, old historical six-source text QA **0** pending. Next claim **`EDU-C1430`**. Next original **`EDU-SRC0026`** *Build No Code Web & Apps To Make One Person Company in 2024.*, original `transcripts.zip`, historical member SHA256 `2812ff5c01f920c5bcf4420800dce515eeb829bd3ec6b81eaa43c2019ec77ab1` to reverify before research.
+- **Original preservation:** old 1,414-row full private cumulative CSV **3,546,165 bytes**, SHA256 `b0cf424b27e616d53e5c32fd6ddbf99487bb5445fd499ff9da1ae60db632b800` byte-for-byte exact prefix, original Batch27 ZIP 4,414,357 bytes unchanged nested. New **PRIVATE** `EDU_BATCH28_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip` **4,855,326 bytes**, SHA256 `1364a79e64a84cae0cb1ad79b620b9c245a69efc4212cf54cb792291376e84b5`, 13/13 CRC and 12/12 manifest SHA PASS, **NOT on PUBLIC GitHub**.
+- **GitHub PUBLIC-safe research ZIP:** [Batch28 11,147-byte binary ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/EDU_BATCH28_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), Git blob SHA-1 `84ed26ec8c481d410357510e2b2b898188d3b10d`, exact GitHub remote byte read-back and five ZIP entry CRC checks PASS; [full Batch28 GitHub receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/04_GITHUB_UPLOAD_RECEIPT.md).
+- **OPEN historical check:** Previous Batch25 top-level original ZIP checksum discrepancy **UNRESOLVED**, old history preserved. AI-design, designer identity, future AGI psychology, market saturation and alleged causal outcomes unverified.
+- **Rights and approval:** `PUBLIC_RIGHTS_LIMIT`, no raw third-party full transcript in public repository, native A/V and T01–T13 scientific trials not verified/executed; `CLAUDE_TRANSFER_HOLD`, `PRODUCTION_SKILL_HOLD`.
+
+---
 ## Latest educational source execution — Batch27 (2026-10-25)
 
 - **EDU-SRC0024:** *A Big Problem with Faceless Channels. (Fix)* exact original 46,139 UTF-8 bytes / 21,671 characters, SHA256 `ece754379890e0219b4834558ec8ddc6b88f6503b5b4dfe433c1df3e162379ca` matching 162-source register; original source ZIP CRC PASS; native A/V not reviewed; 4 malformed caption :60 cues.
