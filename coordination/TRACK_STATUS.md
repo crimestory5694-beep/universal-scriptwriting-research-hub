@@ -1,3 +1,23 @@
+# Current Verified Archive Snapshot — Step 1 Recovery (24 October 2026)
+
+**Latest:** 20 original research files (612,752 bytes) appended and exact-blob verified. GitHub had 300 tracked files immediately before the two new Step 1 director report documents; Track 04 now has all 33/33 identified standalone historical text/metadata originals, though three original ZIP containers are not published. Public-safe historical archival remains partial across the whole project.
+
+| Track | Current file paths | Status |
+|---|---:|---|
+| 01 Knowledge inventory | 6 | PARTIAL; S01–S63 original source master recovered |
+| 02 Validation design | 72 | PUBLIC-SAFE TEXT UPLOADED; four original ZIP packages withheld |
+| 03 Research synthesis | 24 | PARTIAL; additional ZIP-only reports await recovery |
+| 04 YouTube Script DNA | 39 | 33/33 standalone historical originals PRESENT; three binary ZIP containers withheld |
+| 05 Evidence extraction | 46 | PARTIAL; newly recovered source registers, scratches/ZIP gaps remain |
+| 06 Audit integrity | 20 | PARTIAL; original core 90-F audit datasets preserved |
+| 07 Educational batches | 86 | PARTIAL; source rights and research completion outstanding |
+
+See [new director report](DIRECTOR_STEP1_RECOVERY_2026-10-24.md) and [exact file receipt](STEP1_RECOVERED_FILES_2026-10-24.csv).
+
+---
+
+## Previous historical tracking snapshot (preserved)
+
 # Central Research Archive — Verified Repository State
 **Director review date:** 2026-10-24  · **Repository:** `crimestory5694-beep/universal-scriptwriting-research-hub` · **Branch:** `main` · **Visibility:** PUBLIC.
 
