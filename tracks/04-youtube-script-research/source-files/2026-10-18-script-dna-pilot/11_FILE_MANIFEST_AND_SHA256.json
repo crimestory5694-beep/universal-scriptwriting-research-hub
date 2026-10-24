@@ -1,0 +1,66 @@
+{
+  "pilot_status": "COMPLETE_WITH_TIMESTAMP_AND_AUDIO_LIMITATIONS",
+  "file_count": 12,
+  "files": [
+    {
+      "file": "00_README_AND_DIRECTOR_HANDOFF.md",
+      "size_bytes": 2831,
+      "sha256": "c78ac2a7a9f609272e6e764f5634e5f17a8a3a85a43586ccfff91b38c473b0fe"
+    },
+    {
+      "file": "01_VERIFIED_12_VIDEO_RESEARCH_REGISTER.csv",
+      "size_bytes": 5915,
+      "sha256": "9f8e2ea3427cfdbbe6bbb6a080595d717c84ff8a3f7fcf78b1ce8f37f47d2024"
+    },
+    {
+      "file": "02_SPOKEN_CONTENT_ACCESS_AND_RIGHTS.csv",
+      "size_bytes": 7374,
+      "sha256": "1e99d31bfdbdc776e60035a90628db5ad8184110c10951d77d03612e5992ced2"
+    },
+    {
+      "file": "03_TWELVE_INDIVIDUAL_SCRIPT_DNA_EVIDENCE_CARDS.md",
+      "size_bytes": 37167,
+      "sha256": "432b92a072e5a73f597b6f0979ad4c316c6a9c4904a4bc92b46e4e9ca1dea8a7"
+    },
+    {
+      "file": "04_FOUR_CATEGORY_SPECIFIC_COMPARISONS.md",
+      "size_bytes": 5635,
+      "sha256": "44b01cb546286615695302e9b3975bfa73f97407cc6e11a2d3413d047962be85"
+    },
+    {
+      "file": "05_CROSS_CATEGORY_SCRIPTWRITING_COMPARISON_MATRIX.csv",
+      "size_bytes": 2782,
+      "sha256": "8e50c4c969e8179886c53f3be7e7b6519074b3c38a644a84f7db07f01e0d4b89"
+    },
+    {
+      "file": "06_HOOK_CURIOSITY_PACING_AND_PAYOFF_SYNTHESIS.md",
+      "size_bytes": 2921,
+      "sha256": "6d2a65b8d194a7624448483566c71fd3af0eb626e34efa59bc6a1a03ef153691"
+    },
+    {
+      "file": "06_HOOK_CURIOSITY_PACING_PAYOFF_AUDIT.csv",
+      "size_bytes": 11339,
+      "sha256": "1e678bf11c73e24d6952f8c9945b7ff781c80124517a2c07fe4f74f484201b3a"
+    },
+    {
+      "file": "07_COUNTEREXAMPLES_AND_CONTRADICTIONS.md",
+      "size_bytes": 3973,
+      "sha256": "84ed56ea46c06f8e3cfb39a14858d1317b8ea90156585c92ca751a18d5a92b55"
+    },
+    {
+      "file": "08_CANDIDATE_CONNECTIONS_TO_EXISTING_R_F_RESEARCH.csv",
+      "size_bytes": 2888,
+      "sha256": "91fe52bfcb6f53c05d5f0d9e5b6da145a0cc90c2893da397777d4fa1efa92767"
+    },
+    {
+      "file": "09_RESEARCH_GAPS_AND_EXACT_CONTINUATION_CHECKPOINT.md",
+      "size_bytes": 4038,
+      "sha256": "5ef58539fe04b7c81a0d1bad7b3e34845491ae99af5b30fb4b0861a31edee68d"
+    },
+    {
+      "file": "10_SOURCE_METHOD_AND_RIGHTS_NOTES.md",
+      "size_bytes": 3892,
+      "sha256": "7da4f1b6d5ed459ba143d4326de9c8d663fde67bdb3a8a3d8d643054f8ce5c34"
+    }
+  ]
+}
