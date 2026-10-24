@@ -1,0 +1,23 @@
+﻿pilot_video_id,existing_r_id_UNCHANGED,existing_f_id_UNCHANGED,existing_finding_short_label,pilot_observation_NOT_a_validation,relationship_NOT_APPROVAL
+V01,R133,F-100,No fabricated dialogue/composites,Warns: reconstructing historical dialogue without citation; literature/caption does not verify exact quotes,CHECK_REQUIRED
+V01,R145,F-070,Never present unverified as verified,Precise clock and interior thought require evidence,CHECK_REQUIRED
+V02,R137,F-010,Three-act default not mandate,Collective multi-voice arc is not one rigid character act structure,QUALIFIES
+V02,R149,F-170,Modality and visual access,Archival film and multiple speakers may need narration of essential visual facts,QUALIFIES
+V03,R133,F-100,No misleading historical compression,Haape memoir anchor vs dramatized scene assertions,CHECK_REQUIRED
+V03,R145,F-201,Assert no more than evidence,Ancestry/diary quotations need corroboration,CHECK_REQUIRED
+V04,R158,F-063,Chunk learning,Component-by-component B-58 explanation illustrated by narration order,OBSERVATIONAL_ANALOGY
+V04,R149,F-170,Narrating visual references,“This” aircraft anatomy needs accessible exposition,CHECK_REQUIRED
+V05,R079,F-063,Segmented explanation and examples,"Record story→manual→heat/engine system, not outcome data",OBSERVATIONAL_ANALOGY
+V05,R145,F-070,Verification,Manual numerics and contested speed anecdotes,CHECK_REQUIRED
+V06,R145,F-201,Uncertainty claims,Contract is contemporary fact; future aircraft claims are forecasts,CHECK_REQUIRED
+V06,R137,F-015,Hierarchy,Numbered parts and engineering subtopics nested in procurement narrative,OBSERVATIONAL_ANALOGY
+V07,R145,F-070,Verification,"Needs dated storm and models, not sensational headline as evidence",CHECK_REQUIRED
+V07,R079,F-180,Fixed timing model,Mid-video sponsorship and event update illustrate limits of fixed timed template,QUALIFIES
+V08,R161,F-022,Metric/pacing confusion,View numbers are not script effectiveness and same-week event urgency confounds,QUALIFIES
+V09,R161,F-022,Metric/pacing confusion,Successive updates from one source are not independent channel outcomes,QUALIFIES
+V10,R079,F-063,Cognitive chunking,Vignette→definition→mechanism→strategy order resembles educational chunking,OBSERVATIONAL_ANALOGY
+V10,R157,F-201,Supported claims,Student-study and brain assertions need bibliographic confirmation,CHECK_REQUIRED
+V11,R163,F-190,Readability is not listening,Colloquial delivery changes comprehension; Flesch scores not validated as listener outcomes,QUALIFIES
+V11,R079,F-063,Teaching via examples,"Funny cortex/limbic story is one teaching scaffold, scientifically simplified",OBSERVATIONAL_ANALOGY
+V12,R137,F-010,Three-act not mandate,Extended mood metaphor instead of named acts,QUALIFIES
+V12,R145,F-201,Evidence exceeds assertion,Philosophical mood claims are not experimental neuroscience evidence,CHECK_REQUIRED
