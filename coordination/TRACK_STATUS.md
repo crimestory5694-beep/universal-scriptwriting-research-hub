@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch29 (2026-10-25)
+
+- **Original source:** EDU-SRC0026, *Build No Code Web & Apps To Make One Person Company in 2024.*, full original `transcripts.zip` member **23,429 strict UTF-8 bytes / 10,963 decoded characters**, SHA-256 `2812ff5c01f920c5bcf4420800dce515eeb829bd3ec6b81eaa43c2019ec77ab1` matched historic 162-source register; source ZIP CRC PASS. Hindi/English 2024 no-code tutorial, caption skips noted; native A/V NOT verified.
+- **Research:** **55** new distinct source-anchored provisional claims `EDU-C1430`–`EDU-C1484` (55/55 original character and byte checks PASS), older **1,429-row / 3,588,889-byte** complete original CSV SHA-256 `c393ece74349c12e1c1c5ef973283a6b2aae2a5103a44d7627bb16c47235d713` unchanged exact binary prefix. Original Batch28 ZIP unchanged nested.
+- **Cumulative:** **1,484 provisional claim IDs**, **61/162** original full source-text reviewed, **101 first-time pending**, old six-source historical QA **0 pending**. Next `EDU-C1485`; next genuinely unreviewed `EDU-SRC0027` *Can 20 year Old do this*, source archive `transcripts.zip`, historical expected original SHA-256 `6e2e255cdbb11ec5c12de9f045df62a2b6d1abd1ecb7ae21907cde542662ced9`, reverify.
+- **PRIVATE original ZIP:** `EDU_BATCH29_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, **5,323,991 bytes**, SHA-256 `6d1bad51d95e00d1071d04ca48ead0182eefa585419ac9a98fd00cfd7ded734c`, 13/13 ZIP entries CRC, internal 12/12 SHA manifest PASS; previous B28 original ZIP nested byte-identical. NOT uploaded to PUBLIC GitHub.
+- **PUBLIC-safe binary GitHub ZIP:** [B29 verified 18,561-byte derivative](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/EDU_BATCH29_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), current binary Git blob `7563d551e2949af279a626c6ea9a128ec929d387`, 5/5 ZIP entries CRC and GitHub byte-size/blob checks PASS. [B29 upload receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/04_GITHUB_UPLOAD_RECEIPT.md). Historical no-code product pricing, founders, valuations, software claims not independently verified.
+- **Open issues:** B25 original ZIP top-level SHA discrepancy UNRESOLVED. PUBLIC_RIGHTS_LIMIT, original A/V verification not executed, scientific T01–T13 NOT_EXECUTED, CLAUDE_TRANSFER_HOLD and PRODUCTION_SKILL_HOLD.
+
+---
+
 ## Latest educational source execution — Batch28 (2026-10-25)
 
 - **Original:** EDU-SRC0025 *Ai Se Na Ho Paayega! 💀#shortsfeed #shorts #ai*, full original `transcripts.zip` member **4,242 strict UTF-8 bytes / 1,968 decoded characters**, member SHA256 `046df9c6d929959bb4cfc97b73d021cb1d3094cb164a5283c84d05507279bf8e` historic register MATCH, source ZIP CRC PASS; native video/audio unverified.
