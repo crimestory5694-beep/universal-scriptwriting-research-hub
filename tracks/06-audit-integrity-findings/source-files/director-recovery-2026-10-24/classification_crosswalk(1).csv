@@ -1,0 +1,62 @@
+﻿id,map_title,ledger_title,map_line,string_similarity
+F-100,One idea per sentence,"No fabricated dialogue, composite characters, or misleading compression",29,0.044
+F-101,Short/familiar words default,Four-stage reporting funnel with stop conditions,30,0.297
+F-102,Active voice default,"Subject rights — consent, privacy, power imbalance, harm assessment",31,0.193
+F-105,Avoid jargon / define when necessary,MISSING,32,0
+F-106,Consistent terminology,MISSING,33,0
+F-107,Read aloud as verification method,MISSING,34,0
+F-108,Avoid nominalizations (hidden verbs),MISSING,35,0
+F-109,Inclusive language,MISSING,36,0
+F-203,Core message discipline (≤15 words),Core message discipline — every script reducible to ≤15 words,37,0.69
+F-110,Voice vs. tone distinction,Mystery — fair-play doctrine,38,0.157
+F-140,Anti-AI pattern awareness,Transition weight should match what's skipped,39,0.294
+F-120,Multi-source verification for factual claims,"Three-dimensional prose rating — novelty, clarity, prose quality",40,0.33
+F-121,Fact-checking as atomic decomposition,Atomic fact decomposition for factual verification,41,0.465
+F-205,No fabricated evidence,Anti-hallucination protocols for AI-assisted writing,42,0.361
+F-206,Continuity review across domains,Continuity review across four domains,43,0.928
+F-103,"Direct ""you"" address",MISSING,49,0
+F-104,Present tense default,MISSING,50,0
+F-111,Use contractions,Mystery — clue planting techniques,51,0.327
+F-112,Front-load main point,Horror — monster rules must be established before exploitation,52,0.222
+F-180,Hook/context/body/climax/CTA structure,Hook/context/body/climax/CTA — timed script structure for 8–12 minute video,62,0.68
+F-181,Retention hooks every 60–90 seconds,Retention hooks every 60–90 seconds,63,1.0
+F-182,Caption-to-visual mapping,Semantic unit extraction before visual design — 7-type communicative function taxonomy,65,0.34
+F-170,Modality effect (audio + visual > text alone),"Modality effect — narrate visuals, don't caption them",66,0.615
+F-171,Split-attention effect,Split-attention effect — integrate related information spatially and temporally,67,0.429
+F-172,Redundancy effect,Redundancy effect — don't narrate on-screen text,68,0.548
+F-182,Semantic unit extraction (7-type taxonomy),Semantic unit extraction before visual design — 7-type communicative function taxonomy,69,0.628
+F-190,Readability formulas NOT valid for listening,All readability formulas were normed on written text reading — none validated for listening,75,0.657
+F-010,Scene/sequel framework,"Three-act as default, not mandate",97,0.154
+F-011,Try/fail escalation,Beats mapped to chapters with gap/clustering detection,98,0.31
+F-012,Show-don't-tell calibration,"Scene-sequel pattern — reaction, dilemma, decision",99,0.314
+F-013,Dialogue subtext (said want ≠ hidden want),Try-fail cycles with outcome values,100,0.164
+F-014,Deep POV zoom levels,Story opportunity assessment — GO / INVESTIGATE / STOP,101,0.254
+F-150,Psychic distance continuum,Psychic distance — control narrative proximity for emotional effect,102,0.5
+F-151,Free indirect discourse,Free indirect discourse — narrator's voice colored by character's perspective,103,0.474
+F-152,Sensory grounding through character,Sensory grounding — character-filtered specificity over catalog,104,0.583
+F-154,Sentence rhythm variation,Sentence rhythm — vary length and structure with intention,105,0.585
+F-220,Character motivation coherence,"Motivation coherence — characters act for internal reasons, not plot convenience",106,0.37
+F-221,Four-corner opposition,Four-corner opposition — characters as different approaches to the central moral problem,107,0.393
+F-015,Controlling idea / theme coherence,Hierarchical structure — scene/beat within arc/act within story,108,0.258
+F-016,Exposition drip-feed (cut test + knowledge test),MISSING,110,0
+F-130,Story opportunity assessment (GO/INVESTIGATE/STOP),Trust the reader — don't explain what they can infer,116,0.229
+F-131,6-level evidence taxonomy,Economy — every element does more than one job,117,0.206
+F-122,Data integrity verification,LLM writing anti-patterns — measurable dimensions,118,0.297
+F-123,"""Gut check"" principle",15-question story evaluation rubric,119,0.314
+F-124,Surprise result verification,Long-form coherence — segments must compose seamlessly,120,0.225
+F-125,Citation-first claim extraction,Faithfulness errors concentrate in events and character states,121,0.304
+F-126,Source criticism (Gottschalk),MISSING,122,0
+F-127,Grounded claims gate,MISSING,123,0
+F-173,Expertise reversal effect,Expertise reversal — designs that help novices hurt experts,130,0.554
+F-174,Scaffolding fading,Scaffolding fading across a series — worked examples → completion problems → independent practice,131,0.321
+F-204,Classic Style as default for exposition,Classic style as default for spoken delivery,134,0.771
+F-173,Expertise reversal effect,Expertise reversal — designs that help novices hurt experts,161,0.554
+F-111,Contraction use,Mystery — clue planting techniques,166,0.292
+F-103,"""You"" address",MISSING,167,0
+F-104,Present tense,MISSING,168,0
+F-020,Save the Cat 15 beats,Alternate high- and low-tension beats within a scene,179,0.319
+F-021,Hero's Journey 18 stages,End chapters/sections on forward momentum,180,0.262
+F-210,Crucible Structure 36 beats,Revelations as the engine of plot — target 7–10 major reveals,181,0.296
+F-022,Truby 22-step organic plot,"Pacing diagnostics — outcome patterns, sequel counts, length outliers",182,0.202
+F-023,MICE Quotient,Gather-point convergence as pacing tool,183,0.196
+F-211,Revelations as engine,Forge Point convergence crises — all narrative strands in simultaneous crisis,187,0.309
