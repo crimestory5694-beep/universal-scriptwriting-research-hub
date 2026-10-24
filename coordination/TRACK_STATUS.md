@@ -1,3 +1,13 @@
+## Latest cross-track integration decision — 24 October 2026
+
+**Completed:** a source-grounded Research Integration Audit across GitHub S/F, R, K, V, EDU and validation tracks. Canonical counts/IDs checked: 90 F, 171 R, 48 K (synthesis and validation one-to-one), 13 T, 42 R–F candidate links. No broken positive F/R/T references detected; F verdicts 20 PASS / 64 CONDITIONAL / 5 FAIL / 1 UNVERIFIED. 48/48 skill approval NO, 13/13 tests NOT_EXECUTED. Educational Batch14: 983 provisional claims, 116 pending first-time sources and 6 QA. This is **not experimental validity or final skill approval**.
+
+Research integration verdict: **CONDITIONAL_RESEARCH_INTEGRATION_ACCEPTED** · **SOURCE_CORPUS_PARTIAL** · **TEST_EXECUTION_HOLD** · **SKILL_MD_NOT_AUTHORIZED**.
+
+Files: [integration audit](RESEARCH_INTEGRATION_AUDIT_2026-10-24.md) · [48-K matrix](RESEARCH_INTEGRATION_K001_K048_2026-10-24.csv) · [EDU conceptual bridges](EDU_TO_K_CONCEPTUAL_BRIDGES_2026-10-24.csv) · [15 gaps](RESEARCH_INTEGRATION_GAP_LEDGER_2026-10-24.csv).
+
+---
+
 # Current Verified Archive Snapshot — Step 1 Recovery (24 October 2026)
 
 **Latest:** 20 original research files (612,752 bytes) appended and exact-blob verified. GitHub had 300 tracked files immediately before the two new Step 1 director report documents; Track 04 now has all 33/33 identified standalone historical text/metadata originals, though three original ZIP containers are not published. Public-safe historical archival remains partial across the whole project.
