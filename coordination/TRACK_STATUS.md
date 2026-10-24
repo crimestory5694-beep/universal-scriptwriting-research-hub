@@ -1,3 +1,11 @@
+## Batch 15 actual GitHub publication verified — 2026-10-24
+
+Track 07 Batch15 directory now holds **12 GitHub files** including its earlier summary, six exact original publication-safe source documents, three clearly labelled public-safe derivatives, SHA/provenance publication manifest and verified upload report. The 25 new claim IDs and nine historical QA decisions are represented in public-safe registers. **The complete 10.65-MB original Batch15 ZIP, source-dense 1008-claim CSV, and historical B14 ZIP are NOT on this PUBLIC repository; original bytes remain in the separately delivered user ZIP.** Claims and QA are still text-only research, not retention validation.
+
+[Open B15 upload report](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/11_GITHUB_UPLOAD_REPORT.md) · [publication manifest](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/10_GITHUB_PUBLICATION_MANIFEST.csv).
+
+---
+
 ## Latest educational source execution: Batch15 (2026-10-24)
 
 **Executed from original Library transcript archives, not from reconstructed prior summaries:**
