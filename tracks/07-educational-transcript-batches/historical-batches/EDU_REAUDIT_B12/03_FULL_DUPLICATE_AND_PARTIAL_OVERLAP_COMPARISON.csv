@@ -1,0 +1,4 @@
+﻿File,SHA256,Comparison,Shared 160-character probe counts,Handling
+"Pasted text (2)(20261019-104734).txt normalized fragment [282999,315539)",e89d968314ea3cb5bd98d76c7fe1420661b7ac05a54f679adfcc6f6f2f080bab,EXACT_CONCATENATION_OF_TWO_HISTORICAL_SOURCE_COPIES,33,"NO_NEW_SOURCE_ID; preserve both occurrences, one source teaching extraction"
+Historical 162-source hash inventory,59dbc78a69c41e1c4e60df05e5566f14194c3ee0dec726e952d24ce6e2c20479,EXACT_MATCH_ID_EDU-SRC0162,NA,NO_EDU-SRC0163; historical ID retained
+Archive comparison method,NOT_APPLICABLE,SCREENING_ONLY_FOR_PARTIAL_OVERLAP; NOT_A_CERTIFICATE_OF_ABSENCE,33 probes per readable member; 266 ZIP members checked,No possible non-equivalent file excluded on partial-overlap screen; cross-language semantic equivalence not assessed
