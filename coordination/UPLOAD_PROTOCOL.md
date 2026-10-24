@@ -1,8 +1,16 @@
 # Multi-chat Upload Protocol (v1)
 
-## Mandatory safety gate
+## Public repository safety and rights gate
 
-This repository was observed as **PUBLIC on 2026-10-24**. Before any research upload, verify its *current* GitHub visibility is **PRIVATE**. If not private, STOP. Never upload API keys, cookies, tokens, proprietary/private recordings, personal records, or copyrighted transcript corpora without appropriate permission. A private repository does **not** itself grant copyright or redistribution rights.
+The owner has chosen to keep this research hub **PUBLIC** for later retrieval by Claude Code Browser. Public visibility is not a blocker for **publishable, rights-cleared, nonconfidential research reports**. Before EACH file upload, check it can lawfully and safely be published to everyone on the internet.
+
+Allowed, after checking content and rights: original ChatGPT-authored analysis and brief paraphrases; non-sensitive original evidence ledgers, source URLs and research metadata; reports, corrections, manifests, checkpoints, tests or prompts authored for this project.
+
+NOT allowed for public publication without explicit relevant rights/consent: complete or substantial third-party transcripts; copyrighted books/course PDFs; private/paid/proprietary exports; user or third-party personal information; credentials, .env files, tokens, cookies; unpublished confidential research. A private repo would not automatically grant copyright rights either.
+
+For restricted or uncertain items, do not upload bytes: record existence, original filename, hash if genuinely computed, scope, why withheld, and location of the user-held original in the track's manifest. If hash is unavailable, say so. Offer separate local ZIP exports for later permissioned private transfer, with rights respected. Never reconstruct original data from short summaries.
+
+**WARNING:** Public Git history may remain visible through forks, clones or caches even after an item is deleted or repository visibility changes. Do not upload first and attempt to sanitize later.
 
 ## Exact destination
 
@@ -19,7 +27,7 @@ Each of the six named ChatGPT chats uses **only its allocated** `tracks/0X-.../`
 4. Include a `CHAT_HANDOFF.md` with purpose, full chronological progress, counts and statuses *as reported*, source gaps, corrections, limitations, exact continuation checkpoint, and which original inputs are missing.
 5. Include `UPLOAD_REPORT.md` with list of actually uploaded paths, GitHub commit hashes, number of successful uploads, failures, items not uploaded and why, and any unresolved authenticity or rights restrictions.
 6. Upload reports and accessible bytes; never recreate purported originals from a summary. If the chat lacks GitHub write access or cannot upload a binary/oversized file, report `NOT_UPLOADED` and provide an exact download/export artifact where possible. Do not claim a successful upload from an intended path or locally created ZIP.
-7. Prior to any push, inspect for secrets, rights restrictions, and personal data. Do not upload Git history, `.env`, executable secrets, or raw third-party transcript collections if licensing or access is unresolved; register existence, hashes and source location without distributing bytes.
+7. Prior to any push, inspect for secrets, rights restrictions, and personal data. Publish only files safe for public release. Do not upload Git history, `.env`, credentials, unlicensed raw transcripts or proprietary/private collections; record existence and verification metadata without distributing bytes.
 8. After upload, read back important files using the GitHub connector (not just local filesystem) and verify hashes/size wherever supported.
 
 ## Collaboration and concurrent writing
