@@ -1,0 +1,4 @@
+﻿Field,Claims audited,Historical unique nonempty values,Historical most common frequency,Repaired unique values incl explicit-absence marker,Repaired most common frequency,Repaired NOT_EXPLICITLY_STATED,Historical top boilerplate,Current top value
+Mechanism or reasoning offered,139,2,118,115,25,25,Creator asserts or explains the purpose in the source transcript; external validation not performed.,NOT_EXPLICITLY_STATED
+Claimed result,139,1,139,116,24,24,"Expected clarity, comprehension, curiosity or audience response as claimed by creator; no causal measurement established.",NOT_EXPLICITLY_STATED
+Supporting example,139,10,33,81,59,59,Uses a hypothetical or own-channel opening example for the stated hook function when discussed.,NOT_EXPLICITLY_STATED
