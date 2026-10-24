@@ -1,3 +1,14 @@
+## Latest educational Batch19 source execution & GitHub ZIP (2026-10-25)
+
+- EDU-SRC0012 (`5 Ai Tools For Creators To Make Quality Content In Secs ⏰`): exact original transcript member SHA-256 `a68e6b3947a23bc09b2806056c6a8e994a0ffa18b21e80e585304e8244059f15`, full 21,429-byte / 10,017-character source read; **16** provisional source-teaching records `EDU-C1052–EDU-C1067`. Primarily a video-production tool roundup, not 16 scientifically validated writing rules.
+- EDU-SRC0149 (`Hindi teaching — YouTube niche, TAM, lens and AVE`): original loose 39,730-byte / 15,580-character SHA-256 `85ed7979ef414fabb6408254948fef272ef1aa3e426969c90c629105995af94a`; 13 historical source anchor positions `EDU-C0097–EDU-C0109` independently rechecked, unchanged historic rows, append-only qualifications.
+- Research coverage: **50/162 reviewed**, **111 first-time pending**, **1 historical QA pending** = **112 outstanding**. **1,067** provisional claim rows; next unused `EDU-C1068`. Next source **EDU-SRC0014** (0013 already reviewed); next QA **EDU-SRC0150**.
+- [Batch19 publication-safe GitHub ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/EDU_BATCH19_PUBLIC_SAFE_GITHUB_ARCHIVE.zip): **15,384 bytes**, blob SHA `c6752b9ef85f6b13d570be8e3b4d0f98bab3b97a`, **6/6 internal files CRC32 verified**. [Detailed GitHub upload receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/05_GITHUB_UPLOAD_RECEIPT.md).
+- Full original research ZIP `EDU_BATCH19_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip` **1,298,415 bytes**, SHA-256 `57fb634d729d151bee41823f752b7297fb662682c7b3f2b9fd0cafc6df33192b`. Contains 1,067-row source-dense history and unmodified original Batch18 ZIP; **not** uploaded to PUBLIC GitHub due rights/reuse uncertainty. Complete original is user-downloadable separately.
+- Creator assertions about software, algorithm, market size, copyright, pricing and audience performance remain **UNVERIFIED** unless supported independently; source-text research is not validation of causal YouTube retention and does not approve a production `SKILL.md`.
+
+---
+
 ## Latest educational source execution — Batch18 (24 October 2026)
 
 - **EDU-SRC0011** original `transcripts (1).zip` member, SHA-256 `f66a2aa78720d101c7a2e4c45277b1735ab5c600980832d35b7e176834d4c461`, **42,765 bytes/19,989 characters** fully read; **21** new provisional `EDU-C1031–EDU-C1051` claims, no inferred retention efficacy.
