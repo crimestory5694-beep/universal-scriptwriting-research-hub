@@ -1,3 +1,16 @@
+## Latest educational execution — Batch 17 (2026-10-24)
+
+- **Actual original research:** EDU-SRC0009 (`3 Storytelling Examples From The Most Iconic CEOs`) read in full from original `transcripts (2).zip` and SHA-256 verified; 11 new source-grounded provisional claims `EDU-C1020–EDU-C1030`.
+- **Actual independent text QA:** EDU-SRC0123 (`The Storytelling Formula YouTubers Use to Hook You`) read in full from the same original ZIP and SHA-256 verified; 13/13 original claims `EDU-C0018–EDU-C0030` rechecked, historic rows unchanged. Selected QA evidence offsets can differ from old locator starts; differences recorded append-only, original time cues/audio unverified.
+- **Cumulative:** 162 registered EDU source IDs, **46 reviewed**, 113 first-time pending, 3 historic QA pending, **116 open reviews**, 1,030 provisional claims. Next unused `EDU-C1031`.
+- **Next:** first-time `EDU-SRC0011` (*4 Easy Steps to Make Addictive Reels!*, `transcripts (1).zip`); historical QA `EDU-SRC0148` (*Film Script Formatting — Michaela Lizac*), each after original SHA/file identity confirmation. `EDU-SRC0010` is already reviewed and must not be misclassified.
+- **Local sealed original B17 research package:** `EDU_BATCH17_SOURCE_EXTRACTION_AND_QA_2026-10-24.zip`, 637,651 bytes, SHA-256 `b6b41e61ed73b9f3c3419a3ea9e7b8c10343b86c05b137d306d60c3f5abc0a82`. User receives locally; source-dense/original historical ZIP not published to this PUBLIC repository.
+- **GitHub:** [verified six-file Batch17 publication report](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/05_GITHUB_UPLOAD_REPORT.md). All public files are safe researcher-authored paraphrases/status and original source checksums, not original transcript texts.
+
+**No scientific performance certification, original audio/video check, completed entire 162-source corpus, T01–T13 execution, or production SKILL.md approval.**
+
+---
+
 ## Latest educational research execution: Batch16 — 2026-10-24
 
 - **Original text execution:** EDU-SRC0008 `3 Stories Every Entrepreneur Needs to Know` — original ZIP member hash verified, entire 10,157-character caption/ASR source read. **11 provisional new claims EDU-C1009–EDU-C1019** (each text-anchored and bounded).
