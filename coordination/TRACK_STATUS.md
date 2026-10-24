@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch27 (2026-10-25)
+
+- **EDU-SRC0024:** *A Big Problem with Faceless Channels. (Fix)* exact original 46,139 UTF-8 bytes / 21,671 characters, SHA256 `ece754379890e0219b4834558ec8ddc6b88f6503b5b4dfe433c1df3e162379ca` matching 162-source register; original source ZIP CRC PASS; native A/V not reviewed; 4 malformed caption :60 cues.
+- **65 new source-grounded provisional claims:** `EDU-C1350`–`EDU-C1414`, 65/65 original source character and byte anchor checks PASS; old original full 1,349-claim / 3,364,178-byte ledger SHA256 `d8744b2fdbdd90b12b07950c845202a33e192ed2a0214db4a8dcbd4365959452` retained unchanged as exact binary prefix. Prior B26 original ZIP nested unchanged.
+- **Cumulative:** **1,414** provisional claims, **59/162** sources fully text-reviewed, **103** pending first-time, historical six-source text QA **0** pending. Next unused `EDU-C1415`, next first-time `EDU-SRC0025` *Ai Se Na Ho Paayega! 💀#shortsfeed #shorts #ai*, archive `transcripts.zip`, historical SHA256 `046df9c6d929959bb4cfc97b73d021cb1d3094cb164a5283c84d05507279bf8e` to freshly verify.
+- **Full PRIVATE original B27 research ZIP:** `EDU_BATCH27_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, 4,414,357 bytes SHA256 `5626898c5b7e47bbb14d9f7109b2c73148e99a81c0a6a3b980e624c8e17f5594`, 13/13 ZIP entries CRC and 12/12 manifest SHA PASS; complete B26 original ZIP nested unchanged. NOT published to PUBLIC GitHub.
+- **GitHub PUBLIC-safe binary ZIP:** [B27 verified 20,479-byte archive](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/EDU_BATCH27_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), current Git blob `01606147108b30f0e64fe9e45c1b7a2d30366500`, 5/5 CRC PASS, repaired after first malformed base64 attempt and reverified; [transparent source+repair receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/04_GITHUB_UPLOAD_RECEIPT.md).
+- **Unresolved B25 original SHA mismatch:** historical published receipt differs from actual 3,506,773-byte original B25 ZIP SHA despite internal checks PASS. Keep OPEN and preserve history.
+- **HOLD:** PUBLIC_RIGHTS_LIMIT, original source-native audio/video and empirical CTR/retention data not verified, six angles are author's hypotheses not validated production rules, T01–T13 trials NOT_EXECUTED, Claude transfer and final SKILL.md PRODUCTION_HOLD.
+
+---
 ## Latest educational source execution — Batch26 (2026-10-25)
 
 - **Original source:** EDU-SRC0023, *77 Minutes Straight of Solid Communications Advice*, transcripts (5).zip exact source member 117,408 UTF-8 bytes / 117,406 decoded chars, historical member SHA256 `7ca895205a1d73654c4be9d2ae0b92d7135163ca15381c548a4eec387d896b0e` verified MATCH, source ZIP CRC PASS. 37 malformed caption :60 cues retained; native audio/video unverified.
