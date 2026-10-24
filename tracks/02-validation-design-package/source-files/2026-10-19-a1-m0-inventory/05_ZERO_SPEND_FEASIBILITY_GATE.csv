@@ -1,0 +1,12 @@
+﻿gate_id,test,observed_status,decision
+G1,Exact manuscript identity and version fixed,"No; 6 plausible drafts located, 2 absent; all versions and rights unverified",NOT_CLEARED
+G2,Actual owner/permission/grant receipt,"No, 0 of 8",NOT_CLEARED
+G3,Dated category primary evidence and claim map,Partial official/catalogue links only; 0 complete claim maps,NOT_CLEARED
+G4,Independent signed reviewer roster,"No, 0 named/committed qualified humans",NOT_CLEARED
+G5,Fair lawful matched comparator,"No, 0 approved pairs",NOT_CLEARED
+G6,A1 accepted protocol unchanged,"Yes, existing protocol immutable",DESIGN_PRESERVED
+G7,Zero external spend,Required hard cap USD 0; no spend incurred or requested,NOT_CLEARED
+G8,Material writing or script modification,"Not authorized, none undertaken",NOT_CLEARED
+G9,"Listening, voice delivery, video synch or Analytics","Excluded, not accessed",NOT_CLEARED
+G10,Pre-registration/rights/steward signoff,Not submitted/frozen,NOT_CLEARED
+G11,Multi-language controlled transfer,No German/English human reviewers or matched translations confirmed,NOT_CLEARED
