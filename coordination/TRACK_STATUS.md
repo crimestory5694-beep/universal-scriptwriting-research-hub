@@ -1,3 +1,14 @@
+## Latest educational source execution — Batch18 (24 October 2026)
+
+- **EDU-SRC0011** original `transcripts (1).zip` member, SHA-256 `f66a2aa78720d101c7a2e4c45277b1735ab5c600980832d35b7e176834d4c461`, **42,765 bytes/19,989 characters** fully read; **21** new provisional `EDU-C1031–EDU-C1051` claims, no inferred retention efficacy.
+- **EDU-SRC0148** historical original 9,708-byte partition of `Pasted text (2)(20261019-104734).txt` matched SHA-256 `3f3eea50f3a345cb97b701d449b2f14ed289c08139eb9eda3bd429b00f346d4f`, **16/16** original screenplay-format claims audited without overwriting historical records.
+- **After Batch18:** 162 unique educational source IDs, **48 source units reviewed**, 112 pending first-time, 2 pending historical QA = **114 outstanding**; **1,051 provisional claim rows**, next unused `EDU-C1052`. Next first-time `EDU-SRC0012`, next historical QA `EDU-SRC0149`.
+- **PUBLIC-safe GitHub ZIP**: [Batch18 rights-filtered archive](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/EDU_BATCH18_PUBLIC_SAFE_GITHUB_ARCHIVE.zip) **18,142 bytes**, Git blob SHA `a712896374faa4e28cd88ebb69aab42f037dbbaf`; **6/6 ZIP entries CRC verified**. [Independent publication receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/05_GITHUB_UPLOAD_RECEIPT.md).
+- **Full original user-held local ZIP**: `EDU_BATCH18_SOURCE_EXTRACTION_AND_QA_2026-10-24.zip`, 967,528 bytes, SHA256 `ad8b7cb88ee4d2067dd8a04190d5f5b0383622955fdf1134d109fa5d4355e72a`; historical B17 original archive preserved inside. **NOT** in the PUBLIC research repository due unresolved source-data/public redistribution rights.
+- No source audio/video, retention effect experiments, causal psychology findings, full research corpus completion or production `SKILL.md` approval.
+
+---
+
 ## Batch16 and Batch17 publication-safe ZIPs both verified — 2026-10-24
 
 - **Batch16:** [17,594-byte public-safe ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/EDU_BATCH16_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), SHA `8020aefa7a115eec09fc229af0d24618a7b740a3`, 6/6 internal file CRC verified. [Receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/05_PUBLIC_SAFE_ZIP_VERIFICATION_RECEIPT.md).
