@@ -1,0 +1,13 @@
+Claim ID,Source ID,Original cue,Research topic,Researcher-authored short paraphrase,Evidence role,Original source SHA256,External verification
+EDU-C1517,EDU-SRC0028,00:04,Referenced finance example,A named brokerage's market narrative is selected for critical breakdown.,UNVERIFIED_THIRD_PARTY_MEDIA,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1518,EDU-SRC0028,00:09,Authority-framing label,A named source is classified as an authority opening.,CREATOR_HOOK_ANALYSIS,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1519,EDU-SRC0028,00:13,Anti-trend contrast,A surprising regulatory assertion is described as a curiosity gap.,CREATOR_HOOK_ANALYSIS,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1520,EDU-SRC0028,00:17,Pattern break camera,The narrator says the original clip cuts to a new camera.,CAPTIONED_VISUAL_OBSERVATION,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1521,EDU-SRC0028,00:21,Selfie-view hook,Selfie-style framing is claimed to feel familiar.,UNVERIFIED_VISUAL_HEURISTIC,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1522,EDU-SRC0028,00:25,Cognitive-load hypothesis,Familiar filming is alleged to reduce viewer processing demands.,UNVERIFIED_PSYCHOLOGY,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1523,EDU-SRC0028,00:30,Simpler definition,One financial term is presented in simplified contract language.,SOURCE_EXPLANATION,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1524,EDU-SRC0028,00:33,Background music fit,The reviewer attributes topic synchronization to dramatic music.,CAPTIONED_AUDIO_OBSERVATION,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1525,EDU-SRC0028,00:37,Simplification bias label,A complex financial point is said to use a simplified explanation.,AUTHOR_CONCEPT_LABEL,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1526,EDU-SRC0028,00:44,Unverified broker market share,Market share appears as a speaker-stated numerical illustration.,UNVERIFIED_FINANCE_NUMBER,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1527,EDU-SRC0028,00:51,Short-form compression,The analyzed video is described as explaining a concept in 36 seconds.,CREATOR_FORMAT_CLAIM,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
+EDU-C1528,EDU-SRC0028,00:53,Audience selection,The host links audience targeting with reach without supplying analytics.,UNVERIFIED_PERFORMANCE_ATTRIBUTION,1e0b2133d3b2c70aef6dfb1b090308d12b136c9203784b006c96abfe08cd07a6,NOT_DONE
