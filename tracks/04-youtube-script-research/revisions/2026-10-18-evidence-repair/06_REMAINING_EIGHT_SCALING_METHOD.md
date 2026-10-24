@@ -1,0 +1,16 @@
+# 06 — Recommended Method for Scaling to Remaining Eight Videos
+
+**Do not execute on V02/V03/V05/V06/V08/V09/V11/V12 until Research Director acceptance of the four-case repair and legal/cost access constraints.** Do not reselect videos or change cards.
+
+1. **Freeze provenance:** capture original ZIP/CSV checksums; preserve video IDs and any existing source IDs. Use append-only `timestamp_repair` fields or new files.
+2. **Free original-caption availability preflight:** using video owner permission or ordinary YouTube player `Show transcript`, verify exact caption language, track kind (human vs ASR), cue start/end and legitimate access. Do not assume that every public video exposes reusable machine-readable caption files.
+3. **Persist real cue times:** lawful timestamped data as `.vtt`/`.srt`/cue JSON only if terms/permissions allow; store private reference/metadata and short excerpts, not distribute copyrighted full text. Preserve `source_player`, `track_lang`, `is_auto`, `cue_start_ms`, `cue_end_ms`, retrieval date and checksum.
+4. **Strict speaker diarization:** attribute named voices only where publisher credits or original audio provide evidence. In multiple-speaker source such as V02, use `SPEAKER_1_UNKNOWN`, etc., until grounded by credits/audio.
+5. **Four anchors:** mark opening, first *defined* payoff (recognition vs substantive answer), a midpoint narrative transition and last narrated closure. Record cue-onset mm:ss; define annotation threshold and use `confidence` and `caption/audio/AV` flags separately. Timestamp cannot derive from word ratio.
+6. **Original audio replay gate:** with lawful play access, a reviewer listens to small windows centered on each cue. Log actual spoken token, speaker, pause/pace and visual-dependency separately, and `AUDIO_NOT_CHECKED` wherever replay blocked. Video+transcript alone is not a blind audibly verified test.
+7. **Cost gate:** set paid API flags false, confirm actual Render deploy SHA, audit logs and ledger counters first. No third-party paid transcript endpoint without explicit written authorization. Treat `source: supadata.ai` as provider evidence, not proof of zero billing.
+8. **Historical/scientific facts:** independent publisher/primary material or peer-reviewed sources for numerical/historical/scientific statements. Produce separate per-claim status, never correct historical content as ASR.
+9. **Quality control:** second reviewer verifies each anchor within ±1 subtitle cue, full correction provenance and single/multiple speaker classification; report agreement count. Missing track or denied access -> `UNVERIFIED` and stop rather than fill by inference.
+10. **Constrained synthesis only:** report caption cue timing and audio checks; avoid viewer-retention claims absent actual owner analytics or controlled experiments. QC crosswalk analogies again without converting them into writing instructions.
+
+**Suggested audit schema:** `video_id, youtube_id, source_url, license_status, track_language, captions_kind, provider_route, cache_hit, paid_status, cue_anchor, cue_start_mmss, cue_end_mmss, payoff_definition, speaker_id, publisher_credit, audio_verified, factual_source_id, errata_class, confidence, reviewer_id, evidence_link, timestamp_verified_at`.
