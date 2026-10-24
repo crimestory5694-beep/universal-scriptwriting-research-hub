@@ -1,0 +1,11 @@
+# EDU Batch27 — original source integrity and public rights
+
+Exact source member: `transcripts (1).zip :: A Big Problem with Faceless Channels. (Fix).txt`, **46,139 bytes / 21,671 strict UTF-8 characters**, SHA-256 `ece754379890e0219b4834558ec8ddc6b88f6503b5b4dfe433c1df3e162379ca`; matches the 162-source historical register. Source ZIP 1,030,903 bytes SHA-256 `c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08`, CRC PASS. Original caption text has four malformed second :60 cues and zero replacement glyphs. No original native audio/video verification.
+
+Previous full private original B26 ZIP exact **3,948,744 bytes**, SHA256 `1a23d55468a28ca7fbb1ccea5184c3de54f88697fef3b4884ad9d140fa2c19e7`, preserved unchanged in separately held B27 original ZIP. Previous **1,349-row / 3,364,178-byte** full original claim ledger, SHA-256 `d8744b2fdbdd90b12b07950c845202a33e192ed2a0214db4a8dcbd4365959452`, kept unchanged as exact binary prefix. New 65 claims EDU-C1350–EDU-C1414 have all 65/65 original character/UTF-8 byte source cue anchor checks PASS. Cumulative 1,414; 59/162 reviewed, 103 first-time pending, old historical independent QA 0.
+
+Full user-held `EDU_BATCH27_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`: 4,414,357 bytes, SHA256 `5626898c5b7e47bbb14d9f7109b2c73148e99a81c0a6a3b980e624c8e17f5594`, 13/13 ZIP files CRC PASS, 12/12 manifest SHA PASS. It is **NOT published to PUBLIC GitHub**.
+
+**OPEN HISTORICAL SHA EXCEPTION:** Earlier B25 reported top-level archive SHA `4c2765c0af46f44e822624cf7eb1550b806be1dc39a4f3fdcdb95b281580a5bf` conflicts with actual available archive SHA `88358c15c6358bbe6242fcaf6c5bc511269e75ff7c7057a211f115976db7c325`. B26 source and its internal manifest all verified; do not silently overwrite previous record.
+
+**PUBLIC_RIGHTS_LIMIT:** This directory stores short original researcher-authored paraphrases, file hashes and workflow reports only. No full third-party transcript, exact private anchor passages, unrestricted cumulative source-dense ledger, prior nested original research ZIP or full B27 private ZIP publicly published. Presenter 4-second rule, 2–3% speculation, algorithms, actual viewer psychology, competitor media and ancient Rome headline remain unverified. T01–T13 experiments NOT_EXECUTED; production SKILL.md and Claude Browser transfer HOLD.
