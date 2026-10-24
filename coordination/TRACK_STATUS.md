@@ -1,3 +1,14 @@
+## Latest educational research execution — Batch20 (2026-10-25)
+
+- **EDU-SRC0014** original member `5 Habits That Make You Sound Brilliant in 2026.txt` within `transcripts (5).zip`: 10,721 bytes, original SHA256 `4f9f9ce22bb233f7fe10e7559a64eb35c99c4d24d6b881cfc391e7b0ec656782`; full text reviewed, **15** provisional new claims `EDU-C1068–EDU-C1082`.
+- **EDU-SRC0150** original composite partition `Pasted text (2)(20261019-104734).txt` raw byte range [9712,19354), normalized CRLF to 9,517 bytes; original SHA256 `944fd8d41e7b724b6f894d8266fc2f0ebdfe2ed1255a1ea65352c33f44e20f35`; **16/16** historical `EDU-C0049–EDU-C0064` full source text QA, original rows unchanged. **All six historic Batch01 source QA reviews now complete at text level**; audiovisual/empirical validation not implied.
+- Coverage: **162 unique sources, 52 reviewed, 110 first-time reviews still pending, zero historic Batch01 QA reviews still pending; 1,082 provisional claims**, next unused `EDU-C1083`. Next first-time `EDU-SRC0015` — `5 Speaking Techniques That Separate the Top 1%`; original `transcripts (5).zip` SHA to verify before review.
+- [Batch20 rights-filtered GitHub ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/EDU_BATCH20_PUBLIC_SAFE_GITHUB_ARCHIVE.zip) **16,104 bytes**, blob SHA `1101b2d02c8295788b7e5db80f3d322fd59f6a33`, **6/6 internal CRC PASS**. [Verified upload receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/05_GITHUB_UPLOAD_RECEIPT.md).
+- Full original 14-file local ZIP `EDU_BATCH20_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`, **1,633,173 bytes**, SHA256 `209e6189440930d01df6e500048f5e5e928ccaaacc8d64af9f4948b1808c104f`; contains full original cumulative claims and unmodified original Batch19 ZIP; **NOT** uploaded to PUBLIC GitHub due original third-party content-rights uncertainty.
+- Main study remains `FULL_CORPUS_PARTIAL`: audio/video fidelity, script performance experiments, causal retention studies and production skill approval not completed.
+
+---
+
 ## Latest educational Batch19 source execution & GitHub ZIP (2026-10-25)
 
 - EDU-SRC0012 (`5 Ai Tools For Creators To Make Quality Content In Secs ⏰`): exact original transcript member SHA-256 `a68e6b3947a23bc09b2806056c6a8e994a0ffa18b21e80e585304e8244059f15`, full 21,429-byte / 10,017-character source read; **16** provisional source-teaching records `EDU-C1052–EDU-C1067`. Primarily a video-production tool roundup, not 16 scientifically validated writing rules.
