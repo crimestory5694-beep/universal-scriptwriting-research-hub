@@ -1,0 +1,83 @@
+{
+  "class": "PUBLIC_SAFE_RIGHTS_FILTERED_ANALYST_RESEARCH",
+  "study_status": "LOCAL_SOURCE_AUDIT_COMPLETE_OFFICIAL_MERGE_HOLD",
+  "candidate_count": 79,
+  "original_audio_video": "NOT_VERIFIED",
+  "source_info": [
+    {
+      "source_id": "EDU-SRC0093",
+      "batch_assigned_for_draft_only": "B92",
+      "title": "If you want to become a master storyteller, watch this…",
+      "original_archive": "transcripts (1) (2).zip",
+      "archive_sha256": "7014201e2a8576c2ae5c740e83fc0a152a6f57cb88db6f74254d8fdc2068cf39",
+      "original_archive_crc": "PASS",
+      "frozen_member_sha256": "0494aac0767e028bfe71e16c8c5ddd510579c396d631a3cf0e954ecfa7d65e78",
+      "actual_member_sha256": "0494aac0767e028bfe71e16c8c5ddd510579c396d631a3cf0e954ecfa7d65e78",
+      "original_member_bytes": 16724,
+      "original_member_physical_lines": 1003,
+      "nonempty_caption_lines": 335,
+      "candidate_count": 18,
+      "unique_physical_line_anchor_count": 18
+    },
+    {
+      "source_id": "EDU-SRC0095",
+      "batch_assigned_for_draft_only": "B93",
+      "title": "I’ve Coached 700+ Speakers And Learned This",
+      "original_archive": "transcripts (5).zip",
+      "archive_sha256": "f573e31dc6c1dd0080762fad7cdcb553e1f3130429fbbdb627cdb8deebb07f74",
+      "original_archive_crc": "PASS",
+      "frozen_member_sha256": "9eae7cea958da18483830f115dcc3821816d0a6689128bc312284df5b79002f3",
+      "actual_member_sha256": "9eae7cea958da18483830f115dcc3821816d0a6689128bc312284df5b79002f3",
+      "original_member_bytes": 26162,
+      "original_member_physical_lines": 1522,
+      "nonempty_caption_lines": 508,
+      "candidate_count": 31,
+      "unique_physical_line_anchor_count": 31
+    },
+    {
+      "source_id": "EDU-SRC0096",
+      "batch_assigned_for_draft_only": "B94",
+      "title": "KK Creates Exposed with Dhurv Rathee💀#shorts",
+      "original_archive": "transcripts (1).zip",
+      "archive_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+      "original_archive_crc": "PASS",
+      "frozen_member_sha256": "79a3db713bd20ef37005535f9fbc1292b590e6cfd75a81a0cc529d499fd4dbba",
+      "actual_member_sha256": "79a3db713bd20ef37005535f9fbc1292b590e6cfd75a81a0cc529d499fd4dbba",
+      "original_member_bytes": 4630,
+      "original_member_physical_lines": 121,
+      "nonempty_caption_lines": 41,
+      "candidate_count": 8,
+      "unique_physical_line_anchor_count": 8
+    },
+    {
+      "source_id": "EDU-SRC0097",
+      "batch_assigned_for_draft_only": "B95",
+      "title": "Make Anyone Your Fan — in 30 Secs😘 #storytelling #shorts",
+      "original_archive": "transcripts (1).zip",
+      "archive_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+      "original_archive_crc": "PASS",
+      "frozen_member_sha256": "f2777d7d03af0a95d9717697ff2b00ae0b769aecc1eaa966feb7bf1a08acb522",
+      "actual_member_sha256": "f2777d7d03af0a95d9717697ff2b00ae0b769aecc1eaa966feb7bf1a08acb522",
+      "original_member_bytes": 4643,
+      "original_member_physical_lines": 44,
+      "nonempty_caption_lines": 44,
+      "candidate_count": 8,
+      "unique_physical_line_anchor_count": 8
+    },
+    {
+      "source_id": "EDU-SRC0099",
+      "batch_assigned_for_draft_only": "B96",
+      "title": "Master the Art of Storytelling in 8min",
+      "original_archive": "transcripts (1) (1).zip",
+      "archive_sha256": "503821b48f1ab7c03013c8a95465a0794d0811da23e476a52dad4c3215a0ffa3",
+      "original_archive_crc": "PASS",
+      "frozen_member_sha256": "a7b95399f4bc3ca07b0be33ddff24f85ecac529fb3ab181840b247bab3d08033",
+      "actual_member_sha256": "a7b95399f4bc3ca07b0be33ddff24f85ecac529fb3ab181840b247bab3d08033",
+      "original_member_bytes": 9280,
+      "original_member_physical_lines": 211,
+      "nonempty_caption_lines": 211,
+      "candidate_count": 14,
+      "unique_physical_line_anchor_count": 14
+    }
+  ]
+}

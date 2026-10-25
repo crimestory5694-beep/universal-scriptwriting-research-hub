@@ -1,0 +1,11 @@
+# Educational transcript source-audit continuation: draft B92-B96
+
+**Status: SOURCE AUDIT COMPLETE / OFFICIAL HISTORICAL MERGE HOLD.** Five unreviewed source members were fully read from the user's original archives: `EDU-SRC0093`, `EDU-SRC0095`, `EDU-SRC0096`, `EDU-SRC0097`, `EDU-SRC0099`. The intervening `EDU-SRC0094` and `EDU-SRC0098` had already been reviewed in historical Batch02/03 and were not counted as new. Original source member hashes match the historical frozen 162-source register.
+
+This 5-source group contains **79** original physical-caption-line-anchored candidate observations (private), with original UTF8 character and byte-span integrity checks. Previous private draft total before this group was 547, so the locally prepared unmerged total would be **626** across 24 additional source members (assuming prior private audit continuity, not an official cumulative ledger). Original source media is text-only captions; original audio, images, subtitles and audience results have NOT been checked.
+
+Content domains: daily story exercises and story banks; live speaking coaching; a Hindi political title/thumbnail critique; Hindi advertising principles; and a six-stage YouTube goal-journey template. Transfer context differs substantially by presenter, channel, advertising, short-form, and faceless nonfiction voiceover.
+
+**Disputed / unverified:** named self-reported coaching client volume, 2014 academic experiment, 5%/90% educational recall numbers, 25 vs 20 lessons inside one source, mandatory two-to-three-minute rehooks, repeated 30-day/99th-percentile guarantees, auction monetary effects, alleged click psychology, named advertising credits, and purported review of thousands of videos. Claims remain source-reported, not established outcomes.
+
+**Official checkpoint unchanged:** B70-B72; **3,051** EDU-C claims; **104/162** originally reviewed; **58** pending. Source-rich B70-B72 original ZIP cannot currently be recovered for an exact cumulative append. No EDU-C IDs allocated and production SKILL.md remains HOLD. Public GitHub files here contain only original analyst paraphrases, source metadata and integrity/rights notes — never full third-party source transcripts, exact line anchors, raw third-party archive bytes, or nested restricted private ZIPs.
