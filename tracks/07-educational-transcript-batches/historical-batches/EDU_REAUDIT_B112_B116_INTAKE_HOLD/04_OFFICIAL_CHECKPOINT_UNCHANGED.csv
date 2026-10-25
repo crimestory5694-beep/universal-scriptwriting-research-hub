@@ -1,0 +1,6 @@
+metric,before,after,status
+official_EDU_C_claims,3051,3051,HOLD
+official_historical_reviewed_sources,104,104,HOLD
+official_historical_pending_sources,58,58,HOLD
+next_unused_EDU_C,EDU-C3052,EDU-C3052,NOT_ISSUED
+new_unissued_private_candidates,0,75,INTAKE_ONLY

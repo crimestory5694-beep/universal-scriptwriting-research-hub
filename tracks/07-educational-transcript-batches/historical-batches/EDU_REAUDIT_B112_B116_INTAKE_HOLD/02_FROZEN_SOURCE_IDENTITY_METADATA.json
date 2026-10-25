@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "EDU-SRC0127",
+    "historical_title": "Viral = Life Set 🏁(myth) #shortvideo #shorts",
+    "source_role": "CREATOR_IDENTITY_AND_MEMORABILITY_COMMENTARY",
+    "zip_container": "transcripts (1).zip",
+    "container_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+    "expected_member_sha256": "dac2458519f7b526953e0b90c3a19eb10058aabf1f9085fb1c8d139861a4f2ad",
+    "actual_member_sha256": "dac2458519f7b526953e0b90c3a19eb10058aabf1f9085fb1c8d139861a4f2ad",
+    "member_size_bytes": 1498,
+    "unissued_candidates": 6,
+    "timestamp_malformed_count": 0,
+    "native_av": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0131",
+    "historical_title": "We Make Virtual Influencer Company From Scratch. (In a Budget)",
+    "source_role": "AI_CHARACTER_PRODUCTION_AND_BUSINESS_CASE",
+    "zip_container": "transcripts.zip",
+    "container_sha256": "71ecb5cf5e98e6390c001628d8758222de28b5118a1732c699c6790e237c81c6",
+    "expected_member_sha256": "7de1419a42b01739c10045962558dd64349f0e4812d2a39c9c680029aa07bda0",
+    "actual_member_sha256": "7de1419a42b01739c10045962558dd64349f0e4812d2a39c9c680029aa07bda0",
+    "member_size_bytes": 33088,
+    "unissued_candidates": 24,
+    "timestamp_malformed_count": 5,
+    "native_av": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0132",
+    "historical_title": "Why Follower Doesn’t Matter on Youtube Anymore. #shorts",
+    "source_role": "PLATFORM_ALGORITHM_SPECULATION",
+    "zip_container": "transcripts (1).zip",
+    "container_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+    "expected_member_sha256": "eba0a7722ec4b4b6d65e5a90bb06747c00f74bad045dcc1f185adcfe5d169bb2",
+    "actual_member_sha256": "eba0a7722ec4b4b6d65e5a90bb06747c00f74bad045dcc1f185adcfe5d169bb2",
+    "member_size_bytes": 5483,
+    "unissued_candidates": 8,
+    "timestamp_malformed_count": 0,
+    "native_av": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0134",
+    "historical_title": "WTF I am Doing In Your Feed #shorts",
+    "source_role": "CREATOR_SELF_INTRO_AND_POSITIONING",
+    "zip_container": "transcripts (1).zip",
+    "container_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+    "expected_member_sha256": "f0bd7b5537f79b13915c7e82072b450cfb9794e5864ac913c3d363fb15692784",
+    "actual_member_sha256": "f0bd7b5537f79b13915c7e82072b450cfb9794e5864ac913c3d363fb15692784",
+    "member_size_bytes": 3554,
+    "unissued_candidates": 8,
+    "timestamp_malformed_count": 0,
+    "native_av": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0135",
+    "historical_title": "Your YouTube Videos After Watching This...",
+    "source_role": "DAN_HARMON_STORY_CIRCLE_EDUCATIONAL",
+    "zip_container": "transcripts (1).zip",
+    "container_sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+    "expected_member_sha256": "c99a621c8b3b9b7ea4ccf99220d555fdfcbaaaa6285e77369a5d1cc4a74af931",
+    "actual_member_sha256": "c99a621c8b3b9b7ea4ccf99220d555fdfcbaaaa6285e77369a5d1cc4a74af931",
+    "member_size_bytes": 16938,
+    "unissued_candidates": 29,
+    "timestamp_malformed_count": 1,
+    "native_av": "NOT_VERIFIED"
+  }
+]

@@ -1,0 +1,1 @@
+Rights-filtered researcher analyses ONLY. Original third-party transcript member texts, source-exact anchor offsets, and private research lineage are not published. Not an approved SKILL.md or scientific proof.
