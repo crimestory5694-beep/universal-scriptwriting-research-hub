@@ -1,0 +1,42 @@
+{
+  "prepared": "2026-10-25",
+  "authoritative_git_branch_at_prep": "c29cbe810ea56c93e498ee41f4d5e6cd5cf5149d",
+  "last_research_batch": 72,
+  "claims": 3051,
+  "inspected_sources": 104,
+  "pending_sources": 58,
+  "next_source": "EDU-SRC0074",
+  "next_claim_id": "EDU-C3052",
+  "public_github_handoff_zip": {
+    "bytes": 267392,
+    "git_blob": "9f04a02d9b07d7c04f432e46a1d54c28f4ee3393",
+    "crc": "7/7 PASS"
+  },
+  "private_latest_original_zip_not_present_in_current_session": {
+    "name": "UNIVERSAL_SCRIPTWRITING_PRIVATE_CONTINUATION_KIT_2026-10-25.zip",
+    "bytes": 18469486,
+    "sha256": "b1a2b71c13cffe1368f71ce3eacac5964d0adde8318c730a2841b57c839a6c61",
+    "last_reported_crc": "17/17 PASS"
+  },
+  "private_last_available_locally": {
+    "name": "EDU_BATCH67_69_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip",
+    "bytes": 14255899,
+    "sha256": "dcf7bbda139c96a9988dd12bec65bc92cc9c53c48635c32af6802a54a7f9af4a",
+    "is_current": false
+  },
+  "public_rights_limit": true,
+  "source_hash_recovery": {
+    "archive_sources_matched": 137,
+    "total_archived_sources": 137,
+    "loose_parent_files_matched": 4,
+    "partitioned_source_units_not_reaudited": 25
+  },
+  "open_gates": [
+    "B25 old top-level ZIP SHA discrepancy",
+    "B58 incomplete 173-byte source fragment",
+    "original A/V not verified",
+    "T01-T13 not executed",
+    "production SKILL.md not approved",
+    "Claude transfer hold"
+  ]
+}

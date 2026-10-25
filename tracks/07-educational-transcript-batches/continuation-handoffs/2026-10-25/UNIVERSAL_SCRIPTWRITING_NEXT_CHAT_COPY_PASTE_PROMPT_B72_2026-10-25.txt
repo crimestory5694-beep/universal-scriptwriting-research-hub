@@ -1,0 +1,15 @@
+# PASTE THIS INTO THE NEXT CHAT — UNIVERSAL SCRIPTWRITING
+
+MODE: CONTINUE EXISTING VERIFIED WORK, DO NOT RESTART OR GUESS. Speak to me in Roman Urdu.
+
+Read my attached `UNIVERSAL_SCRIPTWRITING_NEXT_CHAT_COMPLETE_HANDOFF_B72_VERIFIED_2026-10-25.md` FULLY, along with the FULL original PRIVATE research kit `UNIVERSAL_SCRIPTWRITING_PRIVATE_CONTINUATION_KIT_2026-10-25.zip` if attached. PUBLIC GitHub repository: https://github.com/crimestory5694-beep/universal-scriptwriting-research-hub, branch main.
+
+FIRST read LIVE current GitHub `coordination/TRACK_STATUS.md`, `coordination/UPLOAD_PROTOCOL.md`, `coordination/EDU_BATCH_PUBLICATION_WORKFLOW.md`, the verified B70–72 research receipt, and the newer handoff material in `tracks/07-educational-transcript-batches/continuation-handoffs/2026-10-25/`. Latest snapshot: **Batch72**, **3,051 provisional EDU claims**, **104/162 supplied member texts inspected**, **58 pending**; last claim `EDU-C3051`, next unused `EDU-C3052`; next first-time source `EDU-SRC0074` (“How to Tell Stories So Good Even Your Boring Days Sound Interesting”), physical `transcripts (1) (1).zip`, expected original source SHA256 `eca7ba8d7a3caa24f3a46cfdff5d3e0b41369bbebd7789445e9724fd94cfd0b8`. If current GitHub advanced, use NEWER verified checkpoint instead and never restart completed batches.
+
+Work with full ORIGINAL transcript ZIP bytes and historical 162-source status register, not source titles or summaries. On next 'next/start', actually execute the next batch with adaptive sizing, source SHA and original ZIP CRC checks, full text reading, unique caption-line + actual Unicode char and physical UTF-8 byte anchors for every claim, clear source-role and fact caveats, and no invented psychology/CTR/AV/retention claims.
+
+Historical PRIVATE 53-column source-rich ledger must be strictly append-only and preserve previous entire CSV bytes as exact binary prefix. Retain previous complete private original ZIP unchanged nested inside a newly built full PRIVATE ZIP, with claim-ID continuity, 162-source progress, original member hashes, exact anchor checks, ZIP CRC and SHA256 manifest. **Never publish that original private ZIP or copyrighted third-party transcripts to PUBLIC GitHub.** Only independently written short PUBLIC-safe reports/claim indexes, progress, rights notes and true binary rights-filtered public-safe ZIP, non-force guarded GitHub commit and remote read-back SHA/CRC. Final director TRACK_STATUS append-only and receipt.
+
+Unresolved holds: B25 top-level original ZIP SHA mismatch; B58 173-byte incomplete transcript; native A/V unverified; T01–T13 experiments NOT_EXECUTED, production Skill and Claude transfer HOLD. The B72 PRIVATE continuation kit contains original source data and belongs in a private user-provided attachment, not GitHub PUBLIC. A public GitHub ZIP is a filtered derivative only.
+
+Finish with an actual downloadable new original private ZIP, verified GitHub folder, ZIP/receipt, exact commit, claim range, reviewed/pending counts and next source; never falsely claim success or promise background action. Don't ask routine questions already settled.
