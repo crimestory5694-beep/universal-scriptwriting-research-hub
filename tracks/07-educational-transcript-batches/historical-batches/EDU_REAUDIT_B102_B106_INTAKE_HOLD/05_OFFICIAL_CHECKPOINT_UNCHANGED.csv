@@ -1,0 +1,7 @@
+metric,before,after,status
+official_claim_count,3051,3051,UNCHANGED
+official_historic_reviewed_sources,104,104,UNCHANGED
+official_historic_pending_sources,58,58,UNCHANGED
+next_EDU_C,EDU-C3052,EDU-C3052,NOT_ISSUED
+new_source_audits,0,5,PRIVATE_INTAKE
+new_unmerged_observations,0,139,NOT_OFFICIAL_CLAIMS
