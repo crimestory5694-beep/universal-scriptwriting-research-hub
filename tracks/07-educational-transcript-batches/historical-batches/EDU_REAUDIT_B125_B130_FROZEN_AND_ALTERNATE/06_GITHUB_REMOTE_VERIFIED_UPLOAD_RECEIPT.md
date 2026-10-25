@@ -1,0 +1,11 @@
+# B125–B130 — GitHub remote publication verification (2026-10-26)
+
+**Publication status:** PASS, source identity limits preserved. The public-safe ZIP and 12 research text files were committed to `main` by `c8cc28410ab3d1242745655c9d82d4b5769cd8ea`, alongside the Track07 supplemental progress v4. An independent remote fetch of **all 12 individual public text files, the binary ZIP and the v4 status file** exactly matched local publication content (14/14 PASS). All 12 public file texts were compared against the original transfer payload; the ZIP's remote base64 bytes matched the local 17,052-byte public ZIP, whose ZIP CRC and SHA256 manifest had passed local checks.
+
+Public ZIP `EDU_BATCH125_130_PUBLIC_SAFE_RESEARCH_ARCHIVE_2026-10-26.zip`: SHA256 `fbe9eee2816564bc4d3a21075b069aca42493fac5526900639aa35883b5057f0`; Git blob SHA `c09c3245d00a07ac4fa2d3850de91983b824fcf2`; 13 entries, ZIP CRC PASS; all publication files SHA manifest PASS.
+
+**Frozen original source checks:** EDU-SRC0151 SHA `85886aa92a2dec1197126f8f0197fd56505594235cc19968dd039873af1a1195` (17,665 bytes) PASS; EDU-SRC0152 SHA `b4eb4f6620655f7bc38d4ca81702f377889436148e4a2d94c79b98067d545e69` (61,266 bytes) PASS. **30** unissued candidate observations from these exact historical sources. EDU-SRC0144–0147 source versions differ from immutable frozen SHA: **41** alternate-edition observations preserved, none eligible for historical source closure. Original observed-version anchors across six source texts: **71/71 PASS**.
+
+**Reconciled source audit:** 153/162 SHA-verified; 9 unresolved EDU-SRC0139–0147. Official historical B70–B72 104/162 and 3,051 EDU-C claims remain unchanged pending full original private research ledger; new noncanonical frozen observations total 1,131 and alternate-edition-only total 91. No further EDU-C IDs issued.
+
+**Publication rights:** The public GitHub archive contains researcher-authored short paraphrases, source hashes, provenance, risk notes and count deltas. The private original third-party resource/transcript full texts, exact evidence anchors, and nested previous private ZIP are excluded. GitHub read-back is not scientific effectiveness validation or verification of original YouTube audiovisual data.
