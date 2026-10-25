@@ -1,0 +1,1 @@
+This is a filtered GitHub derivative of source audits B87–B91, not the user-held original research ZIP. Historical official claim and reviewed-source counts unchanged. Copyrighted source captions and complete source-rich archives withheld.
