@@ -1,0 +1,3 @@
+# Batch40 — source EDU-SRC0037
+
+*Give me 7 min & I’ll eliminate your fear of public speaking*. Physical `transcripts (5).zip`, 8,312 bytes SHA256 `5bed924e4096a0671a21e5d71ae4c9ee0d59e2d488afcff86cb8ab48f9fc6044` register MATCH; ZIP CRC PASS. **29** source-grounded observations EDU-C1825–EDU-C1853. Creator recalls anxiety, repeats the constructive embarrassment idea, invents a fictional ancestral tribe analogy and introduces **CEO: Count, Embrace, Own**. A train-singing story and café-floor episode are self-reported, not verified clinical evidence; respect premises, bystanders and consent. Seven-minute anxiety-elimination promise is unvalidated; two malformed :60 cues. A/V unverified.

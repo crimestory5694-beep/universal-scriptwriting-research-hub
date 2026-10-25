@@ -1,0 +1,3 @@
+# Batch39 — source EDU-SRC0036
+
+*Give me 6min, and I'll improve your speaking skills by 182%*. Physical `transcripts (5).zip`, 8,464 bytes SHA256 `f5dd0312d31d249a4de9b438648578c9bb1f520796c9c1c7d94719a86d5afc37` register MATCH; ZIP CRC PASS. **29** provisional observations EDU-C1796–EDU-C1824. Three creator-recommended methods: solo spontaneous speaking, supportive group improv, intentional awkwardness. Source describes a random-topic website and creator-reported singing on a train; neither site capabilities nor TED anecdote or psychological efficacy independently corroborated. Public-transit disruptions and interaction with nonconsenting people are risks, not endorsed tasks. Two malformed :60 time cues. Original A/V unverified.

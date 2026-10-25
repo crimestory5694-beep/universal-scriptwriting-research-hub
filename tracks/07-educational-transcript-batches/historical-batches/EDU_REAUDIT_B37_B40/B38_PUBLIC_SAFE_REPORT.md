@@ -1,0 +1,3 @@
+# Batch38 — source EDU-SRC0035
+
+*Give Me 6min & I’ll Make Your Next Presentation Unforgettable*. Physical `transcripts (5).zip`, 8,946 bytes SHA256 `e0b80caa42f49842c861764bd5f4b9ff810c3cab79944115b10d9342f68f15d3` register MATCH, source ZIP CRC PASS. **36** provisional observations EDU-C1760–EDU-C1795. Speaker defines physical metaphors using everyday objects. Four-step source workflow: choose one audience feeling, brainstorm shared object qualities, evaluate with five filters (**surprise, simplicity, relevance, visual impact, viability**), and test with another person before presenting. Reports 2.4-million-video views and strong memory benefits without externally verified analytics or study. Source A/V not inspected.

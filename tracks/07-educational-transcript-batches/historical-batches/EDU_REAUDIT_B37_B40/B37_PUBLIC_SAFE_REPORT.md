@@ -1,0 +1,3 @@
+# Batch37 — source EDU-SRC0034
+
+*Give me 59 sec & I’ll boost your storytelling by 128%*. Physical original `transcripts (1) (1).zip`, 1,326 UTF-8 bytes, source SHA256 `94057c180c7bc0355f75ca5666b93851a4ea838725b3d564ae5967bc10dc3f00` frozen register MATCH and ZIP CRC PASS. **11** separate provisional findings EDU-C1749–EDU-C1759 on compressed-summary criticism, zooming into one moment, **ATD (Actions, Thoughts, Dialogue)** and attributed celebrity interview illustration. Source ends mid-sentence and cannot authorize a reconstructed ending. 128% improvement is untested marketing rhetoric; source-native video not verified.

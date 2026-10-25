@@ -1,0 +1,5 @@
+# Publication and integrity safeguards — Batch37–40
+
+PUBLIC_RIGHTS_LIMIT: GitHub receives original short independent analyst paraphrases, source SHA/coverage indexes, not complete third-party captions, original exact source-line anchors, full 53-column cumulative 1,853-claim source-rich ledger, or previous nested original private ZIP.
+
+All 105 privately reviewed original caption lines have unique source-character / original byte offsets; each of four original source hashes matches frozen register. B37 is visibly truncated mid-quote. B38 creator's monetary and platform metrics unverified. B39–40 repeat previously encountered speaking practice and embarrassment concepts; multiple creator clips DO NOT demonstrate scientific replication. Unsolicited hugging, singing on public transport or lying on venue floors can create consent and safety problems; no endorsement. Original video/audio not independently checked; four malformed :60 caption cues across B39 and B40 preserved. B25 historical original ZIP checksum mismatch unresolved. T01–T13 scientific trials NOT EXECUTED; final production Skill NOT APPROVED.
