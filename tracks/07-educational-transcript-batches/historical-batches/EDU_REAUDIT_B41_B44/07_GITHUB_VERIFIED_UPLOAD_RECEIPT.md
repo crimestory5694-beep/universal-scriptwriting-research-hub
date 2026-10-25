@@ -1,0 +1,25 @@
+# Adaptive educational Batch41–44 — Original research and GitHub publication receipt
+
+Date 2026-10-25. PUBLIC repository `crimestory5694-beep/universal-scriptwriting-research-hub`, branch `main`.
+
+## Original source reviews (each full caption source independently read)
+- **Batch41 EDU-SRC0038** *Give me 7min & I'll improve your storytelling skills by 187%*, original `transcripts (1) (2).zip` member **9,155** original UTF-8 bytes, SHA256 `3455fb2bb6cea5b3be6f300fba17c3fa6067612485f2830b578d036025d21b95` historical frozen register EXACT MATCH and source ZIP CRC PASS. **32** anchored provisional findings `EDU-C1854`–`EDU-C1885`; 3 malformed :60 caption seconds.
+- **Batch42 EDU-SRC0039** *Give me 9min, and I'll improve your storytelling skills by 176%*, original `transcripts (1) (2).zip`, **9,622** bytes, SHA256 `49c266fa4e620597918567d05b32cc7eb1af67a5f3948d55823b301695308048` historical MATCH, ZIP CRC PASS. **32** provisional findings `EDU-C1886`–`EDU-C1917`; 1 malformed :60 cue.
+- **Batch43 EDU-SRC0041** *How Alex Hormozi Gained 7.8M Followers (Through Storytelling)*, original `transcripts (2).zip`, **6,856** bytes, SHA256 `a39ccd1390853403cd256c60a854ebee1ce152094a7433ad9a93e2e500a9d6ab` historical MATCH, ZIP CRC PASS. **27** provisional findings `EDU-C1918`–`EDU-C1944`; 2 malformed :60 cues.
+- **Batch44 EDU-SRC0042** *How Ali Abdaal Gained 5.4M Subscribers (Through Storytelling)*, original `transcripts (2) (1).zip`, **5,052** bytes, SHA256 `38d7d25431cdb6acfcb81dd1b4d1380af9286567353e54386601e6b9ca7da1ea` historical MATCH, ZIP CRC PASS. **23** provisional findings `EDU-C1945`–`EDU-C1967`; 1 malformed :60 cue.
+- **EDU-SRC0040 previously reviewed** in historical earlier batches, so was skipped and NOT falsely counted as a new first-time review.
+
+## Research & preservation
+All four complete original physical UTF8 texts reviewed, **114/114 unique original nonblank caption line, Unicode character interval and source-relative physical UTF-8 byte interval tests PASS**. The full original 53-column private research ledger was append-only; old **1,853-row / 4,808,097-byte** ledger SHA256 `33578ae6e6f71daf93a54f799968ad10d07974782e51c31a1bd8ab61c5898345` remains **exact byte-identical prefix** of the new **1,967-row** original private ledger. Prior complete B37–40 original ZIP **7,488,674 bytes**, SHA256 `309b823c970db3047c76d8e59bfdc8be5f4a4a1b65b59320dddabb53daf3c271`, nested unchanged.
+
+**User-held PRIVATE research:** `EDU_BATCH41_44_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`: **8,065,485 bytes**, SHA256 `4a3b15601b6a760f3bb3827a3b2a822fb14434cdc8583298ef347cda5b0ce232`, **13/13 ZIP entry CRC and 12/12 internal SHA256 manifest PASS**. PRIVACY AND COPYRIGHT: full third-party original captions, exact source text lines/anchors, detailed private 53-column source-rich ledger, previous nested original research ZIP NOT uploaded to PUBLIC GitHub.
+
+## Actual GitHub publication
+Twelve PUBLIC-safe researcher-authored files (four short original source reports, four topic/evidence-class claim index CSVs with 32/32/27/23 lines, one combined 114-row index, group synopsis, progress table, public-rights gate) created as Git blobs and committed with non-forced branch update `2b5c5edafb32247d9dc1f6b08a48b110f0976980`. Live recursive GitHub main tree exact **12/12 Git blob SHA MATCH**, combined 114 claim ID continuity `EDU-C1854` to `EDU-C1967` confirmed.
+
+**Binary public-safe ZIP** `EDU_BATCH41_B44_PUBLIC_SAFE_GITHUB_ARCHIVE.zip` created from those exact twelve published remote bytes plus one README and committed `a802c1ca0bc5737787c9468d01d0bdac3290cd4c`. Git blob SHA1 `40ca2f02650a0f119da5df51b8113b5599e5d80c`, **58,379 bytes**; decoded by fetching GitHub and verified **13/13 ZIP CRC, filename and size checks**, central directory PASS. PUBLIC binary is a rights-filtered derivative, NOT the full private original research package.
+
+## Research director checkpoint / outstanding gates
+**1,967 cumulative provisional claim IDs**, **76/162 original source texts fully reviewed**, **86 first-time source reviews pending**, historic independent six-source text QA **0 pending**. Next unused ID **EDU-C1968**; next first-time source **EDU-SRC0043** *How Carryminati Played Youtube Algorithm (Decoding Creator Psychology Ep-5)*, original physical `transcripts (1).zip`; verify source SHA256 from 162-source register before extraction.
+
+**Evidence restrictions:** All creator-percentage improvement promises (187%, 176%), followers/views, 29-second and 90% sampling claims, inferred Hormozi/Abdaal storytelling formulas, named celebrity histories and claimed audience psychology are author-attributed and NOT independently validated. Repeated PAST/zooming into scene is not independent scientific replication. Source-native audio/video NOT_VERIFIED; T01–T13 experiments NOT_EXECUTED, production SKILL.md and Claude transfer HOLD. Historic Batch25 private original top-level ZIP SHA discrepancy **OPEN** and previous history not silently edited. PUBLIC_RIGHTS_LIMIT applies.
