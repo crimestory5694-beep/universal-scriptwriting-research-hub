@@ -1,0 +1,8 @@
+metric,prior_official,after_source_intake,status
+Official provisional EDU-C,3051,3051,UNCHANGED
+Official inspected first-time sources,104,104,UNCHANGED
+Official first-time pending,58,58,UNCHANGED
+Next unissued EDU-C,EDU-C3052,EDU-C3052,UNISSUED
+Locally prepared unmerged source audits,24,29,FIVE_ADDED
+Locally prepared unmerged observations,626,719,THIS_GROUP_93_ADDED
+B70-B72 original private ledger,MISSING,MISSING,HISTORICAL_MERGE_HOLD

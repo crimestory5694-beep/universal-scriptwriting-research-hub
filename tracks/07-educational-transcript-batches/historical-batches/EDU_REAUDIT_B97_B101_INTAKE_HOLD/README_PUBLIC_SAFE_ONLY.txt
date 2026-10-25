@@ -1,0 +1,1 @@
+Only source-derived rights-safe analyst paraphrases and metadata. Five original source members reviewed privately; no original third-party captions, exact physical anchors or private research ZIP included. All official historical counts remain unchanged.
