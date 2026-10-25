@@ -1,0 +1,7 @@
+# Batch62 — How To Research Any Topic Using Ai  Secret Prompts To Access Secret Data
+
+Complete supplied source text reviewed: `transcripts (1).zip :: How To Research Any Topic Using Ai  Secret Prompts To Access Secret Data.txt`; **30,454 original UTF-8 bytes**, original registered member SHA256 `80652bcf139148566db7adec7c355b25e7cd415322900aac56a029c53c6f3ed7` EXACT MATCH, original archive CRC PASS. **58** unique provisional source-attributed claim records (`EDU-C2636`–`EDU-C2693`) all original physical UTF8 byte, source character and unique caption line checks PASS privately. Native audio/video NOT_VERIFIED.
+
+Hindi/Hinglish teaching piece that distinguishes persona-based instruction from explicit role-and-task prompting, demonstrates source-era ChatGPT Custom Instructions and former GPT-4 plugin access, then proposes scholarly search with Consensus/Google Scholar, PDF-scoped question answering with ChatPDF, recursive outlines and notes distilled from external videos. A promotional GrowthSchool workshop interrupts the instruction. The on-screen exact prompt is not in captions; no generated persona biography should be treated as factual. Tool UI, names, subscriptions, capacities and accuracy are historical/unverified. The speaker explicitly demands independent cross-verification.
+
+Text fidelity: original malformed :60 cues **8**, U+FFFD glyphs **2**, retained exactly. PUBLIC_RIGHTS_LIMIT: do not publish third-party transcript, original exact source anchor lines, 53-column private source-rich cumulative ledger or nested historical research ZIP.

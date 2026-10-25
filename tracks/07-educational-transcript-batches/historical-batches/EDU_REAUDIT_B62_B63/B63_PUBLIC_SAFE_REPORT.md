@@ -1,0 +1,7 @@
+# Batch63 — How to Speak So Well People Think You’re Brilliant
+
+Complete supplied source text reviewed: `transcripts (5).zip :: How to Speak So Well People Think You’re Brilliant.txt`; **8,999 original UTF-8 bytes**, original registered member SHA256 `9f6fa8c7daca5a37b48fc8fab31f1510e5b46b7878ba100bee37aaa1d9980ef5` EXACT MATCH, original archive CRC PASS. **39** unique provisional source-attributed claim records (`EDU-C2694`–`EDU-C2732`) all original physical UTF8 byte, source character and unique caption line checks PASS privately. Native audio/video NOT_VERIFIED.
+
+English rhetorical analysis of attributed Barack Obama speeches, organized around five speaking techniques: expectation reversal, small-scene storytelling, anaphora (repeated sentence openings), antithesis (opposing phrases) and familiar analogy. The original source clips, chronology and attributions were not independently checked against recordings. Brain, audience memory, engagement and rapid trust promises remain speaker inference, not proven outcomes. Political speech serves only as a source-attributed rhetorical example without political endorsement.
+
+Text fidelity: original malformed :60 cues **4**, U+FFFD glyphs **0**, retained exactly. PUBLIC_RIGHTS_LIMIT: do not publish third-party transcript, original exact source anchor lines, 53-column private source-rich cumulative ledger or nested historical research ZIP.
