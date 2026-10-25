@@ -1,0 +1,7 @@
+# Batches70–72 — PUBLIC_RIGHTS_LIMIT, attribution and evidence QA
+
+Only independent brief researcher paraphrases, timestamps, SHA256 provenance, technique classifications and risk notes are authorized for PUBLIC GitHub. Do not publish full copyrighted source transcripts, exact physical original caption anchors, full 53-column cumulative 3,051-row original ledger, or nested previous full original ZIP.
+
+All three examples are creator-led analyses of attributed third-party spoken clips, NOT authenticated primary recordings. Steve Jobs/Bill Hewlett call account occurs in two separate source videos; repetition does NOT independently verify a historical event. Other narratives attributed to Jeff Bezos, Mark Cuban, Ryan Reynolds, Codie Sanchez and Tony Robbins require primary media and separate fact verification before representing quotations or biographical events as factual. Business/finance guarantees and numeric income/wealth examples are unverified and are not financial advice. Five-technique convergence from a claimed 78-person sample and top-1-percent improvement claim lack empirical proof. Fictional manager dialogue is a hypothetical exercise, never nonfiction verbatim evidence.
+
+Parent archive ZIP CRC PASS, strict UTF8 original member hash match, **116/116 exact source line and physical-byte-offset audits PASS** privately. B25 historical original top-level archive SHA discrepancy OPEN; B58 full source not recovered; native source audio/video not independently verified; scientific T01-T13 not executed, production skill approval HOLD.

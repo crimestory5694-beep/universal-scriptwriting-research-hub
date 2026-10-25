@@ -1,0 +1,13 @@
+# Adaptive educational Batches70–72 — PUBLIC-safe source review
+
+Three genuine first-time original caption member reviews: EDU-SRC0071 (6123 bytes), EDU-SRC0072 (16010 bytes), EDU-SRC0073 (9888 bytes). Each matched the original frozen historical SHA256 and parent ZIP CRC PASS. **116** original independent source-specific *descriptive* claims: **30**, **49** and **37**, contiguous EDU-C2936–EDU-C3051. All **116/116 unique exact original caption line, Unicode character and physical UTF-8 byte interval checks PASS** in PRIVATE full original evidence. No original primary audiovisual checked.
+
+**Batch70**: Steve Jobs-attributed phone-call anecdote split into anticipation hook, action-first opening, surprise, direct dialogue and audience takeaway. Direct quotes/age/history are only source captions; similar anecdote appears in Batch71 and must NOT be counted as historical corroboration.
+
+**Batch71**: source-claimed 78-person/hundreds-of-interviews analysis, five examples attributed to Bezos, Cuban, Reynolds, Cody Sanchez and Jobs. Inferred techniques: action, state a goal, disclose expected future, replay dialogue, and end with one takeaway. 78-person research claim and top-one-percent promise are NOT independently substantiated. The financial guarantee in a mentor conversation is NOT investment guidance. Hypothetical work dialogue is not documentary quotation.
+
+**Batch72**: Tony Robbins-attributed Thanksgiving grocery story mapped to setup, trigger, rising action, climax and resolution; speaker claims listener sympathy through conflict, dialogue, expectations and visible emotion. Native historical audio/video and family narrative facts unverified; no audience causal study.
+
+**Cumulative original research:** 3,051 provisional observations; **104/162** registered original source units inspected, **58** pending first-time, prior EDU-SRC0056 still only a 173-byte incomplete caption fragment. Next unused **EDU-C3052**; next first-time **EDU-SRC0074**, *How to Tell Stories So Good Even Your Boring Days Sound Interesting*, reverify original hash first.
+
+**Append-only preservation:** previous 2,935-row original ledger 8396725 bytes SHA256 `578a28fa52f8de11277e42f4566049311df88ceef69a8730796e1d11630f7860` exact unchanged byte prefix; previous full private B67–69 original ZIP 14255899 bytes SHA256 `dcf7bbda139c96a9988dd12bec65bc92cc9c53c48635c32af6802a54a7f9af4a` nested byte-for-byte. New original private research ZIP remains user-held NOT PUBLIC. B25 historical original ZIP SHA discrepancy OPEN; B58 incomplete; original native A/V NOT_VERIFIED; T01–T13 effectiveness trials NOT_EXECUTED; final Skill/Claude transfer HOLD. PUBLIC_RIGHTS_LIMIT.
