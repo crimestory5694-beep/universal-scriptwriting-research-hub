@@ -1,0 +1,8 @@
+Metric,Before,After,Status
+Official EDU-C claim count,3051,3051,UNCHANGED
+Official source-reviewed count,104,104,UNCHANGED
+Official first-time pending,58,58,UNCHANGED
+Next unissued claim ID,EDU-C3052,EDU-C3052,NOT_ISSUED
+New source observations,0,107,LOCAL_DRAFT_ONLY
+Locally prepared including prior 221,221,328,DRAFT_NOT_CUMULATIVE
+Original historical B70_B72 full ZIP,MISSING,MISSING,CONTINUITY_HOLD
