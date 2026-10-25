@@ -1,0 +1,7 @@
+# Rights, authenticity and hold
+
+The GitHub repository is PUBLIC. This archive contains newly authored summaries, source identity/hash/progress metadata and a 112-ID non-EDU-C candidate index. It contains **no original third-party transcripts**, no exact caption anchors or physical UTF-8 offsets, no full private source-rich claim CSV, and no preceding user-held original ZIP.
+
+There are 112 detailed new claims in a separate user-held private audit ZIP; this public derivative is intentionally an **abbreviated index**, not the detailed 112-row source-paraphrase CSV. Prior complete historical B70–72 private cumulative original was unavailable, so the official historical claim ID and source coverage remain unchanged. The author-audited source text is not independently authenticated audio, original video or experimental results.
+
+Source narrative quality research is NOT a retention formula. Attributed celebrity/company stories, quoted dialogue, medical history, purported gender research, public-speaking learning-pyramid percentages and financial/YouTube outcomes remain subject to external primary-source verification. No scientific tests T01–T13 executed; production Skill and Claude transfer HOLD.

@@ -1,0 +1,68 @@
+{
+  "checkpoint_date": "2026-10-25",
+  "scope": "B82-B86 PUBLIC abbreviated derivative",
+  "source_member_hashes": "5/5 exact frozen historical matches",
+  "original_zip_crc": "PASS",
+  "private_exact_anchor_checks": "112/112 PASS",
+  "new_unissued_observations": 112,
+  "local_candidate_count_since_B73": 440,
+  "official_edu_claims_before_after": 3051,
+  "official_reviewed_source_count_before_after": 104,
+  "official_pending_source_count_before_after": 58,
+  "next_official_claim": "EDU-C3052 (UNISSUED)",
+  "next_new_local_source": "EDU-SRC0088 (reverify live state)",
+  "authoritative_private_B70_B72_zip": "MISSING",
+  "rights": "PUBLIC_RIGHTS_LIMIT; third party caption sources, exact physical anchors, private historical ZIP withheld",
+  "sources": [
+    {
+      "id": "EDU-SRC0083",
+      "title": "I Interviewed 1,000 People to Find the #1 Storytelling Technique",
+      "container": "transcripts (1) (1).zip",
+      "sha256": "c0ce15c6fff210837f51dd6f5f01747524ef8f885378244c5d38ddedd13a81a4",
+      "bytes": 8266,
+      "caption_lines": 161,
+      "candidate_count": 23,
+      "malformed_60_timestamps": 2
+    },
+    {
+      "id": "EDU-SRC0084",
+      "title": "I Ranked the Best Storytellers in Business — Sorry, Elon.",
+      "container": "transcripts (1) (1).zip",
+      "sha256": "070befe5cd09a153dc17ac96f37bcca218c70863b98ca0ce5576399ae76277b5",
+      "bytes": 23852,
+      "caption_lines": 467,
+      "candidate_count": 30,
+      "malformed_60_timestamps": 16
+    },
+    {
+      "id": "EDU-SRC0085",
+      "title": "I Read 31 Public Speaking Books. Here’s What I Learned…",
+      "container": "transcripts (5).zip",
+      "sha256": "8fa2f063886bd013f629bf812de871f5f086a4efedfe09c65660e0ac68601917",
+      "bytes": 14165,
+      "caption_lines": 273,
+      "candidate_count": 28,
+      "malformed_60_timestamps": 2
+    },
+    {
+      "id": "EDU-SRC0086",
+      "title": "I Read 34 Books on Storytelling to Learn These 3 Lessons",
+      "container": "transcripts (1) (2).zip",
+      "sha256": "d686a12b25ab7c728c6763f127cc8c33e8127a708c2e791661dff58cb5731806",
+      "bytes": 7020,
+      "caption_lines": 171,
+      "candidate_count": 17,
+      "malformed_60_timestamps": 2
+    },
+    {
+      "id": "EDU-SRC0087",
+      "title": "I Sacrificed My Channel For Raj Shamani. (Strategy Exposed). #shorts",
+      "container": "transcripts (1).zip",
+      "sha256": "d3ae107727bc3d529fd66e7ae599fc8fb09bbe8fb84b6feda3b5fb4822a1d494",
+      "bytes": 5300,
+      "caption_lines": 47,
+      "candidate_count": 14,
+      "malformed_60_timestamps": 0
+    }
+  ]
+}

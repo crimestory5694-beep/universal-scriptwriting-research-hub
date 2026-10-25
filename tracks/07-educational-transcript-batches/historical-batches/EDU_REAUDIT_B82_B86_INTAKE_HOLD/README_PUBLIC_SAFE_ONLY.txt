@@ -1,0 +1,1 @@
+RIGHTS-FILTERED PUBLIC DERIVATIVE: Five B82–B86 source text audits, descriptive source briefs and candidate ID index; original source-dense private evidence intentionally withheld. This is NOT the cumulative original ZIP, official EDU-C extraction or production skill approval.
