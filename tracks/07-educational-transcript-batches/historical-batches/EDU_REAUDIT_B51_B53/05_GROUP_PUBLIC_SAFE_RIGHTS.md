@@ -1,0 +1,7 @@
+# Batches51–53 — Public source integrity and rights gate
+
+**PUBLIC_RIGHTS_LIMIT:** PUBLIC GitHub receives only researcher-authored short source reports and brief per-claim paraphrase/topic/evidence classification, source SHA256 metadata and checkpoint notes. Raw copyrighted full captions, unique exact original source anchor text, complete 53-column 2,396-row private ledger and nested original private research ZIPs are **withheld**.
+
+Three independent original physical source SHA256 matches and ZIP CRC PASS. 132/132 original caption lines, Unicode text intervals and actual strict UTF8 source byte offsets PASS in separate private archive. B51 and B52 both describe intentional public social embarrassment and physical interactions. No nonconsensual stranger contact, public disturbance, service impersonation or obstructing business floors is recommended. B52 attributes a rowing historical story, 34 professional interviews, 31 book review and ranking outcomes that are **NOT independently verified**. B53 describes AI voice/text services without current product validation or privacy assurance. Do not disclose sensitive identifiable stories to AI without permission; preserve source attribution and distinguish real versus invented dialogue.
+
+Historical B25 top-level original research ZIP SHA discrepancy **OPEN**. T01–T13 experiments NOT_EXECUTED; native audiovisual unverified; final Universal Scriptwriting production SKILL and Claude transfer NOT APPROVED.

@@ -1,0 +1,4 @@
+Batch,Source ID,UTF8 source bytes,New provisional claims,Claim interval,Historical SHA256,Source archive CRC,Reviewed sources after,First-time pending after,Native audiovisual
+51,EDU-SRC0049,5620,26,EDU-C2265..EDU-C2290,MATCH,PASS,83,79,NOT_VERIFIED
+52,EDU-SRC0050,25828,67,EDU-C2291..EDU-C2357,MATCH,PASS,84,78,NOT_VERIFIED
+53,EDU-SRC0051,8793,39,EDU-C2358..EDU-C2396,MATCH,PASS,85,77,NOT_VERIFIED

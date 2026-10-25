@@ -1,0 +1,5 @@
+# Batch 51 — How I'd Learn Public Speaking (if I could start over)
+
+EDU-SRC0049 — Full original `transcripts (5).zip` member 5,620 UTF-8 bytes / 5,616 Unicode characters; historical exact source SHA256 `addc1ea2d29c8d4bf6718b34f17538e46824479947888ca9215e5f43d0914b5d` MATCH and original ZIP CRC PASS. **26** source-specific original line/character/physical UTF-8 byte interval checks PASS; provisional IDs EDU-C2265–EDU-C2290. Native audiovisual NOT_VERIFIED. Eight :60 malformed time cues preserved.
+
+The speaker's three teaching steps: minimize excessive concern over onlookers, rehearse short impromptu debate speeches with minimal planning, and join speaking/improv groups. Stories about singing on transit and asking strangers for physical contact are self-reported; **never recommend nonconsensual contact or disrupting public spaces**. Speaker's guarantee of rapid stage confidence is unsupported by independent trials. Multiple themes repeat earlier source videos, not causal scientific replication. Original exact captions/anchors remain PRIVATE. PUBLIC_RIGHTS_LIMIT; only the corresponding independently authored 26-row topic/classification index is published.
