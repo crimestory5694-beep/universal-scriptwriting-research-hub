@@ -1,0 +1,4 @@
+Batch,Source ID,Original UTF8 bytes,Provisional findings,Claim interval,Historical SHA256 match,Original archive CRC,Native AV,Reviewed cumulative
+45,EDU-SRC0043,4835,21,EDU-C1968..EDU-C1988,PASS,PASS,NO,77
+46,EDU-SRC0044,26628,51,EDU-C1989..EDU-C2039,PASS,PASS,NO,78
+47,EDU-SRC0045,5227,26,EDU-C2040..EDU-C2065,PASS,PASS,NO,79

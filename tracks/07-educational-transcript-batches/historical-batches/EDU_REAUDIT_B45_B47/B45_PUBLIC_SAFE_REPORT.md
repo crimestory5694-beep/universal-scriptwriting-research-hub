@@ -1,0 +1,5 @@
+# Batch45 — EDU-SRC0043
+
+*How Carryminati Played Youtube Algorithm (Decoding Creator Psychology Ep-5)*. Entire original Hindi/Hinglish caption text **4,835 UTF-8 bytes**, physical member `transcripts (1).zip :: How Carryminati Played Youtube Algorithm (Decoding Creator Psychology Ep-5).txt`, SHA256 `5523a7a4a30f0e445c6815a0b2531485fea9f4d4a850cdf0d5a13ce8d8a52034` MATCH original 162-source register and archive CRC PASS. **21** source-grounded provisional EDU-C1968–EDU-C1988 observations; 21/21 exact unique original caption line and strict UTF-8 physical byte anchors privately PASS.
+
+Speaker hypothesizes viewer superiority, lockdown frustration, exposure-induced trust and dopamine/oxytocin/serotonin effects; study attribution, 80M viewers and creator biography are NOT independently verified. No algorithm source code, clinical experiments, content analytics or native A/V reviewed. This public report and short index are original researcher-authored derivative metadata, not the source transcript.
