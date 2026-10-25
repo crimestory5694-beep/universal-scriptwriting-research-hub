@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "EDU-SRC0144",
+    "expected_sha256": "fb35e0d1c23e8a5ae42ad1f1d0150bc4fdbaa812e2594e9f1244a5de03a44c87",
+    "observed_sha256": "f5c43c8aac068b4a319b759081ce325cd226c125f597e664ff560f998162f295",
+    "utf8_bytes": 17469,
+    "observation_count": 10,
+    "source_identity": "ALTERNATE_EDITION_SHA256_MISMATCH",
+    "frozen_verified": false,
+    "original_parent_file": "Pasted markdown (4)(1).md",
+    "source_type": "complete_available_edition_block",
+    "original_audio_video": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0145",
+    "expected_sha256": "45b8777246fef8ea3e5a320a03c9404ffc8880975374a2e077b232cafabac027",
+    "observed_sha256": "baca1eacb444945220896db4a097378fb473f91a2fc4a220d71d9caf247df4f5",
+    "utf8_bytes": 10018,
+    "observation_count": 10,
+    "source_identity": "ALTERNATE_EDITION_SHA256_MISMATCH",
+    "frozen_verified": false,
+    "original_parent_file": "Pasted markdown (4)(1).md",
+    "source_type": "complete_available_edition_block",
+    "original_audio_video": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0146",
+    "expected_sha256": "3c248cb9d74d3430505bc59714f2b46c94bf471d8c0ef28ce00d5128ca058a5f",
+    "observed_sha256": "e6021723dd793ee80a3a8b9e07346ec6fe8d8810315c4531e46c5924076562f1",
+    "utf8_bytes": 29037,
+    "observation_count": 11,
+    "source_identity": "ALTERNATE_EDITION_SHA256_MISMATCH",
+    "frozen_verified": false,
+    "original_parent_file": "Pasted markdown (4)(1).md",
+    "source_type": "complete_available_edition_block",
+    "original_audio_video": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0147",
+    "expected_sha256": "08011cbe0f9c000af3e08a0606605e92515c9a1f387773b11f3370c78eb51419",
+    "observed_sha256": "59807f6ddac11660b8a792777b7d6b961cfce5ef016e27ac28238aa00e402bb1",
+    "utf8_bytes": 40018,
+    "observation_count": 10,
+    "source_identity": "ALTERNATE_EDITION_SHA256_MISMATCH",
+    "frozen_verified": false,
+    "original_parent_file": "Pasted markdown (4)(1).md",
+    "source_type": "complete_available_edition_block",
+    "original_audio_video": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0151",
+    "expected_sha256": "85886aa92a2dec1197126f8f0197fd56505594235cc19968dd039873af1a1195",
+    "observed_sha256": "85886aa92a2dec1197126f8f0197fd56505594235cc19968dd039873af1a1195",
+    "utf8_bytes": 17665,
+    "observation_count": 13,
+    "source_identity": "FROZEN_SHA256_EXACT_MATCH",
+    "frozen_verified": true,
+    "original_parent_file": "Pasted markdown(20261019-104054).md",
+    "source_type": "original_full_document",
+    "original_audio_video": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0152",
+    "expected_sha256": "b4eb4f6620655f7bc38d4ca81702f377889436148e4a2d94c79b98067d545e69",
+    "observed_sha256": "b4eb4f6620655f7bc38d4ca81702f377889436148e4a2d94c79b98067d545e69",
+    "utf8_bytes": 61266,
+    "observation_count": 17,
+    "source_identity": "FROZEN_SHA256_EXACT_MATCH",
+    "frozen_verified": true,
+    "original_parent_file": "Pasted text (2)(20261019-104734).txt",
+    "source_type": "historical_exact_member_line",
+    "original_audio_video": "NOT_VERIFIED"
+  }
+]

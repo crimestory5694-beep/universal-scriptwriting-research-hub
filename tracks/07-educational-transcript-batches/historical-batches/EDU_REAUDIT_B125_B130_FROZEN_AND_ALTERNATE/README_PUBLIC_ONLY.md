@@ -1,0 +1,1 @@
+Rights-filtered analyst paraphrases and source-hash metadata only. Full third-party texts, exact anchors and previous private ZIP withheld. Two new frozen source identities PASS; four alternate-edition texts do NOT pass historical frozen SHA.

@@ -1,0 +1,72 @@
+source_id,observation_id,role,analyst_paraphrase,evidence_limit,source_version
+EDU-SRC0144,ALT-EDU-SRC0144-001,SKILL_DEFINITION,Creator defines a skill as repeatable instructions rather than a fresh explanation every time.,Teacher explanation; not independent system specification.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-002,ANALOGY,Source uses a metaphor to frame a reusable skill as packaged prompts.,Metaphor is not a measured quality outcome.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-003,TOOL_BOUNDARY,Creator differentiates saved skills from plugin-connected capabilities.,Product UI examples may be outdated.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-004,REQUIREMENT_CHALLENGE,Creator introduces questioning an idea until it is clearer before execution.,"Anecdotal recommendation, not measured efficacy.",ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-005,INPUT_DISCOVERY,Presenter discusses free-form versus multiple-choice clarification.,Choice of interaction depends on user/task.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-006,WORKFLOW_REUSE,Author proposes repeatable report creation as a skill candidate.,No validated time or accuracy comparison.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-007,OPTIONAL_REFRAMING,Alternating constraint lenses are demonstrated for idea analysis.,Not necessarily helpful for factual narration.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-008,VISUAL_DELIVERABLE,Visual explanatory result used to illustrate skill output.,Demonstration not accessibility or math verification.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-009,STYLE_REVISION,Presenter describes a style-refinement skill for AI-sounding prose.,Vague style label needs measurable editorial rubric.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0144,ALT-EDU-SRC0144-010,SECURITY_WARNING,Video closes with warning about trust in downloaded skills.,Never execute unknown skill code or leak credentials.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-001,SKILL_USE_CASE,Presenter frames repeatable work as a reason to create skills.,Not causal efficiency proof.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-002,CAPABILITY_LEVEL,Built-in abilities contrasted with self-created skills.,Historical product UI subject to change.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-003,DEMONSTRATION,Slide-generation example illustrates task-specific skill activation.,Author judges first result imperfect.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-004,QUALITY_LIMIT,Creator explicitly notes that a first generated deck is not ideal.,Qualitative demonstration only.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-005,INSTRUCTION_ARTIFACT,Explains that a skill instructs a model about process and tools.,Versioned implementation requirements unknown.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-006,TRIGGER_DESIGN,Demonstrates explicit trigger/request examples while building a skill.,Example triggers not exhaustive.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-007,SPECIFICATION,Distinctive scoring inputs define scope for a custom information-triage skill.,Rubric validity not independently checked.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-008,ITERATIVE_CHANGE,Prompts can revise a created skill through feedback.,No regression evaluation shown.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-009,CONNECTOR_DEPENDENCY,Connected inbox summarization used as example of a tool-integrated skill.,Needs user authorization and privacy boundary.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0145,ALT-EDU-SRC0145-010,SCOPE_PARAMETER,Summary request constrained by a particular reporting period.,Date awareness and completeness must be verified.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-001,SKILL_DEFINITION,Skill positioned as a persistent collection of task guidelines.,Creator description not normative platform spec.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-002,BRAND_CONSTRAINT,Brand formatting used to illustrate reusable consistency requirements.,Output needs independent visual review.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-003,ADOPTION_LEVELS,Author stages use of packaged platform skills before custom authoring.,Product-specific process may change.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-004,SKILL_ADAPTATION,Adapts a stock skill into a specialized brand-book workflow.,Derived work may have license/rights limits.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-005,PARTNER_ECOSYSTEM,Partner skill catalogs discussed as an optional external capability.,Availability and licensing not verified now.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-006,CONNECTOR_ARCHITECTURE,Source distinguishes tools/data access from reusable instruction layer.,Never assume read/write permissions.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-007,SCRIPTING_EXAMPLE,Presenter proposes an Instagram Reels script-writing skill with user-specific tone.,"Single creator demo, not verified audience retention.",ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-008,INPUT_CONTRACT,Raw article input named for a defined script-repurposing process.,Research fidelity and permissions required.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-009,TESTING_PRACTICE,Creator explicitly asks for test cases when building a skill.,A test case is not independent expert approval.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-010,EDITORIAL_ITERATION,Author revises draft hooks based on subjective review.,Do not infer CTR or retention improvement.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0146,ALT-EDU-SRC0146-011,DISCOVERY_SPEC,Discusses skill trigger descriptions at a technical level.,Needs independent platform verification.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-001,SKILL_PROJECT_BOUNDARY,Marketing worker analogy separates skill competency from project-specific context.,"Teaching analogy, not architecture proof.",ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-002,CONTEXT_BOUNDARY,Creator explains keeping each client/project dataset separate from reusable skills.,Isolation and data access must be verified.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-003,BRAND_CONTEXT,Brand guidelines are named as project-specific inputs.,No automatic permission to reuse third-party material.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-004,FOLDER_STRUCTURE,A skill folder is shown as a structured artifact.,Creator-specific implementation.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-005,SUPPORTING_ASSETS,"Optional templates, fonts and icons are described as skill assets.",Licensing and font reuse matter.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-006,OUTPUT_EXAMPLE,Shows a report generated with skill guidance.,No independent report-quality benchmark.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-007,REFERENCE_LAYER,References are identified as a separate supporting-information layer.,Retrieved sources need authenticity checks.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-008,AUTOMATION_CODE,Executable scripts distinguished from text instruction content.,Remote scripts must not run unchecked.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-009,DOMAIN_SPECIALIZATION,SEO-audit example illustrates scoped specialist skills.,Not general scriptwriting validation.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0147,ALT-EDU-SRC0147-010,TRIGGER_BEHAVIOR,Explains skill invocation from user request text rather than a universal manual command.,Activation depends on live platform/version.,ALTERNATE_EDITION_SHA256_MISMATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-001,RESOURCE_ORGANIZATION,A resource document separates installation steps from reusable copy/paste prompts.,Instruction content needs update against current platform.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-002,BUILT_IN_VS_CUSTOM,One built-in visualization skill is separated from user-authored skills.,Historic product availability not current proof.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-003,NOTIFICATION_SKILL,Notification skill is specified as an external-app workflow.,"Needs explicit opt-in, supported app, and legitimate secrets handling.",FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-004,SECRET_HANDLING,Credential handling constraints are expressly specified in the notification example.,Never place secrets into shareable prompt files or logs.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-005,CONTINUITY_WORKFLOW,"Reusable handoff skill template records objective, status and next steps.",Handoff docs do not certify work completion.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-006,HANDOFF_FIELD,The proposed handoff format explicitly includes task objective.,Author-prescribed template only.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-007,PROVENANCE_FIELD,The proposed handoff format includes source/file references for continuity.,References still need actual existence/readability checks.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-008,CLARIFICATION_SKILL,A separate skill supports structured questioning before beginning ambiguous tasks.,Should not trigger unnecessary questioning.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-009,CRITIQUE_SKILL,An idea-critical-review skill is positioned as a reusable way to challenge assumptions.,No measurable decision improvement.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-010,SKILL_CONSTRUCTION,The resource introduces a staged process for creating multi-step skills.,Outcome not formally validated.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-011,VERIFICATION_GATE,The setup guidance asks the model to check skill creation before treating it complete.,A request to verify does not equal independent verification.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-012,PLUGIN_VS_SKILL,A bundled optional plugin is listed as a separate item.,Not necessarily relevant to scriptwriting.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0151,FROZEN-EDU-SRC0151-013,VIDEO_TOOL_INTEGRATION,Video-related plugin setup is separately documented.,Tool/rights/version conditions apply.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-001,PROBLEM_FRAMING,Creator opens with an explicit question about research and topic selection.,Question comes from creator anecdote.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-002,SCOPE_QUALIFIER,Creator frames method as personal workflow rather than a universal formula.,Important self-reported limitation.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-003,SECONDARY_CROSSCHECK,Author says they compare AI-assisted research responses.,Cross-model agreement is not independent factual validation.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-004,AUTHOR_PREFERENCE,Creator claims not to use AI for scripting.,"Creator preference, not proof AI cannot convey human tone.",FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-005,TOPIC_SELECTION,Topic selection presented as prerequisite for script quality.,Not established as measured ranking cause.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-006,COMPETITOR_RESEARCH,Monitoring category-relevant trends offered as one discovery route.,Creator views do not prove audience demand.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-007,NOVELTY_HEURISTIC,Surprise/wow moment described as optional topic discovery cue.,90% audience reaction claim is unsupported.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-008,AUDIENCE_INPUT,Prior-video and competitor comments offered as viewer-question signals.,Self-selected comments not a representative sample.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-009,DISCOVERY_ENVIRONMENT,Separate platform account recommended for niche discovery.,"Personal technique, not mandated platform configuration.",FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-010,PRIMARY_VERIFICATION,Creator still recommends manual source-level checking after comparing AI answers.,No original independent sources demonstrated in this caption.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-011,SOURCE_DISCOVERY,Linked-source discovery contrasted with freeform generation.,Source links can still be wrong or weak.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-012,OUTLINE_FIRST,Scriptwriting is described as a narrative roadmap rather than verbatim reading.,On-camera approach may not fit TTS documentaries.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-013,BACKGROUND_RESEARCH,Creator describes studying several topic videos before outline.,Other videos are not independent primary facts.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-014,FACT_NOTES,"Speaker recommends explicit notes for key numbers, dates and names.",Every claim needs original-source check.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-015,EXPLANATORY_COMPARISON,Concrete side-by-side comparison is used to illustrate structuring a business story.,Demonstration not externally verified economics.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-016,DELIVERY_REHEARSAL,Rehearsal/telling a friend is described as preparation for natural delivery.,Only applicable to presenter-led recording.,FROZEN_SHA256_EXACT_MATCH
+EDU-SRC0152,FROZEN-EDU-SRC0152-017,VIRALITY_ANECDOTE,Author cites a 47-million-view rabbit-video result.,No independently checked analytics or causal attribution.,FROZEN_SHA256_EXACT_MATCH

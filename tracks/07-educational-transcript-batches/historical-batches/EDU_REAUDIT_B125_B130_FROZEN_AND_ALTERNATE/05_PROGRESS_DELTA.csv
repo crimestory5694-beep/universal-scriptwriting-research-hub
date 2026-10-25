@@ -1,0 +1,11 @@
+metric,value,state
+previous_frozen_verified,151,CHECKPOINT
+new_frozen_verified,2,VERIFIED
+current_frozen_verified,153,RECONCILED_TRACK07
+frozen_pending,9,SOURCE_VERSION_HOLD
+last_merged_historical,104,HOLD
+last_merged_claims,3051,HOLD
+old_unmerged_frozen_observations,1101,NONCANONICAL
+new_frozen_observations,30,NONCANONICAL
+old_alternate_observations,50,VERSION_HOLD
+new_alternate_observations,41,VERSION_HOLD
