@@ -1,0 +1,2 @@
+Source ID,Prior coverage,New coverage,New claims,Claim range,Cumulative before,Cumulative after,Reviewed before,Reviewed after,Pending before,Pending after,Historical QA pending,Original SHA256 match,Unique original source anchors
+EDU-SRC0030,INDEXED_NOT_CLAIM_EXTRACTED,BATCH33_FIRST_TIME_FULL_ORIGINAL_TEXT_REVIEW,82,EDU-C1587..EDU-C1668,1586,1668,64,65,98,97,0,PASS,82/82 PASS
