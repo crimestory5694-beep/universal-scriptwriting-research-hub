@@ -1,0 +1,55 @@
+candidate_id,source_id,short_analyst_paraphrase,evidence_role,non_support_caveat,official_EDU_C
+B117-B119-0136-001,EDU-SRC0136,"Video opens with a provocative claim that familiar view/watch metrics no longer matter, then later qualifies it.",RHETORICAL_HOOK,Algorithm claim unverified.,NOT_ISSUED
+B117-B119-0136-002,EDU-SRC0136,The speaker promises a five-question agenda for the new recommendation system.,EXPLANATION_ROADMAP,Does not authenticate platform change.,NOT_ISSUED
+B117-B119-0136-003,EDU-SRC0136,An earlier upload-identifier model is described as having a meaningless code.,PLATFORM_HISTORY_CLAIM,Source only; no primary documentation.,NOT_ISSUED
+B117-B119-0136-004,EDU-SRC0136,"Click, viewing duration and interactions are presented as elements of an older recommendation model.",PLATFORM_MODEL_GENERALIZATION,Not independently confirmed.,NOT_ISSUED
+B117-B119-0136-005,EDU-SRC0136,Narrator attributes discovery difficulty for new creators to insufficient initial audience signals.,CREATOR_DISCOVERY_HYPOTHESIS,Not controlled new-channel evidence.,NOT_ISSUED
+B117-B119-0136-006,EDU-SRC0136,"Earlier retention, CTR and watch time guidance is acknowledged as still relevant, with an asserted new twist.",SELF_QUALIFICATION,No quantitative test.,NOT_ISSUED
+B117-B119-0136-007,EDU-SRC0136,A purported engineer-led large recommender model is introduced as the central turning point.,ATTRIBUTED_TECHNICAL_CLAIM,Original presentation not separately verified.,NOT_ISSUED
+B117-B119-0136-008,EDU-SRC0136,"The speaker proposes that video frames, audio, editing and pacing inform a semantic content representation.",SYSTEM_DESCRIPTION_HYPOTHESIS,Architecture not independently audited.,NOT_ISSUED
+B117-B119-0136-009,EDU-SRC0136,A stepwise embedding model is explained with an everyday layered-sandwich analogy.,EXPLANATORY_ANALOGY,"Illustrative example, not actual encoding specification.",NOT_ISSUED
+B117-B119-0136-010,EDU-SRC0136,Language and music genre are used as imaginary numerical code layers.,ILLUSTRATIVE_EXAMPLE,Creator expressly frames numbers as examples.,NOT_ISSUED
+B117-B119-0136-011,EDU-SRC0136,Video representations are said to connect to viewer watch-history clusters.,PLATFORM_MODEL_HYPOTHESIS,No source code or owner data.,NOT_ISSUED
+B117-B119-0136-012,EDU-SRC0136,Contrasting cake making and car repair videos are used to illustrate inferred shared viewer interest.,AUDIENCE_ANALOGY,Hypothetical viewer.,NOT_ISSUED
+B117-B119-0136-013,EDU-SRC0136,A mechanical keyboard tutorial is introduced as a hypothetical match for technique-oriented interests.,HYPOTHETICAL_MATCHING_EXAMPLE,Not evidence of actual recommendation behavior.,NOT_ISSUED
+B117-B119-0136-014,EDU-SRC0136,The speaker reframes channel niche as audience interest or mindset rather than only surface topic.,CREATOR_STRATEGY_POSITION,Psychographic targeting efficacy not demonstrated.,NOT_ISSUED
+B117-B119-0136-015,EDU-SRC0136,Misleading thumbnails and title-content mismatch are criticized in the context of claimed system updates.,TRUTH_IN_PACKAGING_PRINCIPLE,Ethical editorial idea; algorithm effect unverified.,NOT_ISSUED
+B117-B119-0136-016,EDU-SRC0136,Visual and audio clarity early in the piece is prescribed with untested time windows.,TIMING_FORMULA_NON_SUPPORT,Do not universalize 30-60 seconds or 5 seconds.,NOT_ISSUED
+B117-B119-0136-017,EDU-SRC0136,The creator asserts higher priority for original clear content over generic AI clips.,QUALITY_SIGNAL_CLAIM,Platform weighting not verified.,NOT_ISSUED
+B117-B119-0136-018,EDU-SRC0136,Topic consistency is recommended over chasing unrelated virality.,CONTENT_STRATEGY_OPTION,No experimental ranking proof.,NOT_ISSUED
+B117-B119-0136-019,EDU-SRC0136,A distinction is made between being recommended to viewers and satisfying them after they arrive.,DISTINCTION_OF_METRICS,No inferred scoring formula.,NOT_ISSUED
+B117-B119-0136-020,EDU-SRC0136,Returning viewers and watched duration are discussed as possible indicators of viewer satisfaction.,ANALYTICS_HYPOTHESIS,Hidden satisfaction score assertion unverified.,NOT_ISSUED
+B117-B119-0136-021,EDU-SRC0136,The speaker redirects to a separate storytelling and hook video rather than teaching it fully here.,MISSING_LINKED_EVIDENCE,"CTA, not a validated method.",NOT_ISSUED
+B117-B119-0137-001,EDU-SRC0137,A sensational historical claim about AI prompt-engineer earnings opens the short.,CLAIM_HEAVY_HOOK,No earnings records.,NOT_ISSUED
+B117-B119-0137-002,EDU-SRC0137,The presenter questions another creators product-performance claim and proposes a personal test.,SKEPTICAL_REVIEW_FRAME,Personal test only.,NOT_ISSUED
+B117-B119-0137-003,EDU-SRC0137,"Prompt, scene description and supplied reference photos are inputs to an image/video generation attempt.",MULTIMODAL_PRODUCTION_WORKFLOW,"Described generation, not verified output.",NOT_ISSUED
+B117-B119-0137-004,EDU-SRC0137,The speaker introduces a credits-based tool-payment arrangement.,TOOL_PRICING_OBSERVATION,Historic prices may change.,NOT_ISSUED
+B117-B119-0137-005,EDU-SRC0137,External generation services are named as possible access routes.,THIRD_PARTY_TOOL_ROUTE,Current availability not verified.,NOT_ISSUED
+B117-B119-0137-006,EDU-SRC0137,Monthly-plan and discount numbers are quoted by the presenter.,UNVERIFIED_PRICING,"Source-specific quote, not current offer.",NOT_ISSUED
+B117-B119-0137-007,EDU-SRC0137,The narrator compares apparent money spent with output resolution and maximum clip length.,RESOURCE_TRADEOFF,"Some values are only displayed visually, not in captions.",NOT_ISSUED
+B117-B119-0137-008,EDU-SRC0137,The narrator gives a favorable impression of character consistency.,SUBJECTIVE_PRODUCT_QUALITY,No benchmark or independent media check.,NOT_ISSUED
+B117-B119-0137-009,EDU-SRC0137,Generated character consistency is proposed as potentially useful for visual explainer storytelling.,POTENTIAL_PRODUCTION_USE,Not scriptwriting outcome evidence.,NOT_ISSUED
+B117-B119-0137-010,EDU-SRC0137,Additional upscaling credit cost is cited as a perceived quality limitation.,WORKFLOW_COST_CAVEAT,Actual credit account not verified.,NOT_ISSUED
+B117-B119-0137-011,EDU-SRC0137,The short ends with direct address to the reviewed creator and a reimbursement joke.,COMEDIC_CLOSING,No product liability conclusion.,NOT_ISSUED
+B117-B119-0138-001,EDU-SRC0138,Repeatable instruction packages are presented as reducing repetitive workflow explanation.,WORKFLOW_TEACHING,Self-reported productivity; not script efficacy.,NOT_ISSUED
+B117-B119-0138-002,EDU-SRC0138,Skills are framed as reusable procedure instructions rather than proof of better outputs.,SKILL_CONCEPT,No comparative controlled testing.,NOT_ISSUED
+B117-B119-0138-003,EDU-SRC0138,Seven creator-used skill examples are promised at the start of the video.,SOURCE_SCOPE,Descriptions are personal examples.,NOT_ISSUED
+B117-B119-0138-004,EDU-SRC0138,The presenter shows slash-style invocation of installed skills.,USER_INTERFACE_TUTORIAL,Interface version is time-sensitive.,NOT_ISSUED
+B117-B119-0138-005,EDU-SRC0138,Visualize is demonstrated as a way of changing output presentation.,VISUALIZATION_WORKFLOW,Not source quality validation.,NOT_ISSUED
+B117-B119-0138-006,EDU-SRC0138,An interactive budget visualization is described as an illustrative output.,EXAMPLE_VISUALIZATION,No access to underlying budget data.,NOT_ISSUED
+B117-B119-0138-007,EDU-SRC0138,A notification skill is discussed for completed background jobs.,NOTIFICATION_WORKFLOW,Requires external service; not universally available.,NOT_ISSUED
+B117-B119-0138-008,EDU-SRC0138,Pushover is described as a third-party delivery path for alerts.,THIRD_PARTY_CONNECTOR,Do not expose user or API keys.,NOT_ISSUED
+B117-B119-0138-009,EDU-SRC0138,A paid promotional segment is explicitly identified as sponsored.,SPONSORSHIP_DISCLOSURE,Product statements are advertising.,NOT_ISSUED
+B117-B119-0138-010,EDU-SRC0138,Handoff is defined as carrying forward project state between AI tools.,CROSS_AGENT_CONTINUITY,Source example is anecdotal.,NOT_ISSUED
+B117-B119-0138-011,EDU-SRC0138,"A handoff is said to include goals, completed work, decisions, links and next actions.",HANDOFF_SCHEMA,"A practical checklist, not a benchmark.",NOT_ISSUED
+B117-B119-0138-012,EDU-SRC0138,A claimed successful cross-model handoff is a personal app-development anecdote.,SELF_REPORTED_SUCCESS,No independently reviewed repo results.,NOT_ISSUED
+B117-B119-0138-013,EDU-SRC0138,A browser-mediated external-AI query is introduced as a separate limited tool workflow.,CROSS_MODEL_QUERY_PATTERN,External answers are not intrinsically verified.,NOT_ISSUED
+B117-B119-0138-014,EDU-SRC0138,The creator identifies unwanted premature task execution as a failure mode.,INTAKE_RISK,Should not force interrogation for trivial tasks.,NOT_ISSUED
+B117-B119-0138-015,EDU-SRC0138,An interview-before-build approach is described to resolve assumptions.,REQUIREMENTS_CLARIFICATION,"Context-dependent, not universal requirement.",NOT_ISSUED
+B117-B119-0138-016,EDU-SRC0138,The presenter describes an approval checkpoint before substantive action.,USER_APPROVAL_POINT,Only where consequential decisions warrant it.,NOT_ISSUED
+B117-B119-0138-017,EDU-SRC0138,Multi-step skills are presented as sequences that encapsulate recurring activities.,MULTISTEP_WORKFLOW,Avoid unapproved external actions.,NOT_ISSUED
+B117-B119-0138-018,EDU-SRC0138,Sponsor review is illustrated with video link extraction and email draft preparation.,BRANDED_WORKFLOW_EXAMPLE,External connected data permissions required.,NOT_ISSUED
+B117-B119-0138-019,EDU-SRC0138,"The example crosses Vimeo, email and Obsidian workflow boundaries.",APP_INTEGRATION_EXAMPLE,"Creator-specific integration, not tested here.",NOT_ISSUED
+B117-B119-0138-020,EDU-SRC0138,A pet-generation skill is offered as a playful unrelated feature.,NON_SCRIPTWRITING_FEATURE,Peripheral to skill-writing evidence.,NOT_ISSUED
+B117-B119-0138-021,EDU-SRC0138,Remotion-linked motion graphics skills are introduced as creator tooling.,VIDEO_PRODUCTION_LINK,Tool availability and packaging time-sensitive.,NOT_ISSUED
+B117-B119-0138-022,EDU-SRC0138,A count of bundled plugin skills is reported for the time of recording.,UNVERIFIED_TOOL_COUNT,Do not infer current package count.,NOT_ISSUED

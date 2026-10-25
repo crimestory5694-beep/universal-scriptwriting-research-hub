@@ -1,0 +1,1 @@
+These are publication-safe research derivatives for 3 hash-verified original source members. Sections 0139-0140 are SHA mismatches and intentionally excluded from completion counts. Neither original full transcripts nor source-anchored private archives are included.

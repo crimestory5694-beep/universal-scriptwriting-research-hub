@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "EDU-SRC0139",
+    "container_sha256": "3e6a80d931f2d5ef0b181470ab1ba72a10a7db4272958e09c4afda3cab6854b8",
+    "expected_frozen_sha256": "6dbdeb450489c5fa1cf4c63fe26028353a7fea0a0e9dbd4016339baebe92743e",
+    "extracted_available_section_sha256": "0dfe50e6b409dff28f39cbe56ff41df2a5f9556cfbf6900caf0410cd96041a1f",
+    "section_bytes": 32553,
+    "status": "SOURCE_VERSION_OR_NORMALIZATION_MISMATCH_UNRESOLVED",
+    "not_counted_as_audited": true
+  },
+  {
+    "source_id": "EDU-SRC0140",
+    "container_sha256": "3e6a80d931f2d5ef0b181470ab1ba72a10a7db4272958e09c4afda3cab6854b8",
+    "expected_frozen_sha256": "46bc2ffa30ae68b2a5abaa4addcf5de3b0a3f25ba3445d052177933459ef5803",
+    "extracted_available_section_sha256": "11b3108417d3b190279b6b806d1189b3f7a6723c76d5ecfec5d67999f3b23cdc",
+    "section_bytes": 13472,
+    "status": "SOURCE_VERSION_OR_NORMALIZATION_MISMATCH_UNRESOLVED",
+    "not_counted_as_audited": true
+  }
+]

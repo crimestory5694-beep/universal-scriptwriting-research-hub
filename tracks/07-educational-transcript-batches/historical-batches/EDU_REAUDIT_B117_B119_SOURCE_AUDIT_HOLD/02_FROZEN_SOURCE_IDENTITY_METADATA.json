@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "EDU-SRC0136",
+    "parent_container": "transcripts (1).zip",
+    "original_member": "YouTube Finally Changed Its Algorithm...What To Do Now.txt",
+    "member_bytes": 43144,
+    "frozen_sha256": "611495e263a9317b1254ecb61079949f1c7491aee433f5bdecde0d3fe84ef094",
+    "sha_match": true,
+    "private_anchor_candidates": 21,
+    "native_AV": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0137",
+    "parent_container": "transcripts.zip",
+    "original_member": "💀 Sorry Ezsnippet (Ai Paglu Ep.2) #ai.txt",
+    "member_bytes": 4932,
+    "frozen_sha256": "aab3bcf28ec29f2d86a627a9b37261b5a60424a805bb50e26914e32d5a380187",
+    "sha_match": true,
+    "private_anchor_candidates": 11,
+    "native_AV": "NOT_VERIFIED"
+  },
+  {
+    "source_id": "EDU-SRC0138",
+    "parent_container": "Pasted markdown (4)(1).md",
+    "original_member": "first numbered YouTube source, transcript paragraph",
+    "member_bytes": 17643,
+    "frozen_sha256": "7d80d3cda8e2a2d60303ef03edca296d781dd35222aa7daaa34a018cf0a78b40",
+    "sha_match": true,
+    "private_anchor_candidates": 22,
+    "native_AV": "NOT_VERIFIED"
+  }
+]

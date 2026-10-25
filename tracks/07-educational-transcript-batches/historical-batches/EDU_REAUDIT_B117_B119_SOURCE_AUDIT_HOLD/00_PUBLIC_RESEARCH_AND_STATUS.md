@@ -1,0 +1,11 @@
+# Educational source review B117–B119 — 3 PASS, 2 SOURCE HASH HOLD
+
+**Date:** 2026-10-26. Reviewed historical source members EDU-SRC0136, EDU-SRC0137 and EDU-SRC0138, with original member SHA256 exact match, 2 ZIP container CRC passes and 54 source-line/Unicode/UTF8-byte-anchored private researcher observations.
+
+**Attempted but not passed:** EDU-SRC0139 and EDU-SRC0140 are present as successive paragraphs in the available physical markdown, but the extracted text SHA256 does not match the frozen historical snapshot. Their content must NOT be numbered as source-verified historical members; original frozen version or agreed source-version reconciliation is required. Exact candidate/expected SHA hashes are in the mismatch report.
+
+**Research caveats:** EDU-SRC0136 offers speculative YouTube recommendation-system architecture, invented numeric semantic ID examples and unverified suggested timing windows; these are NOT official platform facts or causal scriptwriting requirements. EDU-SRC0137 offers a subjective AI-video-generator comparison with historical prices and resolution limits; media output and current pricing NOT independently verified. EDU-SRC0138 records reusable AI skills, handoffs, notification routes and multi-step integrations as creator experience; named plugin/UI details may no longer match current interfaces, and the source does not establish skills-based scriptwriting effectiveness.
+
+**Cumulative coverage:** previously 148/162 source-member audit reports; plus 3 exact-hash PASS = **151/162 text audits**. **11 pending**. The protected official B70–B72 history still remains **104/162** and **3,051 EDU-C findings**; without the exact 15,051,407-byte prior private source-rich original archive, no append-only claim numbering is permissible. Current cumulative **unmerged, noncanonical** local observations: **1101**, including 54 in this intake.
+
+**Rights:** Original complete third-party transcripts, private exact excerpts/offsets, source-rich cumulative ledger and nested original research ZIPs are absent from this public file set. The original Markdown's first section is a single lengthy transcript paragraph. Detailed evidence is owner-held in the PRIVATE package only. No native original A/V, retention data, experimental psychology or platform internals independently verified.

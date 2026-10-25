@@ -1,0 +1,7 @@
+metric,prior,current,status
+historically_merged_edu_c,3051,3051,UNCHANGED
+official_historical_reviewed,104,104,UNCHANGED
+additional_source_audits,44,47,THREE_VERIFIED_THIS_BATCH
+local_source_audit_coverage,148,151,VERIFIED_INTAKE_PLUS_HISTORY
+local_remaining,14,11,EXCLUDES_UNMATCHED_0139_AND_0140
+unmerged_observations,1047,1101,PROVISIONAL
