@@ -1,3 +1,9 @@
+## CURRENT NEXT-CHAT CHECKPOINT — B72 (2026-10-25)
+
+The older Batch21 continuation below is retained as a **historical snapshot only**, not current. LIVE research verified through **Batch72: 3,051 provisional claims, 104/162 source records inspected, 58 pending first-time**, next unused **EDU-C3052**, next original **EDU-SRC0074**. See [Current exact next-chat handoff](NEXT_CHAT_HANDOFF_B72_2026-10-25.md) and [Track07 publication-safe research handoff](../tracks/07-educational-transcript-batches/continuation-handoffs/2026-10-25/MASTER_HANDOFF_PUBLIC_SAFE.md). The original current 3,051-claim source-rich ledger and raw third-party transcripts are **user-held privately**, not uploaded to this PUBLIC GitHub repo. Always re-fetch live `main` and `coordination/TRACK_STATUS.md`.
+
+---
+
 # Next Chat — Universal Scriptwriting Continuation (2026-10-25)
 
 Read `coordination/TRACK_STATUS.md`, `coordination/UPLOAD_PROTOCOL.md`, `coordination/EDU_BATCH_PUBLICATION_WORKFLOW.md`, latest Batch21 report and receipt before acting. The full detailed Master Continuation Handoff is preserved separately in the user's ChatGPT Library as `UNIVERSAL_SCRIPTWRITING_MASTER_CONTINUATION_HANDOFF_2026-10-25.md`; ask the owner to attach it if it is not already accessible. This short PUBLIC note is not a substitute for the full handoff.

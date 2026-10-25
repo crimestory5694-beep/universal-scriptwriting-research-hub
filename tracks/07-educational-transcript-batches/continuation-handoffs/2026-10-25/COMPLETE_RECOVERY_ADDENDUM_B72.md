@@ -1,0 +1,32 @@
+# COMPLETE RECOVERY ADDENDUM — Universal Scriptwriting (2026-10-25, B72)
+
+## Authoritative latest state and chronology
+
+- Live GitHub main was confirmed at **3d907ffb8fc49febc792947f416f025faecd6da4** after an independently completed publication of six rights-safe B72 handoff files. A new assistant must **re-fetch main**, because concurrent chats can advance it.
+- Repository is **PUBLIC**: https://github.com/crimestory5694-beep/universal-scriptwriting-research-hub
+- Latest source-review milestone: **Batch72**, **3,051** provisional EDU claims, **104/162** supplied source texts inspected (includes B58 173-byte fragment, incomplete full-video material), **58** first-time pending; next source **EDU-SRC0074**, next claim **EDU-C3052**. Latest source B72 private ZIP length **15,051,407 bytes**, SHA256 **5df730958eccdce94a99643e8b8e0f5f81d552146bc4cf2cb026a56eef84b6d6**.
+- Source EDU-SRC0074: *How to Tell Stories So Good Even Your Boring Days Sound Interesting*, physical archive `transcripts (1) (1).zip`, original ZIP-member SHA256 **eca7ba8d7a3caa24f3a46cfdff5d3e0b41369bbebd7789445e9724fd94cfd0b8**. Frozen original member full-byte check PASS; **not yet extracted**. Source EDU-SRC0075 is the following pending unit and may be adaptively grouped after checking source size and full original bytes.
+
+## Important NEW original-source recovery
+
+- All **162 frozen source identity records** have an actually available corresponding physical source container in this private continuation environment, after recovering two absent ZIPs and four loose original files from the user's ChatGPT Library.
+- Of these, **137/137 archive-transcript source-member SHA256 values** were independently recalculated from actual original ZIP member bytes and matched their frozen source register values. **137/137 PASS** and all these original source ZIPs passed ZIP CRC inspection.
+- Other **25 source identities** are partitions of **four loose composite original documents**. All **4 physical original loose-file SHA256 hashes** matched earlier frozen per-file provenance. This does **NOT** assert that the 25 individual source partitions have been independently audited end-to-end in this recovery pass; preserve historical partition provenance and original source-status labels.
+- The exact **10 registered original transcript ZIP container filenames** are included across the nested base starter and this addendum bundle. There is also one additional byte-identical `_2` original archive alias preserved, not counted as a distinct content version.
+- Older original *EDU_FULL_ARCHIVE_ZERO_SKIP_REAUDIT_B14.zip*, **10,336,822 bytes**, SHA256 **1925e4c08b6822df296b5a50d3d6b1706fca45237672f3c2578d90f51667eaef**, **24/24 entries CRC PASS**, recovered and enclosed privately. This provides older archival context, but do not claim all historical source-media/experiments are complete.
+- The previous `PRIVATE_NEXT_CHAT_STARTER_B72` is included **byte-for-byte unchanged** in the expanded private ZIP; it holds the full B70–72 nested original chain, current full 3,051-row 53-column source-dense ledger, public-safe status files, and 9 materialized physical transcript archives. This addendum adds the previously missing two original ZIPs, four loose originals and historical B14 research ZIP.
+
+## PUBLIC GitHub publication limits and actual coverage
+
+- Live GitHub earlier **pre-handoff** had 584 blob files, Track07 359. A following public-safe handoff commit added six files, so its immediate post-handoff status was **590 blobs**. Re-check live tree at the moment of answering or resuming; do not use raw counts as proofs of all original data being legally publishable.
+- Public-safe handoff is at [Track07 continuation handoffs](https://github.com/crimestory5694-beep/universal-scriptwriting-research-hub/tree/main/tracks/07-educational-transcript-batches/continuation-handoffs/2026-10-25). All newer post-B16 documented historical batch folders carry a public-safe binary ZIP and an upload receipt or upload report, but early B01–15 documents have a distinct archival structure (including no standardized per-batch binary ZIP for B02–15). Treat this as a historical research-preservation limitation, not proof that missing material was destroyed.
+- **Never push** private original full ZIP, full third-party transcript or original caption long excerpts, private 53-column 3,051-row source-rich ledger, or user-private loose original sources to the PUBLIC repo. Public metadata reports and independently authored commentary may be published after rights review. Even private repository visibility does not automatically grant third-party copyright redistribution rights.
+- The user's exact demand to preserve 'all previous data' is served through this **separate user-held private download** plus the PUBLIC rights-cleared research publication; this is NOT a claim that all original bytes have been published to GitHub.
+
+## Non-negotiable next-chat protocol
+
+1. Read the included complete `UNIVERSAL_SCRIPTWRITING_FULL_CONTINUATION_HANDOFF_B72_2026-10-25.md` and master prompt, plus this new recovery addendum and old historical handoff **before** executing research. Re-fetch LIVE GitHub `main`, `coordination/TRACK_STATUS.md`, rights protocol, publication workflow and newest verified receipts.
+2. Treat this expanded ZIP as an outer private carrier. Open nested `UNIVERSAL_SCRIPTWRITING_PRIVATE_NEXT_CHAT_STARTER_B72.zip` to access all current original research chain and last full 3,051-row source-dense ledger. Access the newly recovered originals in `ADDITIONAL_RECOVERED_PRIVATE_INPUTS/`.
+3. Hash-check original member(s), read full UTF-8 text, preserve claim-ID continuity and exact source anchors, keep previous private ledger exact binary prefix, retain previous original complete ZIP unchanged, and validate package SHA manifest/ZIP CRC.
+4. Publish only short source-specific author-created, rights-safe research + public binary ZIP from already committed safe files; guarded nonforce branch update and remote Git SHA/ZIP CRC read-back. Append to TRACK_STATUS while preserving old contents exactly. Progress updates after each major step, Roman Urdu.
+5. Outstanding issues: historical B25 **top-level ZIP SHA discrepancy OPEN**, incomplete B58 173-byte text fragment, no native A/V validation, T01–T13 scientific experiments **NOT_EXECUTED**, production SKILL and Claude transfer **HOLD**. No unverified promises of retention, CTR or clinical improvement.
