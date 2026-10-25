@@ -1,0 +1,18 @@
+{
+  "publication_scope": "five-source intake, NOT official EDU-C merge",
+  "source_ids": [
+    "EDU-SRC0074",
+    "EDU-SRC0075",
+    "EDU-SRC0076",
+    "EDU-SRC0077",
+    "EDU-SRC0078"
+  ],
+  "original_members_sha_verified": true,
+  "candidate_count": 221,
+  "candidates_new_this_round": 183,
+  "official_claims_unchanged": 3051,
+  "official_first_time_reviewed_unchanged": 104,
+  "official_pending_unchanged": 58,
+  "full_private_B70_B72_zip": "UNAVAILABLE",
+  "raw_transcript_publication": "WITHHELD"
+}

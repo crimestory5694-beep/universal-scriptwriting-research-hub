@@ -1,0 +1,12 @@
+# Five-source educational research intake — B73–B77; PUBLIC_SAFE / CONTINUITY HOLD
+
+Five genuinely unreviewed historical original members EDU-SRC0074 through EDU-SRC0078 were individually obtained and completely source-checked. All original member SHA256 hashes matched the frozen 162-source historical register; both raw parent ZIP CRC checks passed. The source-rich private user-held package contains 221 uniquely anchored candidate observations (38 preserved from the previous B73 intake + 183 newly prepared). Each candidate's exact original caption, Unicode character range and raw UTF-8 byte interval passed exact restoration.
+
+**This is NOT five officially merged historical batches.** The latest private original B70–B72 cumulative research package has not been recovered in this conversation. The known expected original SHA256 is `5df730958eccdce94a99643e8b8e0f5f81d552146bc4cf2cb026a56eef84b6d6` (15,051,407 bytes). Without that precise 3,051-row original ledger, no official EDU-C IDs can be issued, no complete append-only full source-rich ledger can be verified, and no official 162-source progress count can be changed.
+
+- **Official unchanged checkpoint:** B70–72, 3,051 provisional EDU-C claims, 104/162 original source members previously reviewed, 58 pending, next potential claim EDU-C3052, next unmerged EDU-SRC0074.
+- **Locally inspected material:** five exact full member texts, 221 draft candidate observations, not a guarantee of scientific efficacy.
+- **Cross-source overlap:** CAT (context–adversity–takeaway), PAST (place–action–speech–thoughts), third-party lottery-barber anecdotes and sensitive suicide anecdote recur. Repetition is not independent replication or confirmation.
+- **Hold states:** historical B25 top-level research ZIP SHA exception OPEN, B58 original two-caption fragment INCOMPLETE, original native audiovisual NOT VERIFIED, scientific T01–T13 NOT_EXECUTED, future production SKILL.md/Claude Browser transfer HOLD.
+
+Publication filter excludes original third-party caption text, exact original text-line anchors, source-dense private cumulative ledger, original source ZIPs, nested previous private audit ZIP, secrets and other sensitive material. Short creator-claim paraphrases are explicitly attributed and caveated.
