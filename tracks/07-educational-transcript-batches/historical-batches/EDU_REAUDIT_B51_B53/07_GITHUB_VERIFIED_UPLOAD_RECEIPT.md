@@ -1,0 +1,24 @@
+# Batch51–53 — Verified original research and PUBLIC GitHub upload receipt
+
+Date 2026-10-25. Repo `crimestory5694-beep/universal-scriptwriting-research-hub`, branch `main` PUBLIC.
+
+## Full original source SHA/CRC and review evidence
+- **Batch51 EDU-SRC0049** *How I'd Learn Public Speaking (if I could start over)*: `transcripts (5).zip` original member **5,620 bytes / 5,616 decoded Unicode characters**, SHA256 `addc1ea2d29c8d4bf6718b34f17538e46824479947888ca9215e5f43d0914b5d`, historical frozen register EXACT MATCH, original ZIP CRC PASS. **26** provisional source-specific claim IDs EDU-C2265–EDU-C2290; unique physical original caption text, Unicode and UTF-8 byte anchors **26/26 PASS**. **8 malformed :60 cues**, zero literal U+FFFD glyphs.
+- **Batch52 EDU-SRC0050** *How To Become A Better Speaker Than 99% Of People*: `transcripts (5).zip` **25,828 bytes**, member SHA256 `84da35da7f7f5715224e10bee5a2b2c162b303d0e18a91050af26384b4d49ad6` frozen register MATCH, ZIP CRC PASS. **67** source-specific EDU-C2291–EDU-C2357, unique source original line/Unicode character/UTF8 physical byte anchors **67/67 PASS**, eight original :60 malformed timestamps, zero replacement glyphs.
+- **Batch53 EDU-SRC0051** *How To Become a Better Storyteller Than 92% of People*: `transcripts (1) (2).zip` **8,793 bytes**, member SHA256 `c40b066a13f56f6933fad845104d1cbda07002221d4bf1d472855723b0e848ff` register MATCH, original ZIP CRC PASS. **39** EDU-C2358–EDU-C2396, original caption line/character/strict physical UTF-8 byte **39/39 PASS**; two malformed :60 timestamps, zero replacement glyphs. No original native A/V was viewed for any source.
+
+All **132** new source-specific caption citations uniquely source anchored and byte verified, no prior claim IDs changed. Source-specific educational advice **is not proof of effects**. Sources 51–52 propose improv, embarrassing public demonstrations, and microphone/speech practice; unconsented stranger contact, transit disruption and restaurant inconvenience should NOT be reproduced. Source53 teaches daily moment collection, optional CAR Context–Adversity–Resolution, voice-preserving AI revision, and a story bank. Numeric promises to outperform 99% or 92% of speakers, creator-described 34 interviews, a rowing historical anecdote, and AI product descriptions are NOT independently verified. Technique repetition across sources is not scientific replication.
+
+## Private original chain
+Before work: original complete **2,264-row / 6,166,229-byte** 53-column source-rich cumulative CSV SHA256 `039cc5077ae3222f66a7c6a107e07c66d86cb3d0e95115903a64e4cd63643240`. Entire previous CSV bytes remain exact byte prefix of new **2,396-row** source-rich CSV. Prior full `EDU_BATCH49_50_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip` **9,906,995 bytes**, SHA256 `7e4982b87953f3408b418a520b28a649b6a9e8add558eb00735a65ab74ad5685`, nested unchanged.
+New complete user-held **PRIVATE** `EDU_BATCH51_53_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip` **10,587,235 bytes**, SHA256 `667e81ed69a9858dac9baedc9c6484abbefd3fdd1a668ccefdbfe0d5f7ee7ec6`; **16/16 ZIP member CRC and 15/15 internal SHA256 manifest PASS**, exact private original text anchors and current 53-column corpus. Original captions, private full claim ledger and nested source-rich research ZIP **NOT uploaded** to PUBLIC GitHub.
+
+## PUBLIC-safe GitHub publication
+Ten short independent researcher-authored public files (three source reports, three source-specific topic/evidence role indexes with 26+67+39 rows, complete 132-row compact topic index, summary, delta, rights record) uploaded in non-force commit `8e51c3da8970d99a7d471c91d93a793dcd2dae4e`. All 10/10 exact remote GitHub blob hashes match, and combined public index contains consecutive EDU-C2265–EDU-C2396 (132 rows) PASS.
+
+Actual rights-filtered binary `EDU_BATCH51_B53_PUBLIC_SAFE_GITHUB_ARCHIVE.zip` built from the **exact ten already published GitHub file bytes plus one README**, committed `5ed865497ec403c11eee642b99e8e05bd2bc2738`. Git blob SHA-1 `bc2f6d12b0f4a263a939f372f311155b597f06a2`, **60,071 bytes**, remote GitHub base64 decoded ZIP matched original bytes exactly, **11/11 CRC/filenames/size plus central directory PASS**. PUBLIC_RIGHTS_LIMIT applies.
+
+## Final director checkpoint and open issues
+**2,396** provisional cumulative source claims, **85/162** first-time original text-reviewed sources, **77** first-time pending, historic independent six-source QA pending **0**. Next first-time source **EDU-SRC0052** *How to Become a Confident Public Speaker* `transcripts (5).zip`, frozen expected SHA256 `c95b8d2d0537cca8071ae6ed3f95f77d3758c0e066a306574b7b5810faaacfd6`, fresh check required. Next unused **EDU-C2397**.
+
+**OPEN:** historical Batch25 original top-level ZIP SHA discrepancy UNRESOLVED. No native AV comparison, clinical validation or verified audience/retention effects; T01–T13 experiments **NOT_EXECUTED**, Claude transfer and final production SKILL.md HOLD.
