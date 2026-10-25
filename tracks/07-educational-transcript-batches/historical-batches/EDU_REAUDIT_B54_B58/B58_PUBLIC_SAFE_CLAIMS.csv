@@ -1,0 +1,3 @@
+Claim ID,Source ID,Original caption cue,Researcher topic,Independent short paraphrase,Evidence role,Historical source SHA256,External verification,Native audiovisual
+EDU-C2513,EDU-SRC0056,00:00,Seven books illegal hook,"A Hindi hook calls seven books literally illegal for content creators, without identifying any book or law.",UNVERIFIED_SENSATIONAL_CLAIM,85637432c26d77d791237cd0d0ede016fedf17a80ca10b85c416856c5cfda105,NOT_VERIFIED,NOT_VERIFIED
+EDU-C2514,EDU-SRC0056,00:03,Creators target and abrupt stop,The next caption only indicates the content creator audience and stops; no seven-book list follows.,SOURCE_INCOMPLETE_FRAGMENT,85637432c26d77d791237cd0d0ede016fedf17a80ca10b85c416856c5cfda105,NOT_VERIFIED,NOT_VERIFIED
