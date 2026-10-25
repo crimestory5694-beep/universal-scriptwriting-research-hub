@@ -1,0 +1,5 @@
+# Batch35 — PAST story-zooming live workshop
+
+Original source EDU-SRC0032, *Give me 18min & I’ll improve your storytelling skills by 183%*, `transcripts (1) (2).zip`, 27,835 bytes; original SHA256 `bae577d6fceeb9ab6e0c7f32bf1f25eac7b35db4a0f70e80102940304c7ee12e` historical register MATCH, original ZIP CRC PASS. Full English captions reviewed, native A/V NOT_VERIFIED; eight :60 malformed caption cues retained.
+
+**47** source-based provisional EDU-C1692–EDU-C1738 observations. Workshop explains PAST (Place, Actions, Speech, Thoughts), reframing abstract summary as one moment, avoiding excessive context, stage-dialogue and raw thought demonstrations. The presenter allows plausible reconstructed dialogue where original words are forgotten: do **not** pass that off as authenticated documentary quotation. The 78-speaker analysis, advertised 183% improvement and top-1%-like promises have no independent study verification. PAST repeats the Batch33 framework and must not be counted as independent scientific replication. Public CSV contains original researcher short labels only.

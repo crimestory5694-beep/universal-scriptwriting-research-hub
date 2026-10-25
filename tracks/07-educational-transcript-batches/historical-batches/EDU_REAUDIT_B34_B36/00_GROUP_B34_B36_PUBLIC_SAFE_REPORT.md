@@ -1,0 +1,9 @@
+# Adaptive educational source-review Batches34–36 — publication-safe checkpoint
+
+Original source texts independently read and historical SHA256 verified for EDU-SRC0031 (6,928 bytes; 23 provisional observations), EDU-SRC0032 (27,835 bytes; 47 observations), and EDU-SRC0033 (769 bytes; 10 observations). All three original ZIP source archives CRC PASS. **80/80** original caption line uniqueness plus physical UTF-8 byte interval proofs are retained in user-held PRIVATE research archive; GitHub derivative contains brief independent claim labels, source hashes, progress and safety commentary, not original transcripts.
+
+New claim range **EDU-C1669–EDU-C1748** (23+47+10=80). **1,748** total provisional source claims; **68/162** source texts fully reviewed; **94** first-time sources still pending; historic independent six-item original source text QA **0 pending**.
+
+PRIVATE combined original package `EDU_BATCH34_36_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip`: **6,934,895 bytes**, SHA256 `8b8c402edc1818077fcb9d395c3ba33fe2144b36506dbb87e22aa849ae3a9d3d`, **13/13 original ZIP entry CRC and 12/12 internal SHA manifest PASS**. Previous full original Batch33 ZIP **6,405,225 bytes**, SHA256 `3508b06751ac9d51bd63b44c8f3fc4b235099081b34810a9dc72698760c7b31b`, nested unchanged. Previous full 1,668-claim original CSV **4,272,177 bytes**, SHA256 `9d9b499f7fade669fc2c1399f8b74e194cafe46264f232360b16d459a4e9b578`, exact binary prefix retained. Full private ZIP **not** public GitHub.
+
+Next first-time source EDU-SRC0034, *Give me 59 sec & I’ll boost your storytelling by 128%*, original expected SHA256 `94057c180c7bc0355f75ca5666b93851a4ea838725b3d564ae5967bc10dc3f00`; must recheck before processing. Next claim ID EDU-C1749. Batch25 original top-level checksum discrepancy OPEN. T01–T13 effectiveness experiments NOT_EXECUTED; production skill and Claude transfer HOLD.
