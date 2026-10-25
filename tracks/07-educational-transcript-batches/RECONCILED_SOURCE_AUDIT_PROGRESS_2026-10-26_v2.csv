@@ -1,0 +1,8 @@
+Metric,Count,Status
+Official ledger reviewed,104,UNCHANGED
+Additional local reviewed before,44,VERIFIED_SOURCE_AUDITS
+New exact hash verified,3,EDU-SRC0136_0137_0138
+Local source texts audited,151,LOCAL_AUDIT_ONLY
+Source members remaining,11,PENDING
+Total unmerged draft observations,1101,NOT_CANONICAL_EDU_C
+Source SHA discrepancies,2,EDU-SRC0139_0140
