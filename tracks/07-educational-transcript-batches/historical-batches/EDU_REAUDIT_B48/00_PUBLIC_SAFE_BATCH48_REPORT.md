@@ -1,0 +1,11 @@
+# Batch48 — How I Beat Time (As a Solo Content Creator)
+
+Full original source: `transcripts.zip :: How I Beat Time (As a Solo Content Creator).txt`. 42340 original UTF-8 bytes, 19884 decoded characters, original member SHA256 `bc015f7924efdfdce208555142c7c2b5abb9d05e4dd659051bf6696e6b97e310` matches frozen register, ZIP CRC PASS. 5 malformed second:60 cues and 4 U+FFFD literal replacement glyphs; caption limits preserved not fixed. Native A/V NOT checked.
+
+**73 distinct provisional source-grounded observations EDU-C2066–EDU-C2138**, all 73/73 unique physical caption lines, decoded Unicode and UTF-8 physical original byte offsets PASS in separate PRIVATE archive. Creator describes solo production, 4D priority matrix, weekday staging, self-reported Shorts/weekly video scheduling, thumbnails, editing, newsletter production, partial subtitles delegation, and deadline/time-blocking heuristics.
+
+**Health/accuracy caution:** 8+8+8, 8+12+4 and 8+14+2 are speaker personal scheduling templates NOT evaluated for occupational or medical safety; **do not treat 12–14-hour workdays as an evidence-based universal recommendation**. Pareto 80/20 and Parkinson law applications, anti-procrastination effects, reported upload counts, views, costs, production timings, original video capabilities, work efficiency and thumbnails causality NOT independently verified.
+
+**Preservation:** Previous B45–47 complete private archive 8662508 bytes SHA256 `6497b9c85272dc2aec5243fda5bcbaa6447e07606015eb4b1903b3507a19c3b3` nested without change. Previous source-dense 2,065-row ledger 5511416 bytes SHA256 `e90d6a0aadc23857a9dda7f2b9e38652f94fcf5e9e7d1fc8a418f34f73748637` preserved as exact prefix of new 2,138-row ledger. New complete PRIVATE archive 9264565 bytes SHA256 `6ea7d60bc1bb99df91087f3d33d9d61b6330bacc16153f003fd483fd64532653` 13/13 ZIP CRC and 12/12 SHA manifest PASS, **NOT publicly uploaded**.
+
+**Coverage:** 80/162 sources original-text reviewed, 82 first-time pending; cumulative 2,138 provisional claims, next source EDU-SRC0047, next claim EDU-C2139. Historical independent six-source source-text QA pending 0. Batch25 original top-level checksum discrepancy unresolved. Experiments T01–T13 NOT_EXECUTED; production Skill/Claude transfer HOLD. PUBLIC_RIGHTS_LIMIT means only independent concise derivative observations and audit metadata go to GitHub.

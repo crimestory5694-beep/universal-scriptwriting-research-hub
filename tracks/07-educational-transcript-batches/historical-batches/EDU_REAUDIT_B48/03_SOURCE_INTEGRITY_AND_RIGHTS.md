@@ -1,0 +1,7 @@
+# Source rights and quality — Batch48
+
+Original transcript physical member SHA256 `bc015f7924efdfdce208555142c7c2b5abb9d05e4dd659051bf6696e6b97e310` and full source ZIP CRC PASS. 73/73 exact unique caption line and source UTF-8 byte anchors PASS. Supplied source **4 literal replacement glyphs** and **5 invalid :60 caption cues**, not normalized. Source-native A/V and caption accuracy NOT independently verified. Scientific effectiveness, working-hour safety, algorithm effects, named collaborator and creator performance not proven. Speaker's 12-14-hour work schedules are **not universally safe recommendations**.
+
+Prior B45–47 private original ZIP 8662508 bytes SHA256 `6497b9c85272dc2aec5243fda5bcbaa6447e07606015eb4b1903b3507a19c3b3` nested unchanged. Prior 2,065-row source-dense 53-column original ledger 5511416 bytes SHA256 `e90d6a0aadc23857a9dda7f2b9e38652f94fcf5e9e7d1fc8a418f34f73748637` unchanged as binary prefix of new cumulative. Full private ZIP 9264565 bytes SHA256 `6ea7d60bc1bb99df91087f3d33d9d61b6330bacc16153f003fd483fd64532653`, 13/13 CRC 12/12 manifest PASS. PRIVATE ZIP includes long original source passages and previous nested history; must NOT upload to PUBLIC GitHub. GitHub publication includes only original concise researcher-authored paraphrases, source hashes, and audit.
+
+Historical Batch25 top-level ZIP checksum dispute OPEN, T01–T13 NOT_EXECUTED, native A/V NOT_VERIFIED, final production Skill NOT_APPROVED.
