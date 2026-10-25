@@ -1,3 +1,13 @@
+## Latest educational research — Batch59–61 (2026-10-25)
+
+Verified full source-text review: EDU-SRC0059, EDU-SRC0060, EDU-SRC0061. Frozen source SHA256 and original ZIP CRC PASS. 121 new source-anchored provisional claims EDU-C2515–EDU-C2635 (41/30/50), all 121/121 original source-line, Unicode and UTF8 physical byte offsets PASS privately.
+
+Cumulative 2,635 claims, 93/162 inspected, 69 pending; next EDU-SRC0062 and EDU-C2636. Review count includes B58 incomplete 173-byte source fragment. Previous original ledger unchanged exact binary prefix and previous B54–58 original full ZIP byte-identically nested. New user-held PRIVATE ZIP `EDU_BATCH59_61_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip` 11,997,496 bytes SHA256 `0a2e1cc09d13238ee4b6e78430f78a9a9663009ed99d9a42c09ce1a2637cd320`, 16/16 CRC, 15/15 manifest SHA PASS, NOT publicly uploaded.
+
+PUBLIC GitHub ten verified researcher-authored rights-safe files, 121-row public claim index, and [80,135-byte binary ZIP](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/EDU_BATCH59_B61_PUBLIC_SAFE_GITHUB_ARCHIVE.zip), blob `616e0887c3275f59ba2c856b602ee213e3cb28d6`, live remote 11/11 CRC / exact byte-match PASS. [Detailed verified receipt](../tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md). Source rights PUBLIC_RIGHTS_LIMIT. Native AV unverified, T01–T13 NOT_EXECUTED; production Skill and Claude transfer HOLD. Historical B25 ZIP checksum issue OPEN.
+
+---
+
 ## Latest educational original research execution — Adaptive Batches54–58 (2026-10-25)
 
 - **B54 EDU-SRC0052** *How to Become a Confident Public Speaker*: complete supplied original `transcripts (5).zip` member **10,285 bytes**, registered SHA256 `c95b8d2d0537cca8071ae6ed3f95f77d3758c0e066a306574b7b5810faaacfd6` exact MATCH, ZIP CRC PASS; **39** provisional original source-anchored IDs `EDU-C2397`–`EDU-C2435`. Constructive-embarrassment claims source-attributed, stranger contact and public singing not endorsed without prior consent and non-disruption.
