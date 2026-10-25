@@ -1,0 +1,7 @@
+# Batch68 — How to tell powerful stories (even if you're introverted)
+
+Source: `EDU-SRC0069`, entire original registered member `transcripts (1) (1).zip :: How to tell powerful stories (even if you're introverted).txt` read; **5074 strict UTF8 bytes**, frozen SHA256 `5c589acd6e8bf4be47dd839a9bf42279cd6531345107630c9543e86830899c0e` exact MATCH, original archive ZIP CRC PASS (25 physical ZIP entries). **18** original text source-grounded provisional claims `EDU-C2902`–`EDU-C2919`, exact unique source original caption lines, character and UTF8 physical byte anchor checks 18/18 PASS in separate private research.
+
+Short first-person source specifically targets an introverted narrator who feels awkward giving several-minute group stories. It replaces full chronologies with an in-the-moment micro-story, illustrated through hypothetical car-traffic inner dialogue and an invented manager-praise exchange using outer dialogue. Training exercise asks the viewer to pick one everyday moment, thought, emotion or line of conversation in a willing encounter. These are teaching examples and not authenticated third-party verbatim quotes. General claims about introvert psychology, audience memorability and results are unverified; this method overlaps other micro-story sources and is not independent replication.
+
+Original caption malformed :60 cues 0; U+FFFD replacements 0; no silent text repair. AUDIO/VIDEO UNVERIFIED. PUBLIC_RIGHTS_LIMIT.

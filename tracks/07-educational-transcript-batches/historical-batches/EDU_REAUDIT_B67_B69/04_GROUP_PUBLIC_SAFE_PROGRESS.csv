@@ -1,0 +1,4 @@
+Batch,Source ID,Original bytes,New source observations,Claim range,Source SHA match,Original ZIP CRC,Original caption lines,Malformed :60 cues,U+FFFD chars,Reviewed after,Pending after
+67,EDU-SRC0068,24034,66,EDU-C2836..EDU-C2901,PASS,PASS,544,3,0,99,63
+68,EDU-SRC0069,5074,18,EDU-C2902..EDU-C2919,PASS,PASS,115,0,0,100,62
+69,EDU-SRC0070,3731,16,EDU-C2920..EDU-C2935,PASS,PASS,86,1,0,101,61
