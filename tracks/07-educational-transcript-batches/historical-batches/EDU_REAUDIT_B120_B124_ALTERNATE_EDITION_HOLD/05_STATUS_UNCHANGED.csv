@@ -1,0 +1,8 @@
+metric,value,status
+historically_official_sources,104,UNCHANGED
+historically_official_claims,3051,UNCHANGED
+later_frozen_verified_sources,47,UNCHANGED
+frozen_verified_source_audits,151,UNCHANGED
+frozen_pending_source_identities,11,UNCHANGED
+alternate_editions_reviewed_this_round,5,SHA_MISMATCH
+alternate_editions_observations,50,NOT_OFFICIAL
