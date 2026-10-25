@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "original_filename": "transcripts (1) (1).zip",
+      "bytes": 375977,
+      "sha256": "503821b48f1ab7c03013c8a95465a0794d0811da23e476a52dad4c3215a0ffa3",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (1) (2).zip",
+      "bytes": 265268,
+      "sha256": "7014201e2a8576c2ae5c740e83fc0a152a6f57cb88db6f74254d8fdc2068cf39",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (1).zip",
+      "bytes": 1030903,
+      "sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (1)_2.zip",
+      "bytes": 1030903,
+      "sha256": "c83b9f9dacc513d623704c54b91172979a1b77e1c65e1d1c576f2ffa3ad39c08",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (2) (1).zip",
+      "bytes": 329283,
+      "sha256": "b99b2e66550a56d8fec07636482796ed10a7d29fe48edab9e8812c0fc5ef8113",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (2).zip",
+      "bytes": 127332,
+      "sha256": "2dd1d8248ec0d84594146f92b33b4adb3e9320e22c2b6484fe42389c59e4cf6a",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (3).zip",
+      "bytes": 231846,
+      "sha256": "7f1f2d5e81a398e9999ec1a2beabf5d70c7e3b8eb25faf4030be5e6a1a62ac90",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts (5).zip",
+      "bytes": 459172,
+      "sha256": "f573e31dc6c1dd0080762fad7cdcb553e1f3130429fbbdb627cdb8deebb07f74",
+      "crc": "PASS"
+    },
+    {
+      "original_filename": "transcripts.zip",
+      "bytes": 415284,
+      "sha256": "71ecb5cf5e98e6390c001628d8758222de28b5118a1732c699c6790e237c81c6",
+      "crc": "PASS"
+    }
+  ],
+  "unique_sha256_files": 8,
+  "alias_note": "transcripts (1)_2.zip and transcripts (1).zip are identical bytes (same SHA-256); the private kit includes one physical copy and both provenance names remain in this manifest."
+}

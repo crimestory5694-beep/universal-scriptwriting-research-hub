@@ -1,0 +1,263 @@
+[
+  {
+    "level": 0,
+    "historical_file": "EDU_BATCH70_72_SOURCE_EXTRACTION_AND_QA_2026-10-25.zip",
+    "original_bytes": 15051407,
+    "sha256": "5df730958eccdce94a99643e8b8e0f5f81d552146bc4cf2cb026a56eef84b6d6",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH67_69.zip"
+  },
+  {
+    "level": 1,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH67_69.zip",
+    "original_bytes": 14255899,
+    "sha256": "dcf7bbda139c96a9988dd12bec65bc92cc9c53c48635c32af6802a54a7f9af4a",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH64_66.zip"
+  },
+  {
+    "level": 2,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH64_66.zip",
+    "original_bytes": 13482854,
+    "sha256": "1d40646ab13f7496ff65becfcf205a17cf141bbdcc03aa6af46c6f0b4c7075b0",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH62_63.zip"
+  },
+  {
+    "level": 3,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH62_63.zip",
+    "original_bytes": 12729370,
+    "sha256": "73bffa7af8a2cfba063f4523250ee62712eca65a466d0a97742260dd72fddd7f",
+    "zip_entry_count": 15,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH59_61.zip"
+  },
+  {
+    "level": 4,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH59_61.zip",
+    "original_bytes": 11997496,
+    "sha256": "0a2e1cc09d13238ee4b6e78430f78a9a9663009ed99d9a42c09ce1a2637cd320",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH54_58.zip"
+  },
+  {
+    "level": 5,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH54_58.zip",
+    "original_bytes": 11279276,
+    "sha256": "875611c28b2e88d5a47d632bf0b959eedc4af65a898b4d7279d7d0139f8b1df4",
+    "zip_entry_count": 18,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH51_53.zip"
+  },
+  {
+    "level": 6,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH51_53.zip",
+    "original_bytes": 10587235,
+    "sha256": "667e81ed69a9858dac9baedc9c6484abbefd3fdd1a668ccefdbfe0d5f7ee7ec6",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH49_50.zip"
+  },
+  {
+    "level": 7,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH49_50.zip",
+    "original_bytes": 9906995,
+    "sha256": "7e4982b87953f3408b418a520b28a649b6a9e8add558eb00735a65ab74ad5685",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH48.zip"
+  },
+  {
+    "level": 8,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH48.zip",
+    "original_bytes": 9264565,
+    "sha256": "6ea7d60bc1bb99df91087f3d33d9d61b6330bacc16153f003fd483fd64532653",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH45_B47.zip"
+  },
+  {
+    "level": 9,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH45_B47.zip",
+    "original_bytes": 8662508,
+    "sha256": "6497b9c85272dc2aec5243fda5bcbaa6447e07606015eb4b1903b3507a19c3b3",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH41_B44.zip"
+  },
+  {
+    "level": 10,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH41_B44.zip",
+    "original_bytes": 8065485,
+    "sha256": "4a3b15601b6a760f3bb3827a3b2a822fb14434cdc8583298ef347cda5b0ce232",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH37_B40.zip"
+  },
+  {
+    "level": 11,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH37_B40.zip",
+    "original_bytes": 7488674,
+    "sha256": "309b823c970db3047c76d8e59bfdc8be5f4a4a1b65b59320dddabb53daf3c271",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH34_B36.zip"
+  },
+  {
+    "level": 12,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH34_B36.zip",
+    "original_bytes": 6934895,
+    "sha256": "8b8c402edc1818077fcb9d395c3ba33fe2144b36506dbb87e22aa849ae3a9d3d",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_BATCH33.zip"
+  },
+  {
+    "level": 13,
+    "historical_file": "HISTORICAL_UNMODIFIED_BATCH33.zip",
+    "original_bytes": 6405225,
+    "sha256": "3508b06751ac9d51bd63b44c8f3fc4b235099081b34810a9dc72698760c7b31b",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B30_B32.zip"
+  },
+  {
+    "level": 14,
+    "historical_file": "HISTORICAL_UNMODIFIED_B30_B32.zip",
+    "original_bytes": 5875001,
+    "sha256": "18ad563bb202b38ba990a6cf6375d4fcfa16a54e6e30955a04b5395f2baa50ef",
+    "zip_entry_count": 16,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B29.zip"
+  },
+  {
+    "level": 15,
+    "historical_file": "HISTORICAL_UNMODIFIED_B29.zip",
+    "original_bytes": 5323991,
+    "sha256": "6d1bad51d95e00d1071d04ca48ead0182eefa585419ac9a98fd00cfd7ded734c",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B28.zip"
+  },
+  {
+    "level": 16,
+    "historical_file": "HISTORICAL_UNMODIFIED_B28.zip",
+    "original_bytes": 4855326,
+    "sha256": "1364a79e64a84cae0cb1ad79b620b9c245a69efc4212cf54cb792291376e84b5",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B27.zip"
+  },
+  {
+    "level": 17,
+    "historical_file": "HISTORICAL_UNMODIFIED_B27.zip",
+    "original_bytes": 4414357,
+    "sha256": "5626898c5b7e47bbb14d9f7109b2c73148e99a81c0a6a3b980e624c8e17f5594",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B26.zip"
+  },
+  {
+    "level": 18,
+    "historical_file": "HISTORICAL_UNMODIFIED_B26.zip",
+    "original_bytes": 3948744,
+    "sha256": "1a23d55468a28ca7fbb1ccea5184c3de54f88697fef3b4884ad9d140fa2c19e7",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B25.zip"
+  },
+  {
+    "level": 19,
+    "historical_file": "HISTORICAL_UNMODIFIED_B25.zip",
+    "original_bytes": 3506773,
+    "sha256": "88358c15c6358bbe6242fcaf6c5bc511269e75ff7c7057a211f115976db7c325",
+    "zip_entry_count": 12,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B24.zip"
+  },
+  {
+    "level": 20,
+    "historical_file": "HISTORICAL_UNMODIFIED_B24.zip",
+    "original_bytes": 3098011,
+    "sha256": "e79458b6a0d6b07be6b0d0102209991af1b3d661c3c8acf85bc6a13f3f397827",
+    "zip_entry_count": 12,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B23.zip"
+  },
+  {
+    "level": 21,
+    "historical_file": "HISTORICAL_UNMODIFIED_B23.zip",
+    "original_bytes": 2697235,
+    "sha256": "4c6b7a268559d36ff468e2d08b2fcab072b6415779279aa0bbe427b00efcdc93",
+    "zip_entry_count": 12,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B22.zip"
+  },
+  {
+    "level": 22,
+    "historical_file": "HISTORICAL_UNMODIFIED_B22.zip",
+    "original_bytes": 2311590,
+    "sha256": "60ce67edaba0ec681b32cac337ebfbd09e002193e8f80dd62259e34c69e73ffc",
+    "zip_entry_count": 12,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B21.zip"
+  },
+  {
+    "level": 23,
+    "historical_file": "HISTORICAL_UNMODIFIED_B21.zip",
+    "original_bytes": 1969962,
+    "sha256": "6d2762cd8a15f6b2eabce3d88740b2495bf592f279e25898c9bc84611fa0475c",
+    "zip_entry_count": 12,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B20.zip"
+  },
+  {
+    "level": 24,
+    "historical_file": "HISTORICAL_UNMODIFIED_B20.zip",
+    "original_bytes": 1633173,
+    "sha256": "209e6189440930d01df6e500048f5e5e928ccaaacc8d64af9f4948b1808c104f",
+    "zip_entry_count": 14,
+    "crc": "PASS",
+    "nested_previous_zip": "HISTORICAL_UNMODIFIED_B19.zip"
+  },
+  {
+    "level": 25,
+    "historical_file": "HISTORICAL_UNMODIFIED_B19.zip",
+    "original_bytes": 1298415,
+    "sha256": "57fb634d729d151bee41823f752b7297fb662682c7b3f2b9fd0cafc6df33192b",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "EDU_BATCH19_2026-10-25/HISTORICAL_UNMODIFIED_B18.zip"
+  },
+  {
+    "level": 26,
+    "historical_file": "EDU_BATCH19_2026-10-25/HISTORICAL_UNMODIFIED_B18.zip",
+    "original_bytes": 967528,
+    "sha256": "ad8b7cb88ee4d2067dd8a04190d5f5b0383622955fdf1134d109fa5d4355e72a",
+    "zip_entry_count": 14,
+    "crc": "PASS",
+    "nested_previous_zip": "EDU_BATCH18_2026-10-24/HISTORICAL_UNMODIFIED_B17.zip"
+  },
+  {
+    "level": 27,
+    "historical_file": "EDU_BATCH18_2026-10-24/HISTORICAL_UNMODIFIED_B17.zip",
+    "original_bytes": 637651,
+    "sha256": "b6b41e61ed73b9f3c3419a3ea9e7b8c10343b86c05b137d306d60c3f5abc0a82",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": "EDU_BATCH17_2026-10-24/HISTORICAL_UNMODIFIED_B16.zip"
+  },
+  {
+    "level": 28,
+    "historical_file": "EDU_BATCH17_2026-10-24/HISTORICAL_UNMODIFIED_B16.zip",
+    "original_bytes": 317127,
+    "sha256": "3d4e86df63a2646ac4f54a99ce1e240e8f2f7d6f1ef1a1ae5f7eac773b8dc643",
+    "zip_entry_count": 13,
+    "crc": "PASS",
+    "nested_previous_zip": null
+  }
+]

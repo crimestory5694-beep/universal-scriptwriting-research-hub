@@ -1,0 +1,2932 @@
+{
+  "snapshot_date": "2026-10-25",
+  "repo": "crimestory5694-beep/universal-scriptwriting-research-hub",
+  "branch": "main",
+  "source_commit": "b8b749d76a6466cfc5dcd988e0fdd9f041bb8d4a",
+  "tree_sha": "b9fe61265fd452edc4a8367758f52440e2445b40",
+  "repo_visibility": "PUBLIC",
+  "publication_rights": "Only existing public paths/hashes and byte sizes; original copyrighted source archive remains user-held",
+  "tracked_blobs": 584,
+  "files": [
+    {
+      "path": "coordination/CLAUDE_TRANSFER_GATE.md",
+      "git_blob_sha": "7ccf873177f4ba4d0babd1350f0ac0a11dd035e7",
+      "bytes": 1475
+    },
+    {
+      "path": "coordination/DIRECTOR_ARCHIVE_RECONCILIATION_2026-10-24.md",
+      "git_blob_sha": "86c0fbcf9cd9c12785746c48102dc8b366381365",
+      "bytes": 5442
+    },
+    {
+      "path": "coordination/DIRECTOR_RECOVERY_FILES_2026-10-24.csv",
+      "git_blob_sha": "b8b69b3d2457b6b7a369eb2f84a7a3f23ee76888",
+      "bytes": 5657
+    },
+    {
+      "path": "coordination/DIRECTOR_STEP1_RECOVERY_2026-10-24.md",
+      "git_blob_sha": "5a6dec894b1441f5a681232e052328fd548fa9c9",
+      "bytes": 3584
+    },
+    {
+      "path": "coordination/EDU_122_PENDING_SOURCE_REVIEW_QUEUE_2026-10-24.csv",
+      "git_blob_sha": "c11f99b2bb30c06b73f6771eb94481d6b71f15e4",
+      "bytes": 43709
+    },
+    {
+      "path": "coordination/EDU_BATCH_PUBLICATION_WORKFLOW.md",
+      "git_blob_sha": "45744ee8cfc936d33795e4e9c55f49ee33c578ed",
+      "bytes": 2180
+    },
+    {
+      "path": "coordination/EDU_BATCH15_2026-10-24_PROGRESS_DELTA.csv",
+      "git_blob_sha": "fa2ab781c311bf6e10b069ffe5890e635ff13ed1",
+      "bytes": 498
+    },
+    {
+      "path": "coordination/EDU_TO_K_CONCEPTUAL_BRIDGES_2026-10-24.csv",
+      "git_blob_sha": "d5b7b002afecb8653d7b979868da1c3b76da1968",
+      "bytes": 2662
+    },
+    {
+      "path": "coordination/MASTER_FILE_MANIFEST.csv",
+      "git_blob_sha": "fd0938157aa1efafb05b41ea95981caa1ebb3751",
+      "bytes": 207
+    },
+    {
+      "path": "coordination/NEXT_CHAT_START_HERE_2026-10-25.md",
+      "git_blob_sha": "c7e78d2a8a4f5996b39ebd63044708cb1f8b8e2e",
+      "bytes": 1736
+    },
+    {
+      "path": "coordination/RD_EDU_B14_COVERAGE_DECISION_2026-10-24.md",
+      "git_blob_sha": "296881378b99d70094a47c3db71affc2f3b827ac",
+      "bytes": 10559
+    },
+    {
+      "path": "coordination/RESEARCH_INTEGRATION_AUDIT_2026-10-24.md",
+      "git_blob_sha": "bc5462903be1a277050d8cab0882d3feb6a33c46",
+      "bytes": 15189
+    },
+    {
+      "path": "coordination/RESEARCH_INTEGRATION_GAP_LEDGER_2026-10-24.csv",
+      "git_blob_sha": "0007b06e8da4898429eb33d93097dc6c0f282047",
+      "bytes": 6218
+    },
+    {
+      "path": "coordination/RESEARCH_INTEGRATION_K001_K048_2026-10-24.csv",
+      "git_blob_sha": "29305c0b50bb584f57404c81046041d922a19633",
+      "bytes": 20667
+    },
+    {
+      "path": "coordination/STEP1_RECOVERED_FILES_2026-10-24.csv",
+      "git_blob_sha": "fb88707f57146ad6d5831623717c0f7e87098507",
+      "bytes": 3899
+    },
+    {
+      "path": "coordination/TRACK_STATUS.md",
+      "git_blob_sha": "5f082148a6455a8997e874abf7f1c7c9bced53ae",
+      "bytes": 97384
+    },
+    {
+      "path": "coordination/UPLOAD_PROTOCOL.md",
+      "git_blob_sha": "61b2d0da2dbdf83883966cad2a168948c4341175",
+      "bytes": 5444
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "89e4de4aff5928d6a4c45c867437bf0e53b07ea3",
+      "bytes": 2300
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/README.md",
+      "git_blob_sha": "c23577e5c8b242968dbe577de1697e7b1a695a18",
+      "bytes": 1419
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/ChatGPT_Real_World_Script_Research.md",
+      "git_blob_sha": "da9d511b81d533bda13a410d90ef15f9a93edfe5",
+      "bytes": 6008
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Claude_Code_GitHub_Skill_Research.md",
+      "git_blob_sha": "3ee8af2d4f1ed82bea9ad9fc711bf8a80a4aa3fd",
+      "bytes": 4670
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Parallel_Scriptwriting_Research_Protocol.md",
+      "git_blob_sha": "cafb3f0ebcae45851cede36ac36bf0a69536cf2c",
+      "bytes": 3586
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/recovered_source_master_S01-S63(1).csv",
+      "git_blob_sha": "326427e379fd2d9956f6a5eff933473434218f69",
+      "bytes": 19947
+    },
+    {
+      "path": "tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Universal_Scriptwriting_GitHub_Research_Archive_S01-S63.md",
+      "git_blob_sha": "63b99269da5ec57f8dafde7e075a9e6ac737db6f",
+      "bytes": 71531
+    },
+    {
+      "path": "tracks/02-validation-design-package/CHAT_HANDOFF.md",
+      "git_blob_sha": "18895d1b9264dd82be2df7be777e321a64e2eb55",
+      "bytes": 10856
+    },
+    {
+      "path": "tracks/02-validation-design-package/FILE_MANIFEST.csv",
+      "git_blob_sha": "464edb3b5e6a6a2ce184414bcc415e1b4c579948",
+      "bytes": 74225
+    },
+    {
+      "path": "tracks/02-validation-design-package/HISTORICAL_DECISIONS.md",
+      "git_blob_sha": "9fbd1ea8cba5b950575aba9cd9f1bdefadcd833a",
+      "bytes": 4705
+    },
+    {
+      "path": "tracks/02-validation-design-package/historical-checkpoints/2026-10-24-public-gate-blocked/LOCAL_FILE_MANIFEST_NOT_UPLOADED.csv",
+      "git_blob_sha": "b67b50e273527ab14f2689e177e8dd5140e97919",
+      "bytes": 17939
+    },
+    {
+      "path": "tracks/02-validation-design-package/historical-checkpoints/2026-10-24-public-gate-blocked/UPLOAD_REPORT_NOT_UPLOADED.md",
+      "git_blob_sha": "a6afe186b0a6158e89d6ebf99b1c712b80377c82",
+      "bytes": 2845
+    },
+    {
+      "path": "tracks/02-validation-design-package/README.md",
+      "git_blob_sha": "f2afc8e1ea99bd4a0a4e06859bb5e134a5ef8a6f",
+      "bytes": 1389
+    },
+    {
+      "path": "tracks/02-validation-design-package/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "6c1fc151fb29a1b8acc80b20f2ae665fbceccc9d",
+      "bytes": 8443
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-m0-inventory/file_0000000058c081fb9a90ee995b12d1a6/08_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "7bb33f19b60b0c382f045def0b1ad356f6882488",
+      "bytes": 1730
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-m0-inventory/file_00000000a0fc821085eff5b3f6ac6a38/03_PRIMARY_FACTUAL_SOURCE_INVENTORY.md",
+      "git_blob_sha": "76d2011053ed5a50d53387b404e6b95b32e77d9b",
+      "bytes": 4972
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-readiness/file_000000001148820ea75617f9a212a6c4/04_SOURCE_AND_RIGHTS_CLEARANCE_CHECKLIST.md",
+      "git_blob_sha": "770e458318119ed40ab92d9268a8a0c6df511b0d",
+      "bytes": 2879
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-readiness/file_0000000018c881f48190e743d13438c8/01_EVIDENCE_ROLE_ADDENDUM_REGISTER.csv",
+      "git_blob_sha": "d005e0f7d170533dc5dc545b8d13bcc9b8f38915",
+      "bytes": 94608
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-readiness/file_000000007f9c81f9b92243069dfc4345/00_README_A1_READINESS_GATE.md",
+      "git_blob_sha": "773627637617509a948bb58b03460147c3447c6f",
+      "bytes": 3038
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-readiness/file_00000000e81c81f495c41c8acfc0063f/04_SOURCE_AND_RIGHTS_CLEARANCE_CHECKLIST.csv",
+      "git_blob_sha": "6686c2eb4931787c8edc165c5cf33c40333c4253",
+      "bytes": 30811
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-a1-readiness/file_00000000fa3c82308658b14ae04ebf88/09_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "0fc77c6244287d266ec9341618dcc480eabcd111",
+      "bytes": 2112
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-controlled-validation-design/file_0000000005808211b28d908ebf146a9e/12_QA_AND_INTEGRITY.md",
+      "git_blob_sha": "3ee2aba21951a4bf7195c987e3fb694fae3e4899",
+      "bytes": 3873
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-controlled-validation-design/file_0000000040e88211a63b73aa592561fc/12_QA_VALIDATION_CHECKS.csv",
+      "git_blob_sha": "f9be3362f4657c72163a8a408be91596e5b62337",
+      "bytes": 1868
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-controlled-validation-design/file_00000000414c8211bd94e52fafd745b3/12_QA_AND_INTEGRITY.md",
+      "git_blob_sha": "977c500e97d86b244fd971e32ff8db2de3df1387",
+      "bytes": 3911
+    },
+    {
+      "path": "tracks/02-validation-design-package/revisions/2026-10-19-controlled-validation-design/file_000000005d3882118e13485072934336/12_QA_VALIDATION_CHECKS.csv",
+      "git_blob_sha": "3ff4d6b0399ee7a408780fbfde37f7ba4dfa50ed",
+      "bytes": 1830
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/00_README_A1_M0_INVENTORY.md",
+      "git_blob_sha": "0a175b37f86d8d1f49e0375b31714762b85f87ae",
+      "bytes": 2908
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/01_EIGHT_CASE_MATERIAL_REQUIREMENTS_REGISTER.csv",
+      "git_blob_sha": "ad36d7bfe7a22a0ffc4e9f3c9339efc37e222505",
+      "bytes": 9788
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/01_EIGHT_CASE_MATERIAL_REQUIREMENTS.md",
+      "git_blob_sha": "69a2c3d7d78cb933a7f7bf154f15557f84d0197a",
+      "bytes": 3175
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/02_OWNERSHIP_AND_PERMISSIONS_GAP_REGISTER.csv",
+      "git_blob_sha": "93683a6de311253b92cffcae5486dbeff9dd8f56",
+      "bytes": 14736
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/02_OWNERSHIP_AND_PERMISSIONS_GAPS.md",
+      "git_blob_sha": "ebad49888f4e5ab2cbc057f4d543758e35d96628",
+      "bytes": 1185
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/03_PRIMARY_FACTUAL_SOURCE_INVENTORY.csv",
+      "git_blob_sha": "6d1613fad3090d7868598180b004acb2b9cba734",
+      "bytes": 8554
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/03_PRIMARY_FACTUAL_SOURCE_INVENTORY.md",
+      "git_blob_sha": "2caf623aed1b636af9c245cedeae6f3f821ff13c",
+      "bytes": 4968
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/04_REVIEWER_ROLE_QUALIFICATION_MATRIX.csv",
+      "git_blob_sha": "b213d502873222302f445586688ad9f6f43d65bf",
+      "bytes": 5233
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/04_REVIEWER_ROLE_QUALIFICATION_MATRIX.md",
+      "git_blob_sha": "902f7d3869f5c6ea9ac8845a617cae9b9ef4028f",
+      "bytes": 2266
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/05_ZERO_PAID_SPEND_FEASIBILITY_ASSESSMENT.md",
+      "git_blob_sha": "ac8e8a279c21d228e3a82688c6e8628e37cb744d",
+      "bytes": 2366
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/05_ZERO_SPEND_FEASIBILITY_GATE.csv",
+      "git_blob_sha": "35055a5f1e3b2a17191b2577b6e51366c327572b",
+      "bytes": 1095
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/06_FULL_A1_VERSUS_SMALLER_FEASIBILITY_OPTION.md",
+      "git_blob_sha": "18dff7b111b47d035e4d979c303ceb09fe4bcdbf",
+      "bytes": 2416
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/07_EXACT_NEXT_RESEARCH_DIRECTOR_CHECKPOINT.md",
+      "git_blob_sha": "31c3f91126bb6103c38649ffe7e89b29acc945d3",
+      "bytes": 3346
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/08_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "ff694022e73ceb38b0f3a2fff46b84d70a14ef5e",
+      "bytes": 1730
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-m0-inventory/08_QA_AND_LINEAGE.md",
+      "git_blob_sha": "9f3446f15df9330e6d107d081822c74cb3111368",
+      "bytes": 1977
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/00_README_A1_READINESS_GATE.md",
+      "git_blob_sha": "a336dbab8560674559d11e0f7f1b9d5241077963",
+      "bytes": 3041
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/01_CORRECTED_EVIDENCE_ROLE_ADDENDUM.md",
+      "git_blob_sha": "534462509b6ef103d76f4359282c088fc07056c2",
+      "bytes": 5835
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/01_EVIDENCE_ROLE_ADDENDUM_REGISTER.csv",
+      "git_blob_sha": "9bed0230b9fab1d234e1197293aa48acd1a8a205",
+      "bytes": 110466
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/02_A1_EIGHT_CASE_READINESS_MATRIX.csv",
+      "git_blob_sha": "37628e99d1c5d77e8c361ad355a82f3093d1e11f",
+      "bytes": 9468
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/02_A1_EIGHT_CASE_READINESS_MATRIX.md",
+      "git_blob_sha": "44b2ffb3e7db08a88d640e50e3aa621b420c7835",
+      "bytes": 3891
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/03_REVIEWER_AND_INDEPENDENCE_REQUIREMENTS.md",
+      "git_blob_sha": "e1d1cf1d8538ddf40e31941186105eea49138adf",
+      "bytes": 4031
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/03_REVIEWER_ASSIGNMENT_REQUIREMENTS.csv",
+      "git_blob_sha": "53e36b29b53b4fbad931c4612fbdb386b159b5ed",
+      "bytes": 2229
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/04_SOURCE_AND_RIGHTS_CLEARANCE_CHECKLIST.csv",
+      "git_blob_sha": "e76c754ef05cbf0387acba0cc7e6529b7eb07e93",
+      "bytes": 30640
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/04_SOURCE_AND_RIGHTS_CLEARANCE_CHECKLIST.md",
+      "git_blob_sha": "8eb0d2f3401ca3a8203657fd6b4a747f0aa894b2",
+      "bytes": 3124
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/05_CORRECTED_STAFFING_AND_COST_ESTIMATE.md",
+      "git_blob_sha": "b1e4b832f0a3d274d073a92fc1e31980f299c644",
+      "bytes": 4748
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/05_STAFFING_WORKPACKAGES_AND_OVERLAP.csv",
+      "git_blob_sha": "62dca62f4cb4f1efb72a1e2dbf0318e570429dd5",
+      "bytes": 3052
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/06_PRE_REGISTRATION_AND_BLINDING_CHECKLIST.md",
+      "git_blob_sha": "4a01640de7bd34e70b4595bd5afdae63718b75ed",
+      "bytes": 3607
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/06_PRE_REGISTRATION_BLINDING_CHECKLIST.csv",
+      "git_blob_sha": "31e7ad92096283dc9bb4aa76d332ae6e09e393fe",
+      "bytes": 3157
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/07_GO_CONDITIONAL_BLOCKED_DECISION_REPORT.md",
+      "git_blob_sha": "8d4983abeb09475e4489378023e78dec543ef6d2",
+      "bytes": 3151
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/07_READINESS_BLOCKERS_AND_DECISION.csv",
+      "git_blob_sha": "8bc17c1898abb5a164de3c10bdfe3943e45f5d76",
+      "bytes": 2299
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/08_EXACT_RESEARCH_DIRECTOR_EXECUTION_APPROVAL_CHECKPOINT.md",
+      "git_blob_sha": "175fb1d282a8af4e742fff58e64a5ff02728f736",
+      "bytes": 4711
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/09_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "d4428b4bbb08daa240c69efec35dfc5d02656f4f",
+      "bytes": 2112
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-a1-readiness/09_QA_INTEGRITY_AND_LINEAGE.md",
+      "git_blob_sha": "96534b8277772f2215f1b6dde4ee4d85c8a95b9a",
+      "bytes": 2765
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/00_README_VALIDATION_PROPOSAL.md",
+      "git_blob_sha": "bba49747bc2bcd0a25cf81d3954823557b4d81ba",
+      "bytes": 3984
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/01_K001_K048_VALIDATION_TRIAGE_REGISTER.csv",
+      "git_blob_sha": "c8b24d35985feb9d50687e86a4c9fade0c9ed012",
+      "bytes": 20322
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/01_VALIDATION_TRIAGE_REGISTER.md",
+      "git_blob_sha": "f72856c15586a39107f085d92516f3c25c780cf5",
+      "bytes": 9701
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/02_P001_P015_PRIORITIZED_TESTING_ROADMAP.csv",
+      "git_blob_sha": "abbf24e3b30712bc59c75861f1c7cdf07a75cca3",
+      "bytes": 5820
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/02_PRIORITIZED_ROADMAP.md",
+      "git_blob_sha": "3812adc8ab2f2ec0cf150f9871857eed0b24fbc2",
+      "bytes": 4849
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/03_FOUR_CATEGORY_RUBRIC_DIMENSIONS.csv",
+      "git_blob_sha": "7c4407d14f747572d0883530981d933f62d885e1",
+      "bytes": 8249
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/03_FOUR_CATEGORY_SCRIPT_QUALITY_RUBRICS.md",
+      "git_blob_sha": "ff31f7ed52e2ae0521a9589dc0180524e804ea58",
+      "bytes": 7209
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/04_FACTUALITY_SOURCE_INTEGRITY_PROTOCOL.md",
+      "git_blob_sha": "6d85690af31c721857dc5722d6d8dd9aca70f5c7",
+      "bytes": 4186
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/04_TEST_PROTOCOL_MASTER_REGISTER.csv",
+      "git_blob_sha": "3197b4af6ba280ee4550ad0addad43c5fdbc5c50",
+      "bytes": 21801
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/05_SPOKEN_COMPREHENSION_ACCESSIBILITY_DESIGN.md",
+      "git_blob_sha": "0276321bfcdfc26a3e0f8c740b3693e177839325",
+      "bytes": 4239
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/06_REVIEWER_INDEPENDENCE_AGREEMENT_PROTOCOL.md",
+      "git_blob_sha": "998eb82299845174d449fb7c0a0d6ef14bb57cc0",
+      "bytes": 3491
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/07_RETENTION_RESEARCH_FEASIBILITY.md",
+      "git_blob_sha": "8644a957149484bd20b7e713519be88e6007d164",
+      "bytes": 3476
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/08_BUDGET_RIGHTS_ACCESS.md",
+      "git_blob_sha": "9cf87ba1c40db0459b8bb611da8ec3964defa206",
+      "bytes": 4897
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/08_FEASIBILITY_BUDGET_RIGHTS_ACCESS.csv",
+      "git_blob_sha": "c2c5169a2c53fe307cd12e5a02cb5766e4ac224a",
+      "bytes": 1982
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/09_SMALL_FIRST_PILOT_PROPOSAL.md",
+      "git_blob_sha": "fb133212a18f6048a029eff055010f41421818d3",
+      "bytes": 4963
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/10_EXACT_RESEARCH_DIRECTOR_APPROVAL_CHECKPOINT.md",
+      "git_blob_sha": "da17959386b3f8f805f1e6065d08e7d9e85aa92f",
+      "bytes": 3479
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/11_COMPLETE_PROTOCOL_SPECIFICATIONS.md",
+      "git_blob_sha": "47b24e8daffe04c8a7a4f16975f97de53e435cb1",
+      "bytes": 27275
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/12_QA_AND_INTEGRITY.md",
+      "git_blob_sha": "669ef4590a16e73f4190470ea7b220c0eac624ae",
+      "bytes": 3843
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/12_QA_VALIDATION_CHECKS.csv",
+      "git_blob_sha": "400579c0b17401738b58e90ccc71c95ec9e5271a",
+      "bytes": 1798
+    },
+    {
+      "path": "tracks/02-validation-design-package/source-files/2026-10-19-controlled-validation-design/13_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "beb521d36c2943ffecbb76a6b8f57e1bc72b7561",
+      "bytes": 2319
+    },
+    {
+      "path": "tracks/02-validation-design-package/UPLOAD_REPORT.md",
+      "git_blob_sha": "bce74e6aaf3044db6a5a31569ee3fb7110e26b7a",
+      "bytes": 39171
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/CHAT_HANDOFF.md",
+      "git_blob_sha": "2891b007b1933c6f63b6d72cbe18c83ff2a047eb",
+      "bytes": 3414
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/FILE_MANIFEST.csv",
+      "git_blob_sha": "b08ae6857d64115221ba2d464f17c7a24e860142",
+      "bytes": 21157
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/README.md",
+      "git_blob_sha": "a4116185de7574793df56944aaaa051008c2cf18",
+      "bytes": 1378
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "ba5f1115058a46a3032f4c1f4cc300f6edd2c3b1",
+      "bytes": 3036
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/00_ARCHIVE_MEMBER_SHA256_MANIFEST.csv",
+      "git_blob_sha": "5c555aafb36f2bd0ad7a765215182c82d1753d5f",
+      "bytes": 31109
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/00_INPUT_ZIP_SHA256_MANIFEST.csv",
+      "git_blob_sha": "3a170e0762cc549e02b42905e7484d1a3ce60581",
+      "bytes": 2227
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/00_OUTPUT_SHA256_MANIFEST.csv",
+      "git_blob_sha": "a9a1db82154e1837febc4a4278702f04a12f52ab",
+      "bytes": 2891
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/00_README_AND_SOURCES.md",
+      "git_blob_sha": "bec12d39a1e9c15be3eeabd1fd671faa07c6e997",
+      "bytes": 3769
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/01_MASTER_KNOWLEDGE_PROVENANCE_REGISTER.md",
+      "git_blob_sha": "817cbea67b55fa7759e452d87ac8eb43658fdbcf",
+      "bytes": 4335
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/02_UNIVERSAL_VS_CONDITIONAL_KNOWLEDGE_CLASSIFICATION.csv",
+      "git_blob_sha": "0a43cc90eab139ebde449af47289c265328d1364",
+      "bytes": 16511
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/02_UNIVERSAL_VS_CONDITIONAL_KNOWLEDGE_CLASSIFICATION.md",
+      "git_blob_sha": "e8d7c524e6c3bfb231648a16959ef2370eb234cf",
+      "bytes": 2082
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/01_MASTER_KNOWLEDGE_PROVENANCE_REGISTER(1).csv",
+      "git_blob_sha": "982a2cbaac80605e8f4d1e12c2f5238a8e2d7705",
+      "bytes": 335536
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/01_SYNTHESIS_QA_ERRATA (1).md",
+      "git_blob_sha": "c8feaa6dc6a1fc720eee810a94a7bb00ed69c6a6",
+      "bytes": 3552
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/03_EVIDENCE_LINK_ELIGIBILITY_AUDIT (1).csv",
+      "git_blob_sha": "48009f521fe0c74742084359feb66326a7653fdb",
+      "bytes": 126396
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/04_HOOK_STRUCTURE_NARRATION_PAYOFF_RESEARCH_MATRIX(1).csv",
+      "git_blob_sha": "ed4c5e3c558d2eb041f8329e6fdf8619e62145c8",
+      "bytes": 38809
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/04_R163_METHODS_AND_CAUSALITY_ERRATUM (1).md",
+      "git_blob_sha": "4a09ee4cff71aee274a0773755f17ddae7c5f3fa",
+      "bytes": 2581
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/05_CONTRADICTIONS_AND_COUNTEREXAMPLES_REGISTER(1).csv",
+      "git_blob_sha": "f36264857a818e1127d10bdf1808a706f31659e7",
+      "bytes": 36989
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/05_FINAL_SYNTHESIS_INTEGRITY_REPORT (1).md",
+      "git_blob_sha": "1ab74ad28389277e0dbd47ce9b8b996e68700894",
+      "bytes": 2102
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/06_EVIDENCE_STRENGTH_AND_INDEPENDENCE_ASSESSMENT(1).md",
+      "git_blob_sha": "f6173bd26e46bdda8222323fe98ac9b541b44b44",
+      "bytes": 2994
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/06_EXACT_RESEARCH_DIRECTOR_ACCEPTANCE_CHECKPOINT (1).md",
+      "git_blob_sha": "91eb847db37bac1355e7cb58636e153b346862cf",
+      "bytes": 2344
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/09_PROPOSED_FUTURE_SKILL_ARCHITECTURE_RESEARCH_BLUEPRINT(1).md",
+      "git_blob_sha": "96f70a41c5f4b91fd425c6f602ceadfd60d0113d",
+      "bytes": 3905
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/10_EXACT_RESEARCH_DIRECTOR_REVIEW_CHECKPOINT(1).md",
+      "git_blob_sha": "59c0ae737cf0fb9a48ab03905f42be6712f1d902",
+      "bytes": 4246
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/source-files/director-recovery-2026-10-24/UNIVERSAL_SCRIPTWRITING_SYNTHESIS_QA_REPAIR_2026-10-19_SHA256_MANIFEST (1).csv",
+      "git_blob_sha": "0b64ae61196336eed696065d8e38dbe6de7a5648",
+      "bytes": 5033
+    },
+    {
+      "path": "tracks/03-research-synthesis-package/UPLOAD_REPORT.md",
+      "git_blob_sha": "2a20375c5519e8fb14cda3d91c89a11fce8e33d5",
+      "bytes": 3496
+    },
+    {
+      "path": "tracks/04-youtube-script-research/CHAT_HANDOFF.md",
+      "git_blob_sha": "3e84599c66775182b5b17406420479faf6453128",
+      "bytes": 4167
+    },
+    {
+      "path": "tracks/04-youtube-script-research/FILE_MANIFEST.csv",
+      "git_blob_sha": "f5441784c472e2986e474e230d3fc48c541d44d4",
+      "bytes": 18532
+    },
+    {
+      "path": "tracks/04-youtube-script-research/HISTORICAL_DECISIONS.md",
+      "git_blob_sha": "d700f7a4ca887676ec8872cf83d0ff36788ce1d5",
+      "bytes": 1866
+    },
+    {
+      "path": "tracks/04-youtube-script-research/README.md",
+      "git_blob_sha": "9a2b6c9230598bcd6796adb0c5faebc209fd1c7f",
+      "bytes": 1381
+    },
+    {
+      "path": "tracks/04-youtube-script-research/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "1e0c153c8917c8e1e713aea1e014195843474354",
+      "bytes": 1694
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/00_README_AND_DIRECTOR_HANDOFF.md",
+      "git_blob_sha": "61781bf92df9abbac4b42ac52fb6ca66c7c170d3",
+      "bytes": 1811
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/01_FOUR_ANCHOR_TIMESTAMP_REGISTER.csv",
+      "git_blob_sha": "f883143d5c1fd645b392087ff520600fbb3b315d",
+      "bytes": 3956
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/01_FOUR_TIMESTAMP_VERIFICATION_CARDS.md",
+      "git_blob_sha": "8f96b9a70b780dfdbd66e25ffeee2de2b970e8ac",
+      "bytes": 7525
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/02_AUDIO_FIDELITY_AND_ASR_ERRATA.md",
+      "git_blob_sha": "2baa591da459cbf2a57bcb301b6b96e458d0e03f",
+      "bytes": 4034
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/03_TRANSCRIPT_PROVIDER_AND_COST_VERIFICATION.md",
+      "git_blob_sha": "066327f38f56c4b3481376d053214eb5ec9cddef",
+      "bytes": 4622
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/04_CORRECTED_22_LINK_CROSSWALK.csv",
+      "git_blob_sha": "3daba8d1aa6baa99c70dcc342b0e8c501382adc0",
+      "bytes": 9349
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/04_CROSSWALK_QC_ASSESSMENT.md",
+      "git_blob_sha": "1d38c17a684aca8780fa2aa9b56191053da5d3a3",
+      "bytes": 2074
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/05_ORIGINAL_SOURCES_AND_LICENSING_NOTES.md",
+      "git_blob_sha": "452d20496c0319efe96edc3f095cf8008e029d3d",
+      "bytes": 3284
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/06_REMAINING_EIGHT_SCALING_METHOD.md",
+      "git_blob_sha": "bb44efcc3dccdf0d61975eb229fc3f77374519d2",
+      "bytes": 3257
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/07_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "219c5a5151a80724ac7413cc0d0eb1cf9cfa56d3",
+      "bytes": 2321
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-18-evidence-repair/08_PROVENANCE_MANIFEST.json",
+      "git_blob_sha": "53994b5a1f7071d27fc529e60ebab3e3044646a5",
+      "bytes": 2433
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/00_DIRECTOR_HANDOFF.md",
+      "git_blob_sha": "21f3321784c69bd101d84da2514b2481c7642160",
+      "bytes": 2104
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/01_FINAL_THREE_VIDEO_VERIFICATION_REGISTER.csv",
+      "git_blob_sha": "3f3500b4247c4d9df20b22ae02713e07bc415b50",
+      "bytes": 1595
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/02_TIMESTAMP_AND_AUDIO_VERIFICATION_RESULTS.csv",
+      "git_blob_sha": "52b83ed41051c364ef460b297b463a4468c8f93b",
+      "bytes": 3130
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/02_TIMESTAMP_AND_AUDIO_VERIFICATION_RESULTS.md",
+      "git_blob_sha": "4b93f951b62f4ea7ba22f72c501b2513db3a79df",
+      "bytes": 5030
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/03_SOURCE_ACCESS_AND_RIGHTS_NOTES.md",
+      "git_blob_sha": "04963b83af03bd73b532d467126e1d616c58100e",
+      "bytes": 2838
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/04_EXACT_BLOCKER_REGISTER.csv",
+      "git_blob_sha": "4083042678f38583686d6353189b3b407922761e",
+      "bytes": 4165
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/05_FINAL_RECOMMENDATION_AND_CHECKPOINT.md",
+      "git_blob_sha": "b142136487a7eb34a5d5f34e9a4856749386b8d4",
+      "bytes": 2427
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/06_SOURCE_AND_PRESERVATION_MANIFEST.csv",
+      "git_blob_sha": "ff3f66e62969c8fca582c45a9915710b68c64870",
+      "bytes": 1369
+    },
+    {
+      "path": "tracks/04-youtube-script-research/revisions/2026-10-19-primary-player-gate/07_READ_ONLY_CROSSWALK_PRESERVATION.md",
+      "git_blob_sha": "509369dd8257791b78b4c2a182caf7f1b5fd1746",
+      "bytes": 850
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/00_README_AND_DIRECTOR_HANDOFF.md",
+      "git_blob_sha": "3843321234a40ad8a203ace11bb1b46b5c552f62",
+      "bytes": 2831
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/01_VERIFIED_12_VIDEO_RESEARCH_REGISTER.csv",
+      "git_blob_sha": "b762ae82cb453730daced31a01f82b3140f5f9de",
+      "bytes": 5915
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/02_SPOKEN_CONTENT_ACCESS_AND_RIGHTS.csv",
+      "git_blob_sha": "b50b81fc64c45a9e694bdab8a594d695abcd1840",
+      "bytes": 7374
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/03_TWELVE_INDIVIDUAL_SCRIPT_DNA_EVIDENCE_CARDS.md",
+      "git_blob_sha": "3a881dba88a50627e1b0c8b3466f9b78dc5112f1",
+      "bytes": 37167
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/04_FOUR_CATEGORY_SPECIFIC_COMPARISONS.md",
+      "git_blob_sha": "67040dbe92b1e3e69e2c98b2d8b32639ee0bc7e0",
+      "bytes": 5635
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/05_CROSS_CATEGORY_SCRIPTWRITING_COMPARISON_MATRIX.csv",
+      "git_blob_sha": "ba27f4eb2a14c1a932bd8b1f8cc1246a09e72000",
+      "bytes": 2782
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/06_HOOK_CURIOSITY_PACING_AND_PAYOFF_SYNTHESIS.md",
+      "git_blob_sha": "cffe25d5edc96ae8934ccbcac3cd5de83f115894",
+      "bytes": 2921
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/06_HOOK_CURIOSITY_PACING_PAYOFF_AUDIT.csv",
+      "git_blob_sha": "4086d9cba7dd0a19d62f814adcc1776d4f9c0cb1",
+      "bytes": 11339
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/07_COUNTEREXAMPLES_AND_CONTRADICTIONS.md",
+      "git_blob_sha": "4ce55c60246f19224dde78eea3c4ec6e0c9e56c4",
+      "bytes": 3973
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/08_CANDIDATE_CONNECTIONS_TO_EXISTING_R_F_RESEARCH.csv",
+      "git_blob_sha": "f9179049f724bf25cee73b5144c26c5cf3511f05",
+      "bytes": 2888
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/09_RESEARCH_GAPS_AND_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "dac9f879da1e5255958a32cfaa3793791817081b",
+      "bytes": 4038
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/10_SOURCE_METHOD_AND_RIGHTS_NOTES.md",
+      "git_blob_sha": "53736123e527dfab0283ef18e591022ade0da8e6",
+      "bytes": 3892
+    },
+    {
+      "path": "tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/11_FILE_MANIFEST_AND_SHA256.json",
+      "git_blob_sha": "ed31840fec97233ca9eb1d76745db88899c3359a",
+      "bytes": 2315
+    },
+    {
+      "path": "tracks/04-youtube-script-research/UPLOAD_REPORT.md",
+      "git_blob_sha": "6f285d35a076d46f721640e91f6f6435bf397370",
+      "bytes": 8305
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/CHAT_HANDOFF.md",
+      "git_blob_sha": "33a886dfe2efd3887999271b31f6277841794a06",
+      "bytes": 6057
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/FILE_MANIFEST_SUPPLEMENT.csv",
+      "git_blob_sha": "39f6935a49c128275e1c5496a42a4b8f5b03943a",
+      "bytes": 1868
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/FILE_MANIFEST.csv",
+      "git_blob_sha": "51719c13dcd2e82a5c532bd4e97420c38cfb3096",
+      "bytes": 34614
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/historical-batches/batch2/09_BATCH2_ASSESSMENT_SUMMARY.md",
+      "git_blob_sha": "55899f3ca8aae1d66156af2fc25602399c981f9f",
+      "bytes": 1732
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/original-batch2/00_README.md",
+      "git_blob_sha": "a913388a03965c8f942c6bcad6b66caa3fb382ca",
+      "bytes": 974
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/original-batch2/01_UPDATED_EVIDENCE_EXTRACTION_REGISTER_20.csv",
+      "git_blob_sha": "f21f657834c90e981f8a2c74d49327bd78971b17",
+      "bytes": 31436
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/original-batch2/02_TEN_SOURCE_EVIDENCE_CARDS.md",
+      "git_blob_sha": "cb0775da416d48fceb2b14d3d39300d62e465942",
+      "bytes": 25636
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/README.md",
+      "git_blob_sha": "c2d1ead560d59c30adbc22ba0baa349f6cc8b1b4",
+      "bytes": 1393
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "07f96ff2075069f0c5043aa390ec241bde780500",
+      "bytes": 4033
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/00_README.md",
+      "git_blob_sha": "a913388a03965c8f942c6bcad6b66caa3fb382ca",
+      "bytes": 974
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/02_TEN_SOURCE_EVIDENCE_CARDS.md",
+      "git_blob_sha": "cb0775da416d48fceb2b14d3d39300d62e465942",
+      "bytes": 25636
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/04_INDEPENDENCE_AND_CONTRADICTIONS.md",
+      "git_blob_sha": "8688a069ed6d2ba4881d8e4726d1c20e6b312094",
+      "bytes": 3441
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/07_REMAINING_GAPS.md",
+      "git_blob_sha": "6f83809c10f59715711657d96e714fcd77202c4b",
+      "bytes": 1997
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/08_EXACT_NEXT_EXTRACTION_CHECKPOINT.md",
+      "git_blob_sha": "e8c6cafe79d714f86884daac08dbe3250e5e91e4",
+      "bytes": 1705
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/batch2/09_BATCH2_ASSESSMENT_SUMMARY.md",
+      "git_blob_sha": "e61a19bed3fe3b9650894ccb2b5c3814e3e67ef2",
+      "bytes": 1733
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/director-recovery-2026-10-24/01_CUMULATIVE_R_SOURCE_REGISTER(1).csv",
+      "git_blob_sha": "9f6c7e3c4a9127d63d1a2f7a3077ca90aad6b7b7",
+      "bytes": 181184
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/director-recovery-2026-10-24/01_EVIDENCE_EXTRACTION_REGISTER(1).csv",
+      "git_blob_sha": "c56432be340b47ea2466885527cdb15637633beb",
+      "bytes": 15126
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/director-recovery-2026-10-24/02_NEW_BATCH_R_SOURCES(1).csv",
+      "git_blob_sha": "79f64680d8818fb66021d6b9fcc4113b0abf0fa1",
+      "bytes": 29858
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/director-recovery-2026-10-24/03_GITHUB_REALWORLD_FINDING_CROSSWALK(1).csv",
+      "git_blob_sha": "2cb374c011739783d7f2c0594897d868666561c9",
+      "bytes": 6423
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/discovery/07_NEXT_EXTRACTION_CHECKPOINT.md",
+      "git_blob_sha": "0c7d838b8e1a4b9f14af48cb8ab087535e4d4d3c",
+      "bytes": 2187
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/pilot/02_SOURCE_BY_SOURCE_EVIDENCE_CARDS.md",
+      "git_blob_sha": "895a81a04244fabd3d4c50ec90e189d5f11ec259",
+      "bytes": 21970
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/pilot/05_EVIDENCE_QUALITY_ASSESSMENT.md",
+      "git_blob_sha": "ef46e4dcc37c29e0d3cbc8bb68cf340ef7a12a73",
+      "bytes": 3880
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/pilot/07_REMAINING_EVIDENCE_GAPS.md",
+      "git_blob_sha": "a1445ce43f32b267cee22b70a284dce6d7dd959b",
+      "bytes": 2525
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/pilot/08_EXACT_NEXT_EXTRACTION_CHECKPOINT.md",
+      "git_blob_sha": "40a8d5520fc2bbf45ff70c96592152acdcd84ceb",
+      "bytes": 2694
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/source-files/pilot/09_PILOT_ASSESSMENT_SUMMARY.md",
+      "git_blob_sha": "d55f87a89459db9bf2f80a2b7a34444859c391ef",
+      "bytes": 2789
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/CHAT_HANDOFF.md",
+      "git_blob_sha": "3cfaca239f0b03ffc4777b2b7e04d521d5f16bf3",
+      "bytes": 6527
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/FILE_MANIFEST_ADDENDUM_01.csv",
+      "git_blob_sha": "473f4826791d7c984e8e2e49f6b17bd9cd34db63",
+      "bytes": 622
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/FILE_MANIFEST.csv",
+      "git_blob_sha": "eea7e5bfcd102b74334819c76230945fccbf3c88",
+      "bytes": 11581
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/HISTORICAL_DECISIONS.md",
+      "git_blob_sha": "c7d53d8a101f707ccdd62460345efca1bab740eb",
+      "bytes": 3906
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "7a4847fe5dad792a0a0a572491f13364694e8961",
+      "bytes": 5645
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/supplements/batch2-chat-20261024/UPLOAD_REPORT.md",
+      "git_blob_sha": "2ebb5753a34a0bb327be6ea145ce204e1b31baef",
+      "bytes": 8581
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/UPLOAD_REPORT.md",
+      "git_blob_sha": "e85c3cea61a20f209d0834e33dbef7f2b10cfebc",
+      "bytes": 5408
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/00_README.md",
+      "git_blob_sha": "cc4d1811bb657a583de083e907293c8b50fef411",
+      "bytes": 1193
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/01_UPDATED_EVIDENCE_EXTRACTION_REGISTER_20.csv",
+      "git_blob_sha": "df35dec944460be8a09e3c9ad79abfb16d83e629",
+      "bytes": 31479
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/02_TEN_SOURCE_EVIDENCE_CARDS.md",
+      "git_blob_sha": "4a37b71e768c61a611e5afb98002cdf3bc5a68f0",
+      "bytes": 25747
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/03_CUMULATIVE_GITHUB_TO_REALWORLD_F_ID_CROSSWALK.csv",
+      "git_blob_sha": "f85ecba262cf1ac70108eb28131c4682e7f03339",
+      "bytes": 12351
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/03B_BATCH2_F_ID_CONNECTIONS_ONLY.csv",
+      "git_blob_sha": "97180dc78b7ad8efcd49154b83333d30b9e3b57b",
+      "bytes": 6087
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/04_INDEPENDENCE_AND_CONTRADICTIONS.md",
+      "git_blob_sha": "8688a069ed6d2ba4881d8e4726d1c20e6b312094",
+      "bytes": 3441
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/05_ASSESSED_SOURCE_CATEGORY_FORMAT_COVERAGE.csv",
+      "git_blob_sha": "6c93ede625828a6664875669f2a95845b2f1996b",
+      "bytes": 1519
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/05_CATEGORY_X_FORMAT_COVERAGE_MATRIX.csv",
+      "git_blob_sha": "8ccc15ab7d7a186fd0f74e7df1bdf159c9018919",
+      "bytes": 412
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/06_CUMULATIVE_COPYRIGHT_USAGE_ASSESSMENT.csv",
+      "git_blob_sha": "e05de9b4cd03f506592987bd61d1a6ef1a72c2f5",
+      "bytes": 11062
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/07_REMAINING_GAPS.md",
+      "git_blob_sha": "6f83809c10f59715711657d96e714fcd77202c4b",
+      "bytes": 1997
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/08_EXACT_NEXT_EXTRACTION_CHECKPOINT.md",
+      "git_blob_sha": "e8c6cafe79d714f86884daac08dbe3250e5e91e4",
+      "bytes": 1705
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/10_OUTPUT_FILE_CHECKSUMS.json",
+      "git_blob_sha": "d0026182d39ac8b857c71560e67c8c23252fa078",
+      "bytes": 1714
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/10_PRIMARY_SOURCE_VERIFICATION_AND_RECONCILIATION.md",
+      "git_blob_sha": "7b5588e7c2796462e015ef3f837ef6f6431aac2c",
+      "bytes": 8138
+    },
+    {
+      "path": "tracks/05-evidence-extraction-batch-two/verified-batch2/manifest.json",
+      "git_blob_sha": "329e18e2ff3915123e6c619149a1ad5ea57c5b83",
+      "bytes": 1603
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/README.md",
+      "git_blob_sha": "c71998b8488b77ba854ecbf76254f9dfd0f876b6",
+      "bytes": 1384
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/01_CANONICAL_90_FINDING_REGISTER(1).csv",
+      "git_blob_sha": "b33cbbf1013708ccb363207d2283562c4dc1f411",
+      "bytes": 123591
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/02_CORRECTED_CLASSIFICATION_ID_CROSSWALK(1).csv",
+      "git_blob_sha": "32c70b8751680f768c72384e9f0370c2954fc00c",
+      "bytes": 28518
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/03_SOURCE_INSPECTION_ACCOUNTING_S01-S63(1).csv",
+      "git_blob_sha": "afd5e0bbc1a47cb019fdf001e95f3aea4ad70c39",
+      "bytes": 21792
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/04_FAILED_UNVERIFIED_QUARANTINE(1).csv",
+      "git_blob_sha": "80d1051002094586522c4bef855cb9c7f4cb74ef",
+      "bytes": 7880
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/05_EVIDENCE_QUALITY_ASSESSMENT(1).md",
+      "git_blob_sha": "ef46e4dcc37c29e0d3cbc8bb68cf340ef7a12a73",
+      "bytes": 3880
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/05_INDEPENDENCE_LICENSING_S01-S63(1).csv",
+      "git_blob_sha": "c00f14e14c7f25c553895c868baf40f67f721c49",
+      "bytes": 25540
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/06_EXACT_RESEARCH_DIRECTOR_ACCEPTANCE_CHECKPOINT (1).md",
+      "git_blob_sha": "91eb847db37bac1355e7cb58636e153b346862cf",
+      "bytes": 2344
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/06_FINAL_AUDIT_CLOSURE_REPORT(1).md",
+      "git_blob_sha": "bc43c540affe3b7d2ec83c481708f99c720f5594",
+      "bytes": 7354
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/07_INTEGRITY_AUDIT(1).md",
+      "git_blob_sha": "3343de48f3892c653d22edaac53eef5943b452cd",
+      "bytes": 8076
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/07_NEXT_EXTRACTION_CHECKPOINT(1).md",
+      "git_blob_sha": "0c7d838b8e1a4b9f14af48cb8ab087535e4d4d3c",
+      "bytes": 2187
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/08_DIRECT_SOURCE_VERIFICATION(1).md",
+      "git_blob_sha": "c09b1cd62345e59a3c5eac5d4ecc656c4d545a9d",
+      "bytes": 19806
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/14_CLASSIFICATION_ERRATA(1).md",
+      "git_blob_sha": "db6f0d9cf964f3474b010dee08f0cf1194fbfc56",
+      "bytes": 1287
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/15_SOURCE_INDEPENDENCE(1).md",
+      "git_blob_sha": "0852a98ee77d3397463592c2a5fdf3bab80812d8",
+      "bytes": 2163
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/16_EXACT_NEXT_CHECKPOINT(1).md",
+      "git_blob_sha": "6f64fb2f1aa34bf1ff1d5d1f755d685c71e2618f",
+      "bytes": 2992
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/classification_crosswalk(1).csv",
+      "git_blob_sha": "f9d9e971b75f6085b089b6120826bf14665a60ad",
+      "bytes": 5813
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/cumulative_finding_verification_matrix_90(1).csv",
+      "git_blob_sha": "5de0e17676bce8a01661afa421379b49457570dc",
+      "bytes": 98796
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/finding_verification_matrix_90(1).csv",
+      "git_blob_sha": "254389f89e420351cb4d7fefaa0598ad11a47281",
+      "bytes": 80692
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/new_verification_evidence_35(1).csv",
+      "git_blob_sha": "e6aa47eb91d69e94b3125766d197fcdbe234cd0c",
+      "bytes": 33685
+    },
+    {
+      "path": "tracks/06-audit-integrity-findings/source-files/director-recovery-2026-10-24/source_reconciliation_S01-S63(1).csv",
+      "git_blob_sha": "ff4fe150147ae592a80a8947b9027315f3e6a03e",
+      "bytes": 3489
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/CHAT_HANDOFF.md",
+      "git_blob_sha": "eb12a0c371f71f0d3ae6d191be4d327b42ff7c2e",
+      "bytes": 3995
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/FILE_MANIFEST.csv",
+      "git_blob_sha": "c48a01dbff5c4edaca98142abd2b24ee430b8ef9",
+      "bytes": 170509
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_MULTILINGUAL_RESEARCH_BATCH01/05_FRAMEWORKS_AND_WORKFLOWS.md",
+      "git_blob_sha": "9c252028cb7a808e073b8badf2a3806e85a2cf2e",
+      "bytes": 6717
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_MULTILINGUAL_RESEARCH_BATCH01/06_MISTAKES_AND_CORRECTIONS.md",
+      "git_blob_sha": "e8a81950a4f282354b922e966ec4b3157d32aab0",
+      "bytes": 6069
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_MULTILINGUAL_RESEARCH_BATCH01/08_CROSS_CREATOR_COMPARISON.md",
+      "git_blob_sha": "800a0531641eac4bdffde230d151fa7bf4e1abee",
+      "bytes": 5577
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_MULTILINGUAL_RESEARCH_BATCH01/10_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "c3b49a9530f98f06fced3d302f7ccd042b7f01df",
+      "bytes": 6430
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B02/00_READING_AND_ACCESS_FAILURES.csv",
+      "git_blob_sha": "d77e20c2012252227db03e5163cfa34845c5a549",
+      "bytes": 46
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B02/01_ARCHIVE_CONTAINERS.csv",
+      "git_blob_sha": "1898fe40948df8f60e0f60be6b4a5a330e4c36d4",
+      "bytes": 1672
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B02/03_SAME_TITLE_DIFFERENT_CONTENT_REGISTER.csv",
+      "git_blob_sha": "bc54ffcc189f900c55b9dde7405a87eb513b7459",
+      "bytes": 2941
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B02/08_CROSS_LANGUAGE_TERMINOLOGY_AND_MEANING_NOTES.md",
+      "git_blob_sha": "06a2a33a2751720da7ed43eb4f9d3afdbcf2bf67",
+      "bytes": 4526
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B04/04_BATCH04_EXACT_SOURCE_READING_SPANS.csv",
+      "git_blob_sha": "961bcd7a9c9c35c395ec0c8802a185e8eee85195",
+      "bytes": 3538
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B05/00_HISTORICAL_READING_AND_ACCESS_FAILURES.csv",
+      "git_blob_sha": "d77e20c2012252227db03e5163cfa34845c5a549",
+      "bytes": 46
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B05/04_BATCH04_EXACT_SOURCE_READING_SPANS_PRESERVED.csv",
+      "git_blob_sha": "961bcd7a9c9c35c395ec0c8802a185e8eee85195",
+      "bytes": 3538
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B05/08B_TRANSCRIPTION_AND_TERMINOLOGY_CAUTION.md",
+      "git_blob_sha": "ad95e40c9496a141496ab1debc97855f1414a68a",
+      "bytes": 3001
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B06/06_GENERIC_BOILERPLATE_DETECTION_AUDIT.csv",
+      "git_blob_sha": "83adf2adfd74e5c4cd586b1c4724d955d2304916",
+      "bytes": 765
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B07/00_BATCH07_README_CURRENT_STATUS.md",
+      "git_blob_sha": "c8b72f07fd2be01a84e5cfc6d466aab83ae42989",
+      "bytes": 1973
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B07/06_BATCH07_ORDERED_FULL_TEXT_READING_SPANS.csv",
+      "git_blob_sha": "ca7a7af09d0f5e5a81121b7c05ec8602c1156762",
+      "bytes": 1342
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B07/10_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "91025cfbf7a5c799bb7a0a70b21e948e1d1e51db",
+      "bytes": 479
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/00_BATCH08_README_CURRENT_STATUS.md",
+      "git_blob_sha": "cd1d0d152783eb6f6d659268dfaab01ee024f1aa",
+      "bytes": 1144
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/00_HISTORICAL_ARTIFACT_PRESERVATION_MANIFEST.csv",
+      "git_blob_sha": "d91616bfb91db0d322a716b593e17ed44183762e",
+      "bytes": 1141
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/00_SOURCE_IDENTITY_BOUNDARY_AND_HASH_VERIFICATION.csv",
+      "git_blob_sha": "f386539e148568134bf374ac19b146df278487f7",
+      "bytes": 873
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/04_BATCH08_ORDERED_FULL_TEXT_READING_SPANS.csv",
+      "git_blob_sha": "6c10d935cdd6e6108930c374aedf154d004bf799",
+      "bytes": 2642
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/08_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "796b76e3b455ee6a3558a9c6e20466141c780227",
+      "bytes": 45441
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/09_DUPLICATE_AND_SOURCE_PROVENANCE_NOTES.md",
+      "git_blob_sha": "3c54b967e2c31211ff2ccfd996006823c4436ffc",
+      "bytes": 618
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/09_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "1f8709f6e7b55d0874f334a48dbd1097c2bfaecc",
+      "bytes": 425
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/11_CUMULATIVE_PROGRESS_AND_MISSING_DATA.md",
+      "git_blob_sha": "c53979edaf899424a59bca22c3781f3e10aa8300",
+      "bytes": 1663
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B08/12_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "78b38e519eb2269efabe0fec23102c8362c5401e",
+      "bytes": 2806
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B09/00_BATCH09_README_CURRENT_STATUS.md",
+      "git_blob_sha": "7e73c1571ce5d362f6240520a75b74a487cdcd8e",
+      "bytes": 2579
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B09/00_SOURCE_BOUNDARY_IDENTITY_VERIFICATION.csv",
+      "git_blob_sha": "8701958d4e8880ed44f32f7e9415539c9f2495df",
+      "bytes": 658
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B09/08_BATCH09_ORDERED_READING_COVERAGE_LEDGER.csv",
+      "git_blob_sha": "11ce4a0e42f38a88a67773c88456fbb5e35fd061",
+      "bytes": 890
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B09/11_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "deba4eaabc8d5f125eea0da7a98889088331eaf6",
+      "bytes": 297
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B09/12_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "aa48399109c1eaa52e02b3df13d75ba1b6cf0d49",
+      "bytes": 1732
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/00_BATCH10_README_CURRENT_STATUS.md",
+      "git_blob_sha": "d03fdface1960d2703ed88e7be1ed14aff11052c",
+      "bytes": 906
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/00_HISTORICAL_ARCHIVE_PRESERVATION_MANIFEST.csv",
+      "git_blob_sha": "568f3763fa8c47e782537b77122dcd7bb941360a",
+      "bytes": 3260
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/00_SOURCE_IDENTITY_BOUNDARY_HASH.csv",
+      "git_blob_sha": "4d566bdbf37b580810e0af302a0778aa77e1b9a8",
+      "bytes": 890
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/09_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "646c4e56169ab8d55f735e7fe4d53b6205f8f4a9",
+      "bytes": 45602
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/11_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "30f53690e7cc62c49f2ad489a9441386ff32ed9a",
+      "bytes": 409
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B10/12_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "9c00eecb96474ff8de627cdc821012d857e006ce",
+      "bytes": 2264
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/00_BATCH11_CURRENT_STATUS.md",
+      "git_blob_sha": "3dbcc92bc611bbf49d89284c401d94f240e3ec5c",
+      "bytes": 1714
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/00_HISTORICAL_PRESERVATION_MANIFEST.md",
+      "git_blob_sha": "504066f73d932309897117eb0ab05215ce7f2e7d",
+      "bytes": 1043
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/03_MULTILINGUAL_TERMINOLOGY_AND_MEANING_AUDIT.md",
+      "git_blob_sha": "567cef298fe4f89f8446cce2b415db97ef1c29ea",
+      "bytes": 4285
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/07_SOURCE_BOUNDARY_AND_HASH_VERIFICATION.csv",
+      "git_blob_sha": "ae3f331e9b81058f52d9d5ed2a9ed2089bb558d4",
+      "bytes": 965
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/08_ORDERED_FULL_TEXT_READING_COVERAGE_LEDGER.csv",
+      "git_blob_sha": "1ba8ccc4b30b65a96144f4824c1100a5dd875439",
+      "bytes": 3702
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/11_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "0f1c9c92df3724047e80586069b2cd66c24dbb54",
+      "bytes": 45766
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/12_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "a1fb609b8f07ed51c0b7549f428f4caf6ababed6",
+      "bytes": 453
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/13_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "79cc08705c3361a48174fcf7b09c8b6012eddd6f",
+      "bytes": 3807
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B11/14_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "a14dd3597c7b367c15e37b478d56d01c8a6c3372",
+      "bytes": 3545
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/00_BATCH12_README_CURRENT_STATUS.md",
+      "git_blob_sha": "d24a370fc737fdf6fcf04a80010e79d2d5a6527f",
+      "bytes": 1506
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/00_IMMUTABLE_HISTORY_MANIFEST.csv",
+      "git_blob_sha": "4c6dd72d4789176565fa3574de2d08bcb773c3f9",
+      "bytes": 2586
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/00_MISSING_SOURCE_PROVENANCE_AUDIT.csv",
+      "git_blob_sha": "4b003d9cfcb42d7ca61e3e4d14e03e7e95ce81f4",
+      "bytes": 1631
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/03_FULL_DUPLICATE_AND_PARTIAL_OVERLAP_COMPARISON.csv",
+      "git_blob_sha": "6235ee7fd6a74ec6faad297e3f5c5e7503a047fc",
+      "bytes": 795
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/04_APPEND_ONLY_SOURCE_INVENTORY_RECONCILIATION.md",
+      "git_blob_sha": "9702e85a5b238d30aa2e52d5f18f00b9e6fd28f7",
+      "bytes": 1991
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/08_ORDERED_FULL_TEXT_READING_COVERAGE_LEDGER.csv",
+      "git_blob_sha": "3866df5d5a4287720baaaf98a7fe5903e373db01",
+      "bytes": 2534
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/09_SOURCE_BOUNDARY_AND_SHA256_VERIFICATION.csv",
+      "git_blob_sha": "d0f42242563dbd380f82a985178035371a635182",
+      "bytes": 1104
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/12_BATCH11_SPOTCHECK_APPEND_ONLY_CORRECTIONS.csv",
+      "git_blob_sha": "c57fb5aa4541f49c2c8309791ec7e5ad4525b5ce",
+      "bytes": 1614
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/13_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "91bdf780f9cfaa8b0dbe9564d0aeda4e3c841aba",
+      "bytes": 46024
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/14_MULTI_FIELD_BOILERPLATE_AUDIT.csv",
+      "git_blob_sha": "5e59967f6d959b56cbfc5fd96de4f3de6ad9832a",
+      "bytes": 921
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/15_HISTORICAL_BATCH01_QA_STATUS.md",
+      "git_blob_sha": "3d19e9e9d3aa671d0c432780477ceb03c67bed60",
+      "bytes": 708
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/16_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "cca9f73f0d8f0f4fec1e66a023e23f0027cbba3b",
+      "bytes": 2188
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/17_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "f4bebb4c1c4e5ffb82c06f91e5e2ed0bc71c6752",
+      "bytes": 3273
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B12/18_CUMULATIVE_PROGRESS_AND_MISSING_DATA.md",
+      "git_blob_sha": "9dc58f1327a3e64059893e9b6d650789f8440a0c",
+      "bytes": 1077
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/00_BATCH13_README_CURRENT_STATUS.md",
+      "git_blob_sha": "ceb97fce7e73f6843eba9ac7eba08196d80ad199",
+      "bytes": 2416
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/01B_BATCH12_EXAMPLE_OUTCOME_QA_SUMMARY.md",
+      "git_blob_sha": "4e2c7588d7fb6ffd0245c064b536c9ba1c73a789",
+      "bytes": 1683
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/03_BATCH12_PARENT_CHILD_RELATIONSHIP_REASSESSMENT.csv",
+      "git_blob_sha": "a5bd38fa9bd599a088493815c69ffe903f98f20f",
+      "bytes": 3415
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/03_PRESERVED_HISTORICAL_106_RELATIONSHIPS.csv",
+      "git_blob_sha": "310162159e5ad1b2b2daf317ccb1b6a281184ef5",
+      "bytes": 20324
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/03B_RELATIONSHIP_TAXONOMY_NOTES.md",
+      "git_blob_sha": "67d7420416e68c166d7b91e589e181ce9300beeb",
+      "bytes": 3403
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/07_BATCH13_ORDERED_FULL_TEXT_COVERAGE.csv",
+      "git_blob_sha": "c2db23e0af9e5bf3c5bd8862dc252beb1dd837a5",
+      "bytes": 1401
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/08_SOURCE_HASH_AND_IDENTITY_VERIFICATION.csv",
+      "git_blob_sha": "aea249e7aa16ac4e945df3dd065d442a3ae7127e",
+      "bytes": 826
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/10_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "48f89563142279640538b985b347afd60c81f360",
+      "bytes": 46251
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/11_HISTORICAL_BATCH01_QA_PROGRESS.md",
+      "git_blob_sha": "9f8834b12ea094294e444d8697ab0b4a6596b801",
+      "bytes": 800
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/12_NEXT_SOURCE_IDENTIFICATION.csv",
+      "git_blob_sha": "e7efb39f633c6a8102614c421c490404c14be7bb",
+      "bytes": 411
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/12_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "da1ccdd452cdd2c48bd90e5e5a819f57c5b2f19c",
+      "bytes": 2217
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B13/14_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "c0f11625f7237271e6964874beb0d8d01a2413f1",
+      "bytes": 2568
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/00_HISTORICAL_ARTIFACT_PRESERVATION_MANIFEST.csv",
+      "git_blob_sha": "bcccf9bf4c5ccb2431a1e4047b6106341812c700",
+      "bytes": 774
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/03_ORIGINAL_MEMBER_HASH_AND_IDENTITY_VERIFICATION.csv",
+      "git_blob_sha": "1a5226cc2594879034cbc6cb3021afe96435e17c",
+      "bytes": 680
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/04_ORDERED_FULL_TEXT_READING_COVERAGE_LEDGER.csv",
+      "git_blob_sha": "ce5de946934c9e9d423ad890872db49e5def7a84",
+      "bytes": 1412
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/05_HISTORICAL_106_KNOWLEDGE_RELATIONSHIPS_UNMODIFIED.csv",
+      "git_blob_sha": "310162159e5ad1b2b2daf317ccb1b6a281184ef5",
+      "bytes": 20324
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/05_NAMED_AND_UNNAMED_FRAMEWORKS_REGISTER.csv",
+      "git_blob_sha": "1d1ea2857671caee1364531c815dd953fb4f74da",
+      "bytes": 7751
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/10_REPEATED_ANCHOR_OCCURRENCE_AUDIT.csv",
+      "git_blob_sha": "c659f326989d57817f498135e57cb65b1cf249d5",
+      "bytes": 167
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/11_UPDATED_162_SOURCE_PROGRESS_REGISTER.csv",
+      "git_blob_sha": "cb8914797be8f993e3ab6480bfef196cb37a5058",
+      "bytes": 46438
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/13_HISTORICAL_BATCH01_QA_PROGRESS.md",
+      "git_blob_sha": "a00dbd53d427e53d37fe4f8cb825612f9b2d0e7f",
+      "bytes": 879
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/14_ROMAN_URDU_RESEARCH_BRIEF.md",
+      "git_blob_sha": "ec3a418f09d41664aa382a61c60f871cc02f9939",
+      "bytes": 2127
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B14/15_EXACT_CONTINUATION_CHECKPOINT.md",
+      "git_blob_sha": "e2e3e5ced1e7994449878d42262f1b4851062519",
+      "bytes": 2497
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/00_PUBLIC_SAFE_B15_PROGRESS.md",
+      "git_blob_sha": "3d6d40a09048fb59b048e60623405bffa5f196f6",
+      "bytes": 4124
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/00_README_BATCH15_STATUS.md",
+      "git_blob_sha": "575e8f24f487199dffc58b4cceea4575c5b4c95a",
+      "bytes": 3621
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/01_PUBLIC_SAFE_25_CLAIM_ANALYSIS.csv",
+      "git_blob_sha": "2324079b156b1cdd49a85534ff1e8d79c175368f",
+      "bytes": 12402
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/03_PUBLIC_SAFE_9_HISTORICAL_QA.csv",
+      "git_blob_sha": "d65137d46e4432f04033a626b0345f51577069d0",
+      "bytes": 2773
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/04_PUBLIC_SAFE_SOURCE_LOCATOR_METADATA.csv",
+      "git_blob_sha": "86ca14ba05acf7a57343f967c0cb87a9e496434e",
+      "bytes": 5326
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/05_UPDATED_162_SOURCE_PROGRESS.csv",
+      "git_blob_sha": "b0f28d549056dd30023149ae0ee298e7ba10ae6d",
+      "bytes": 46585
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/06_CONCEPTUAL_RELATIONSHIP_ADDENDUM.csv",
+      "git_blob_sha": "9c4ccca836a3a565a468d5573ec92263d0fb6a49",
+      "bytes": 2920
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/07_FULL_TEXT_READ_SOURCE_HASHES.csv",
+      "git_blob_sha": "b140774e17b38ff399caf94cffb536858c3d9520",
+      "bytes": 583
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/08_RESEARCH_DIRECTOR_CHECKPOINT.md",
+      "git_blob_sha": "ad2e9bb4c3ea347977aeb550c2602604f92da1b2",
+      "bytes": 1047
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/09_PACKAGE_SHA256_MANIFEST.csv",
+      "git_blob_sha": "1132bd22b17a71df7784e10a204bf532b084b5d3",
+      "bytes": 1389
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/10_GITHUB_PUBLICATION_MANIFEST.csv",
+      "git_blob_sha": "0f03029bea6105f7f2965220fd681c0ad325061e",
+      "bytes": 5075
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B15/11_GITHUB_UPLOAD_REPORT.md",
+      "git_blob_sha": "3f5db180ee9c32380b3a505c6fe7600e254191df",
+      "bytes": 3879
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/00_PUBLIC_SAFE_BATCH16_REPORT.md",
+      "git_blob_sha": "d328a4687a6306312533ba2a25f5ec902d14e49e",
+      "bytes": 4618
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/01_PUBLIC_SAFE_11_NEW_CLAIMS.csv",
+      "git_blob_sha": "5600ceb12411ac5aca01d2dc5346f1ce8cf374ae",
+      "bytes": 4295
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/02_PUBLIC_SAFE_16_HISTORICAL_QA.csv",
+      "git_blob_sha": "de6076207199fcb95cf246492965ad4486e2cf32",
+      "bytes": 4970
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/03_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "05888dce9a74c46b37c403bc86c24d60b77dafec",
+      "bytes": 606
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/04_SOURCE_AND_RIGHTS_MANIFEST.md",
+      "git_blob_sha": "aaa6cacd143bbd8580e6817ac2fb3af4f86abf75",
+      "bytes": 1546
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/05_PUBLIC_SAFE_ZIP_VERIFICATION_RECEIPT.md",
+      "git_blob_sha": "ec345fb9a71d4b0b8f7ca6bdc2151cdfc6f0b0fd",
+      "bytes": 1290
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B16/EDU_BATCH16_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "8020aefa7a115eec09fc229af0d24618a7b740a3",
+      "bytes": 17594
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/00_PUBLIC_SAFE_BATCH17_REPORT.md",
+      "git_blob_sha": "cd24e79fee8a225457b6e9e96d3b277fb4c7b3bb",
+      "bytes": 3647
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/01_PUBLIC_SAFE_11_CLAIM_ANALYSIS.csv",
+      "git_blob_sha": "d5a15039f00b36d6ddd0fbc49096289c875310e2",
+      "bytes": 4193
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/02_PUBLIC_SAFE_13_HISTORICAL_QA.csv",
+      "git_blob_sha": "444fd48d1b9e0a1a63cccb25a0de7d6bf9f8986e",
+      "bytes": 3053
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/03_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "04ebd4fbbbb5697b5068caf83400cf5344014597",
+      "bytes": 573
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/04_SOURCE_HASH_AND_RIGHTS_GATE.md",
+      "git_blob_sha": "b97d5c00111a0d1769a8fc70e5e3d3e5ec79fc62",
+      "bytes": 1776
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/05_GITHUB_UPLOAD_REPORT.md",
+      "git_blob_sha": "8eb91c563467cd2567415b8e4ceee715b996918b",
+      "bytes": 2818
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/06_PUBLIC_SAFE_ZIP_RECEIPT.md",
+      "git_blob_sha": "8aed6b0e53b788385c66a792d56f1b64391f3feb",
+      "bytes": 1518
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B17/EDU_BATCH17_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "1d4510a653cce4359b33d919e0217db6fbd86d5b",
+      "bytes": 17934
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/00_PUBLIC_SAFE_BATCH18_REPORT.md",
+      "git_blob_sha": "dc4c672c0f655219de42e6b0c6e7ca1cc1ae50f1",
+      "bytes": 4716
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/01_PUBLIC_SAFE_21_CLAIM_ANALYSIS.csv",
+      "git_blob_sha": "e544a20213a4412144e865eb02dbfeaf041b0863",
+      "bytes": 5897
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/02_PUBLIC_SAFE_16_HISTORICAL_QA.csv",
+      "git_blob_sha": "c17813166a5a64738f40f6881389e1547c02cac5",
+      "bytes": 4062
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/03_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "acd062bb18f2810932dbaf005109774754ad1293",
+      "bytes": 467
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/04_SOURCE_HASH_AND_RIGHTS_GATE.md",
+      "git_blob_sha": "a683bb6c4e0875436c7ae45b1d04541421d9534a",
+      "bytes": 1988
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/05_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "b18c4c60b525d0f7cbc056ae7a7d6ed839b39911",
+      "bytes": 2564
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B18/EDU_BATCH18_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "a712896374faa4e28cd88ebb69aab42f037dbbaf",
+      "bytes": 18142
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/00_PUBLIC_SAFE_BATCH19_REPORT.md",
+      "git_blob_sha": "bba0e9e1013221f86cc26383b42efd8497d329b6",
+      "bytes": 3696
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/01_PUBLIC_SAFE_16_CLAIM_ANALYSIS.csv",
+      "git_blob_sha": "bbca7fc53f447ff44bfb7cc6a29bb15ec9d68179",
+      "bytes": 4418
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/02_PUBLIC_SAFE_13_HISTORICAL_QA.csv",
+      "git_blob_sha": "3036af6738e82b670dcc5bd370941d0722016655",
+      "bytes": 3635
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/03_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "95425d4e93e249dbc6e33a7a81e24a819d19061e",
+      "bytes": 496
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/04_SOURCE_HASH_AND_RIGHTS_GATE.md",
+      "git_blob_sha": "ee9c81ba89284d8c7603deb3b8d355939a903b45",
+      "bytes": 1936
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/05_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "b6e19ce796eb8157d10da7b67895652048a9c0e9",
+      "bytes": 2336
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B19/EDU_BATCH19_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "c6752b9ef85f6b13d570be8e3b4d0f98bab3b97a",
+      "bytes": 15384
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/00_PUBLIC_SAFE_BATCH20_REPORT.md",
+      "git_blob_sha": "71bde4ca6b4d81decfccb4ba32d84d13ad98614c",
+      "bytes": 3918
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/01_PUBLIC_SAFE_15_NEW_CLAIMS.csv",
+      "git_blob_sha": "9e782cbc2e331cb3a00d22726669463345ee71d6",
+      "bytes": 4121
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/02_PUBLIC_SAFE_16_HISTORICAL_QA.csv",
+      "git_blob_sha": "7bebf5a3b18e3a39fa12c7555c3bfb740acb3435",
+      "bytes": 4156
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/03_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "fd9274b920dac05ab468bbad5c703ef1069bb03b",
+      "bytes": 577
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/04_ORIGINAL_SOURCE_AND_RIGHTS_MANIFEST.md",
+      "git_blob_sha": "a3f7bc0b9eef267faf88413bf518bd9b971f3ea1",
+      "bytes": 1951
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/05_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "1185647fb24c592e2b9997685e5ae686bf99244b",
+      "bytes": 2712
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B20/EDU_BATCH20_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "1101b2d02c8295788b7e5db80f3d322fd59f6a33",
+      "bytes": 16104
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/00_PUBLIC_SAFE_BATCH21_REPORT.md",
+      "git_blob_sha": "e70deea466ae17f1e454951d6af83cfe8d45e9d3",
+      "bytes": 3918
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/01_PUBLIC_SAFE_16_CLAIMS.csv",
+      "git_blob_sha": "038186189854858e654378f667c5952ef3dec12f",
+      "bytes": 5661
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "394688086da949ff162642662313b639b29fe761",
+      "bytes": 361
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "430c3d26c841f3073f6f47625bec4cc951719c46",
+      "bytes": 2477
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "eb30404706d344c418d886312e6c517d1b81b2ca",
+      "bytes": 3075
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B21/EDU_BATCH21_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "5ea7885cf37202335c4cbc51fd866d21582d6f2f",
+      "bytes": 13378
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/00_PUBLIC_SAFE_BATCH22_REPORT.md",
+      "git_blob_sha": "dc67d6fcdd3a027ef3824970ba6558e2ef0ae818",
+      "bytes": 2521
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/01_PUBLIC_SAFE_15_CLAIMS.csv",
+      "git_blob_sha": "25513dc1e1d94ba9c35142d4e4f61079354745f0",
+      "bytes": 5051
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "771ba16ceb1ad25dbccdb9ffa2f1cb34aae70cb6",
+      "bytes": 256
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "45ba2786e739e69f72388ecf7e9407dab61e1736",
+      "bytes": 1686
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "8e98735a73db2788c63a719276a134a3fce6983b",
+      "bytes": 3202
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B22/EDU_BATCH22_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "658812d04a220b5d47c953b044ae51c01ccb5fa6",
+      "bytes": 10616
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/00_PUBLIC_SAFE_BATCH23_REPORT.md",
+      "git_blob_sha": "98256ca28303a5ee0e35dccbfa206c510ca45c6f",
+      "bytes": 2983
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/01_PUBLIC_SAFE_52_CLAIMS.csv",
+      "git_blob_sha": "1ce359fb8d0e76977ed40503716f91f2491a7f70",
+      "bytes": 19578
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "e95c0ef053806b8ee8cdcd6e777a57051e18798f",
+      "bytes": 358
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "62bd6127489a0b5674da0a41ae534fc5370f51c3",
+      "bytes": 1705
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "381b1994b47387f39ac22b8c263aec196642ed67",
+      "bytes": 4157
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B23/EDU_BATCH23_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "cbbd85bbc13b660bc59c4067d34a2979cd7eb903",
+      "bytes": 25678
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/00_PUBLIC_SAFE_BATCH24_REPORT.md",
+      "git_blob_sha": "b43730d015cd4412e86c2ad401d95f66f03d735f",
+      "bytes": 1219
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/01_PUBLIC_SAFE_41_CLAIMS.csv",
+      "git_blob_sha": "916488f81f0487a726da0079cf91a9d81b2fd9de",
+      "bytes": 8725
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "8bbe9c12a27187b6bcf71abb9b2d8d0dea03f3dd",
+      "bytes": 199
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "e64ca745144077dc1b54631762840b5ba48cb098",
+      "bytes": 1425
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "516f97105dad7c2ef11ad9c0ebd363d44ba48073",
+      "bytes": 1261
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B24/EDU_BATCH24_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "0947aee396517f372a4b93d6351c6ba99100cbd0",
+      "bytes": 12477
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/00_PUBLIC_SAFE_BATCH25_REPORT.md",
+      "git_blob_sha": "547d338869c6896ee0fd8050297b71366aaba732",
+      "bytes": 3121
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/01_PUBLIC_SAFE_68_CLAIMS.csv",
+      "git_blob_sha": "ec32f28576df73ffd680bc90c26c5f15c760e812",
+      "bytes": 16168
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "3e9d7110b2b4cc65fe5845e8c12bf32b06f523d2",
+      "bytes": 338
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "4cc0ec9c590c4c0a3e79a7d7925b67a416e2ecbc",
+      "bytes": 2133
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "0e7b3283d243e27055a36b51fa75204a1c14e167",
+      "bytes": 1276
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B25/EDU_BATCH25_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "d557b509cb2b46f6cc502d62d8bbbca8c32863a4",
+      "bytes": 22788
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/00_PUBLIC_SAFE_BATCH26_REPORT.md",
+      "git_blob_sha": "e17c15d9e08ab2fb2e8a889a1d7d99152c90433e",
+      "bytes": 2917
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/01_PUBLIC_SAFE_75_CLAIMS.csv",
+      "git_blob_sha": "5010c2bfa9da20943216dca65a5c6b9d0a392bb9",
+      "bytes": 18100
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "5029e75788ec52c090ed64b3ef3b2a4d0b97dd39",
+      "bytes": 343
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "ad59338efef9b89c4115b6a4c16075858b612059",
+      "bytes": 2249
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "4cc0a953f7575c1bee80d7ba31cff650e210aa2e",
+      "bytes": 2937
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B26/EDU_BATCH26_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "e64df9ec43cb1b7d7f985e4499376ea0344d43d5",
+      "bytes": 24657
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/00_PUBLIC_SAFE_BATCH27_REPORT.md",
+      "git_blob_sha": "69c6fde30d763a3b09c019f4825043dfe459f9fe",
+      "bytes": 2879
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/01_PUBLIC_SAFE_65_CLAIMS.csv",
+      "git_blob_sha": "718746a21d21643e3f5c930b1ade9d9bfe0caece",
+      "bytes": 14033
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "52d9a99131f7e6c878869ded1216be2dfca1c607",
+      "bytes": 300
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "8709a15e241dd44b50a4b9563cc790aa4f5bee66",
+      "bytes": 2324
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "f55e69aec574d3b8fba9cc2433ed3ced18b26d38",
+      "bytes": 3416
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B27/EDU_BATCH27_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "01606147108b30f0e64fe9e45c1b7a2d30366500",
+      "bytes": 20479
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/00_PUBLIC_SAFE_BATCH28_REPORT.md",
+      "git_blob_sha": "324b0856aee912f3bfa3d0dc83368636916a77c4",
+      "bytes": 2639
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/01_PUBLIC_SAFE_15_CLAIMS.csv",
+      "git_blob_sha": "4b1f63248ced59710b3a9aba56e221e219e0f8e3",
+      "bytes": 5245
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "d912aafb7dd78ac86c84c77ea140f879338d0576",
+      "bytes": 303
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "389a453b218b1e41b7ffe38351c6a8fe99b36c93",
+      "bytes": 1957
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "211d14b88f515fb5b32a2b3c30789e33b400d8b5",
+      "bytes": 3571
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B28/EDU_BATCH28_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "84ed26ec8c481d410357510e2b2b898188d3b10d",
+      "bytes": 11147
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/00_PUBLIC_SAFE_BATCH29_REPORT.md",
+      "git_blob_sha": "77e931c5a0e5f7fa945dc65f89a3dba3d9221109",
+      "bytes": 3053
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/01_PUBLIC_SAFE_55_CLAIMS.csv",
+      "git_blob_sha": "0533b821c30ab35b80e029df54ac41aa43946abd",
+      "bytes": 11719
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "9eb57ce6f08d7b58af76aac6fbde841f95529bf8",
+      "bytes": 321
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "5805ae72f6e52c64565dca66fd65e678594b7d1a",
+      "bytes": 2401
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "0ba2cf575e5d9754de534ffc37a8703da5088506",
+      "bytes": 3410
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B29/EDU_BATCH29_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "7563d551e2949af279a626c6ea9a128ec929d387",
+      "bytes": 18561
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/00_GROUP_B30_B32_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "384b3a0e97137d462b33291e8f99f0ab5da6ddec",
+      "bytes": 2453
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "65f6116b5973eabe7d0b801c7faa8d21cf7b3ea6",
+      "bytes": 436
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "e640be6b7ccf4c78db9864b01e913ae9d0a4e492",
+      "bytes": 1635
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "cd3f06da6e1c170e5b5bdc5088fa9cf0a602c44e",
+      "bytes": 4339
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B30_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "b041a388dfef9abf1bb215b9204bc49ba59c90bc",
+      "bytes": 6853
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B30_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "3563e08587a05b4efd10aa326a691af55589a343",
+      "bytes": 934
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B31_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "cefd872639dc9cf8c26872ba28bf3662073fb816",
+      "bytes": 2730
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B31_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "38ebc5e9afd5e7b199f08210d5d276a3e59857b0",
+      "bytes": 970
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B32_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "ca2a36e93eaaf899818efb0beb3b016085e2307e",
+      "bytes": 12556
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/B32_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "71aaa498bc3d4279bbbc9c680b6dee695514a731",
+      "bytes": 1204
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B30_B32/EDU_BATCH30_B32_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "348484c77e4ac3fe9b6744f16400a29fd105d758",
+      "bytes": 31516
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/00_PUBLIC_SAFE_BATCH33_REPORT.md",
+      "git_blob_sha": "09d41d7c2b5389b5b7a91de9bd79e54d2c2401b3",
+      "bytes": 3759
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/01_PUBLIC_SAFE_82_CLAIMS.csv",
+      "git_blob_sha": "c8cc3f5cb7295c3ff9aa2bd8a541f22aba7f12ce",
+      "bytes": 19627
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "48587524a22441d775e4b69ac06a794876ca7ce1",
+      "bytes": 380
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "c70b763ab8ca954fa1c7126424bb88227c65e2f1",
+      "bytes": 2229
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "a0a3eb9c525326c72b7661987f20d9bae243fdb3",
+      "bytes": 3847
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B33/EDU_BATCH33_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "507ae953accbff9a3f9194474c0b4e1ac2b10284",
+      "bytes": 27038
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/00_GROUP_B34_B36_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "74b40b7859f6449fa12715f8aec158de6906d68e",
+      "bytes": 1883
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "00295e5116561b2df72b55c4909b682454e6da0d",
+      "bytes": 380
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "c4915e0b8216a7a8e6434914ccf23bc9106b3e72",
+      "bytes": 1243
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/06_GROUP_PUBLIC_SAFE_80_CLAIMS.csv",
+      "git_blob_sha": "04f0a82352065d5646aa4059c4bb2c34cd289835",
+      "bytes": 14350
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "43973379254879057a9e9d4b986c2a9d116811d6",
+      "bytes": 4279
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B34_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "c3181e3d28deeb8e2679cbc8386c036273dd6aa3",
+      "bytes": 4229
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B34_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5a18938db6e3019c29019f6d2ce35ad90c4de177",
+      "bytes": 996
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B35_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "09d0ca9087f7b10cd0b8ba797c4847d36333b468",
+      "bytes": 8477
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B35_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "cada9fe94e9877283899edc76fa0b80ef8cdd689",
+      "bytes": 1093
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B36_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "f63df2f2ed40ddce5eaeb6e4dd7d3598d1ade6a9",
+      "bytes": 1934
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/B36_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5acd041ff017521b5d393b0ecf775d14568bde43",
+      "bytes": 785
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B34_B36/EDU_BATCH34_B36_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "9ffc37385714e89ee9866a3896538757a983e7a7",
+      "bytes": 37297
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/00_GROUP_B37_B40_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "c16acb68bef4f75d4a03242a935fc05f049437f4",
+      "bytes": 1990
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "ca3ade4d34d51f041475af482220b5f9bb333c76",
+      "bytes": 362
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "3c41a230c504a21a06fcfbe6f787e270d02ddaf3",
+      "bytes": 1127
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/06_GROUP_PUBLIC_SAFE_105_CLAIMS.csv",
+      "git_blob_sha": "196fa792c751830564fe68b251dd1f131972c8f0",
+      "bytes": 26013
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "165f64c98370a71a99686d5b29f8292518cee057",
+      "bytes": 4813
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B37_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "1189f27bf4614c30f573994930a2f5a45347cab2",
+      "bytes": 2836
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B37_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "e1494cd05f005367a6fb5bed8d1ba0af1f745015",
+      "bytes": 635
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B38_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "15873ca321a9bf33f5637525ff0b23686c1a92f0",
+      "bytes": 9029
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B38_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "95307f98ac97b442792f5a85b91583cd6e9c6a5b",
+      "bytes": 735
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B39_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "748acac2b44cdab5bd2099121613a55c4c7a59db",
+      "bytes": 7368
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B39_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "bf956f6763415db93f453c6020e0057506fb174e",
+      "bytes": 744
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B40_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "76a4486f1ac59d49dad65164edac3672f1b96dba",
+      "bytes": 7308
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/B40_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "d9bc32f7a2c0815c2ad1b3fa9bc85fdc5b65888c",
+      "bytes": 701
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B37_B40/EDU_BATCH37_B40_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "592a9a302514016e0fc17e8ea51c48ad1451d939",
+      "bytes": 60996
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/00_GROUP_B41_B44_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "7ae47e7a0a3e2e635aed3a6c3c0098e8c039c603",
+      "bytes": 2195
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "4b702e230fd1d5af8399d454c0796caad512e3ac",
+      "bytes": 450
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "30d92a07e3fa2c49fc37b943184d4df049f7c25b",
+      "bytes": 1541
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/06_GROUP_PUBLIC_SAFE_114_CLAIMS.csv",
+      "git_blob_sha": "22a6b6de99ce1ce2bc3121143cc3b3710e756e03",
+      "bytes": 22947
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "ca93f3882ffc561dae56d50fe23bfc3ed11f231b",
+      "bytes": 5026
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B41_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "76ca0005309a6cf59794edb31381fdcebaae5134",
+      "bytes": 6524
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B41_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "8bdc784ec09f94b67287be93ae3dd227e8bbf323",
+      "bytes": 1486
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B42_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "9f597f06a8b035f9bdfab6d4c3e0e1b8cea27689",
+      "bytes": 6493
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B42_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "28acd38830bd23f0374ac1d21558ec4818bc3cd2",
+      "bytes": 1412
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B43_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "ad8e76e8b158b1724473831bd050ebf85fa64ab7",
+      "bytes": 5535
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B43_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "3702fd8af73612e005cc1701d83cde96e931cbb3",
+      "bytes": 1457
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B44_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "abd7d96a4e21eb24f9282d1733940a74d1bbaee3",
+      "bytes": 4806
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/B44_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "4ac69a0a5824dd9ff75063440c4a34a4aa900374",
+      "bytes": 1417
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B41_B44/EDU_BATCH41_B44_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "40ca2f02650a0f119da5df51b8113b5599e5d80c",
+      "bytes": 58379
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/00_GROUP_B45_B47_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "dd693ec920d610dfdcacdd2655e34ad4ae0c0d09",
+      "bytes": 2276
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "bf6c541e2ba125b359ba051480ec053e97b24167",
+      "bytes": 328
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "f3eeb1359244bae00476ffb5ae6ec57f9d991be5",
+      "bytes": 1246
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/06_GROUP_PUBLIC_SAFE_98_CLAIMS.csv",
+      "git_blob_sha": "0e4e313ef6f40e5b57813be0924609fab9fd43ac",
+      "bytes": 17112
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "4b5d5bb528d5c589d60493a99c634ec6cc719bca",
+      "bytes": 5257
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B45_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "b2cbaa4cb2229c30da3ac922ca6b0e14fe2dd9a1",
+      "bytes": 3789
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B45_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "1e9593ee3a652686941d77cb1d848b1e8d0a0d83",
+      "bytes": 1012
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B46_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "17738902ee7b3ef042b9f21b0f6bfac54dc34f3e",
+      "bytes": 8912
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B46_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "6bedeb66e3092440d3e817ffe9925337ca1c1c95",
+      "bytes": 1238
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B47_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "8c401f66550bac6bf03e50a54ce6099edc385fb8",
+      "bytes": 4721
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/B47_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "3b96b5ad1f1dc70227a44c9680b4fff5b7918299",
+      "bytes": 944
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B45_B47/EDU_BATCH45_B47_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "7884cfdd23240bdd94112162ed2199c0cb85c582",
+      "bytes": 43459
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/00_PUBLIC_SAFE_BATCH48_REPORT.md",
+      "git_blob_sha": "e1c8a9c63a628a3fddea3a0470941fb8ede27f3d",
+      "bytes": 2371
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/01_PUBLIC_SAFE_73_CLAIMS.csv",
+      "git_blob_sha": "d25cb3664656288fcebb0cfcd1c3577b20aaff34",
+      "bytes": 19025
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/02_SOURCE_PROGRESS_DELTA.csv",
+      "git_blob_sha": "07f7eafbf74eb619e4febeccd68b173e2502f052",
+      "bytes": 219
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/03_SOURCE_INTEGRITY_AND_RIGHTS.md",
+      "git_blob_sha": "ed3149c2436fea21be143266053412c4eb0ea3b5",
+      "bytes": 1454
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/04_GITHUB_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "3d1e7fa5fc19c2a9b80f5a5729eddeee65db2da4",
+      "bytes": 4133
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B48/EDU_BATCH48_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "3a179f89809160eacbaab218b779be98942858c2",
+      "bytes": 24249
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/00_GROUP_B49_B50_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "becb8a159f361a8bd7e0f3df7497fa7d40c575a8",
+      "bytes": 2796
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "2dfb70e0b3159a9dc45b07ebc358d27292836938",
+      "bytes": 291
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "5e677371d81fe61c28e7537f782c14986c3ceae2",
+      "bytes": 1449
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/06_GROUP_PUBLIC_SAFE_126_CLAIMS.csv",
+      "git_blob_sha": "345867879eae1b4a404e9f4042b309ad94369f77",
+      "bytes": 26096
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "0c77ea2d006e0817519db88930cbcb06d17ff62f",
+      "bytes": 4953
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/B49_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "d8dac2f9daebc0ab55755c83daffdabd832358cc",
+      "bytes": 8864
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/B49_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "7a56ebf9a2448afd512a3707c3afeed1f8333ad7",
+      "bytes": 1312
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/B50_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "73208b7f28006176409ce2fdb0a4d2d47c172eaf",
+      "bytes": 17362
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/B50_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "9498ee47a4dee6c203fa79e240c79787a22aca64",
+      "bytes": 1431
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B49_B50/EDU_BATCH49_B50_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "c0c48fc72974b9cd14d382f1067b963ae7faa43a",
+      "bytes": 61331
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/00_GROUP_B51_B53_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "e9eca0319a8a6c67f593b3465443c3f5cbb3b8cb",
+      "bytes": 3463
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "15b5079b3bdcb36b8dc90771ec3737d88a77b982",
+      "bytes": 399
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "0086487bdfd228c5a9710f388a3d03aabfdda57d",
+      "bytes": 1477
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/06_GROUP_PUBLIC_SAFE_132_CLAIMS.csv",
+      "git_blob_sha": "78a064471e791fd58e43a4c64f46dfecc85833a0",
+      "bytes": 24134
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "d0e00fe8978707f675055f2c595bf39dbe8bd593",
+      "bytes": 4965
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B51_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "4c153c67b20401df14379d40ad50bfefc7cca875",
+      "bytes": 4844
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B51_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5ceadf32a4c8ab20a24de50d75fc571c16019569",
+      "bytes": 1178
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B52_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "6a09287432f58a27e75577e4820a96587eacb3f0",
+      "bytes": 12279
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B52_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5654c84f8053a21061486cf6dceec152fedd5e22",
+      "bytes": 1573
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B53_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "2dbaf6204b4256acd71866574279678067e76dd6",
+      "bytes": 7329
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/B53_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5c29139caa98c64b112e61e605a2be1025ca3f76",
+      "bytes": 1464
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B51_B53/EDU_BATCH51_B53_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "bc2f6d12b0f4a263a939f372f311155b597f06a2",
+      "bytes": 60071
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/00_GROUP_B54_B58_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "de171880c92245152b3ca31410839c316af72573",
+      "bytes": 2434
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "96fc788cc9800f2b12bba644058a69ce31a56ad9",
+      "bytes": 651
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "963bbe7dd672e00b0f6fea772a454f5704eb8dd9",
+      "bytes": 1279
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/06_GROUP_PUBLIC_SAFE_118_CLAIMS.csv",
+      "git_blob_sha": "edb79ef0e2208f48e5a88e33b49f7b97dafeed18",
+      "bytes": 29888
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "ea9974ad9642196a1e3890b602560ef1065e0666",
+      "bytes": 5936
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B54_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "c76f1dfc1638679318ec90792a76f57a1daca4c2",
+      "bytes": 10164
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B54_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "95daf6d3bda601d6fb0fa7ba5a5673f9fa353e14",
+      "bytes": 1401
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B55_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "0b45a0984e53b6fc7d5cb836e313349f3bccbda7",
+      "bytes": 9661
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B55_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "84103acf17236ff06749a461ff33f94296e67f03",
+      "bytes": 1383
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B56_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "1c549bec5a59baa58fb0cb9bd9f5288642181510",
+      "bytes": 4251
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B56_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "73c44a928ac1fe20dadb293f2bc941f143f277be",
+      "bytes": 1385
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B57_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "b35229080a49c029dd8c8bf497625761e5594af6",
+      "bytes": 5750
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B57_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "76f3dc96ec7bb61d45f836c8b589d7c06f0f8cbf",
+      "bytes": 1297
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B58_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "82f16b1b9a926fbb85773d5545b312a9ba65a42d",
+      "bytes": 730
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/B58_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "01b24a36e9269e1fa9df0632ddff9b41b528eb3b",
+      "bytes": 1253
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B54_B58/EDU_BATCH54_B58_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "efe3ecb1688b1cf78012bc7a5caf09f4dd7fcfc5",
+      "bytes": 73983
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/00_GROUP_B59_B61_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "f08a0528e8d9744ddc7a7f012c5121f3d815f058",
+      "bytes": 2659
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "5e499d092591746e8e175871b67781ce3f242302",
+      "bytes": 385
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "a8b793eae990f0d024f4c388c0ffab34029ce5b3",
+      "bytes": 1265
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/06_GROUP_PUBLIC_SAFE_121_CLAIMS.csv",
+      "git_blob_sha": "d27fd0aceeb446195a57b144860720bace4c45a4",
+      "bytes": 34448
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "1aea48cadb49ef10eaa69e486b3e271b41de1ab9",
+      "bytes": 6294
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B59_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "1a15bc15966589f5552f3281208e354315c4869a",
+      "bytes": 12032
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B59_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5f61b26596e4f98bf714e2b07a642116c44ffd9f",
+      "bytes": 1508
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B60_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "d4f8678d7ccd259b88da164bc8560431b0815af7",
+      "bytes": 8626
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B60_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "9d8bc19bb8e4727d3553aeb82c77ae71615fdd70",
+      "bytes": 1518
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B61_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "5f3fdcccd18b9b295588b9109a5ee3784bb84db0",
+      "bytes": 14124
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/B61_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "a0cc97ffbea98fed5264426c6e90369389c770ce",
+      "bytes": 1627
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B59_B61/EDU_BATCH59_B61_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "616e0887c3275f59ba2c856b602ee213e3cb28d6",
+      "bytes": 80135
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/00_GROUP_B62_B63_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "93367fbff248c8adea4eeeaa7a175d6e4f345ba5",
+      "bytes": 2641
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "c894cf30f635b183a07b94b515ab2dbd45eaeb21",
+      "bytes": 308
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "6dd8e95a01f0bb2f51fe6245f46b201adc4ee8df",
+      "bytes": 1245
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/06_GROUP_PUBLIC_SAFE_97_CLAIMS.csv",
+      "git_blob_sha": "5f192ae7897bccf5de2e554fa7d653445be3fb58",
+      "bytes": 28048
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "74003b349370db307a8210e21eece659ffcc1d4c",
+      "bytes": 5519
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/B62_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "8e92071ae8581907474364b80f4e8ad186111a50",
+      "bytes": 17242
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/B62_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "7620640a298bcc6a05cf71bd3ef3c763d428dceb",
+      "bytes": 1573
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/B63_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "2a018951b538c243a3589163994abb505566175a",
+      "bytes": 10973
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/B63_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "98ece1cfef81baec2f5fccc9530ae9984b3fed10",
+      "bytes": 1412
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B62_B63/EDU_BATCH62_B63_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "1853574a97140c357433bd9052592c8a292bd9a1",
+      "bytes": 65200
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/00_GROUP_B64_B66_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "1f84af88d4532734d0ff5b2587d0c9878fe0d087",
+      "bytes": 2962
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "2017a21b23b9fa1510f094a2f356cee0f166d698",
+      "bytes": 382
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "196fee952011a630b47f06f1ca44245dd94c03c3",
+      "bytes": 1303
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/06_GROUP_PUBLIC_SAFE_103_CLAIMS.csv",
+      "git_blob_sha": "2b7bd9d973ebdf81fc23ff63179b391fce484749",
+      "bytes": 29374
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "83b2ffbd2a79bb37236abf69ca6ee1cd6fd5aa9b",
+      "bytes": 6452
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B64_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "d857a0c9aeefe29b9ad5a9ac8e8b51473819069c",
+      "bytes": 14895
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B64_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "320401f540ae714e3098fcd334c5dba4609cf819",
+      "bytes": 1709
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B65_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "9c55503d4b150ff69b82ef80864c069a2e1f9b9b",
+      "bytes": 7740
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B65_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "b61b97ce2859ccebef7b50b6b696b5ab198d68d7",
+      "bytes": 1408
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B66_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "dfe7d8b04daddaefe4d988755036be7371e89623",
+      "bytes": 7073
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/B66_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "bbdaa66055bd6490201478607b8a9c080705d36a",
+      "bytes": 1313
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B64_B66/EDU_BATCH64_B66_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "9578aac40112fad7188d60eb7c962be69b04918a",
+      "bytes": 70243
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/00_GROUP_B67_B69_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "211034417f0c56bb6e7148e02484c2c6811bd477",
+      "bytes": 3115
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "23ab416139a35ac63bc2e570af96774d5dfe32a8",
+      "bytes": 395
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "64dd927623f24b4394395a322cda70868d08f81a",
+      "bytes": 1317
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/06_GROUP_PUBLIC_SAFE_100_CLAIMS.csv",
+      "git_blob_sha": "b318f5340e0a08b876cd26ed92758300db5afe85",
+      "bytes": 34021
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "9d5b8f854443bbb8e0db9ffe406f0ead97405bd5",
+      "bytes": 6635
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B67_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "3b031ff7c518e886b2a218ac67be99702106d10f",
+      "bytes": 22593
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B67_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "a4fb57a97376e5b2258e750d7009a13224961d1c",
+      "bytes": 1838
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B68_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "5c72fe283550e56164f0acbd962b61d6a5e7b64c",
+      "bytes": 6172
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B68_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "578c5476fb41f67811e7d14abaf2a60910378584",
+      "bytes": 1449
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B69_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "358ff818285bea50f694ad754a04c7bd1c8c2a7d",
+      "bytes": 5590
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/B69_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "5f7c7bcf643e12dad13b418e8bc299aee76c90cb",
+      "bytes": 1394
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B67_B69/EDU_BATCH67_B69_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "ac8c21a462086b0a69c7e12c68539c16ea8765cd",
+      "bytes": 80012
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/00_GROUP_B70_B72_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "25518d10656a159fb46284d330503fc24f232440",
+      "bytes": 2684
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/04_GROUP_PUBLIC_SAFE_PROGRESS.csv",
+      "git_blob_sha": "a73cd129a76d86e5a72f38641a8fa58e31de52b2",
+      "bytes": 397
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/05_GROUP_PUBLIC_SAFE_RIGHTS.md",
+      "git_blob_sha": "d5e48d9ace103cbc7d331899e591b621bddf9405",
+      "bytes": 1565
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/06_GROUP_PUBLIC_SAFE_116_CLAIMS.csv",
+      "git_blob_sha": "6e13ac1547deb450d81cf3aef3c1a21c1424e5ae",
+      "bytes": 37460
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/07_GITHUB_VERIFIED_UPLOAD_RECEIPT.md",
+      "git_blob_sha": "c8c3add594c8c983052bed155b6169c0d0864cc7",
+      "bytes": 6311
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B70_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "18cc07ef07cb01b246bb4cc6a04d474eb3fd726f",
+      "bytes": 9922
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B70_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "9a885e20e2a7994edabe0576702b9544146f943f",
+      "bytes": 1656
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B71_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "a5338f5c7d97a5c0c698fa64bb693de6f4601876",
+      "bytes": 16019
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B71_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "ed7e49e267bb60e0f320b142a091d509be0cae5d",
+      "bytes": 1720
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B72_PUBLIC_SAFE_CLAIMS.csv",
+      "git_blob_sha": "fbb9a500a3d113c0a7eb9060c8034a84e142b276",
+      "bytes": 11853
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/B72_PUBLIC_SAFE_REPORT.md",
+      "git_blob_sha": "753b0fdf4ae2f6db7151423af7ac5c70e4c01d7d",
+      "bytes": 1668
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/historical-batches/EDU_REAUDIT_B70_B72/EDU_BATCH70_B72_PUBLIC_SAFE_GITHUB_ARCHIVE.zip",
+      "git_blob_sha": "f5e6b12c2303b99d7d449771e9b9f8a3a4155faf",
+      "bytes": 87104
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/README.md",
+      "git_blob_sha": "91ed70cb94565cfc0d1b3b9cda10b85aeed1d3ed",
+      "bytes": 1423
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/RESEARCH_COMPLETENESS_AUDIT.md",
+      "git_blob_sha": "5b7f3fe8ba364fc2f869be718037b641848be329",
+      "bytes": 4667
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/UPLOAD_REPORT.md",
+      "git_blob_sha": "329b2ff95ab9a9cbe9cfec7bb49fb595ab1e9dcd",
+      "bytes": 16397
+    }
+  ]
+}
