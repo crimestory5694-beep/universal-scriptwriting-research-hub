@@ -1,0 +1,3 @@
+Batch,Source ID,Original UTF8 bytes,New observations,Claim range,Historical SHA match,Original ZIP CRC,Reviewed after,First-time pending after,Original AV verified
+49,EDU-SRC0047,9290,43,EDU-C2139..EDU-C2181,PASS,PASS,81,81,NO
+50,EDU-SRC0048,46557,83,EDU-C2182..EDU-C2264,PASS,PASS,82,80,NO

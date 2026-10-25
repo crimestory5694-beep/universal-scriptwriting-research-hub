@@ -1,0 +1,7 @@
+# Batch49–50 source/provenance, rights and fact-checking restrictions
+
+Both exact historical original source-member SHA256 hashes MATCH frozen 162-source register, original ZIP archives CRC PASS, **126/126** unique source line/character and physical UTF8 byte anchor verifications PASS in original PRIVATE research. Original EDU-SRC0047 includes 4 malformed :60 seconds; EDU-SRC0048 includes 3 malformed :60 second cues and 5 U+FFFD replacement glyphs, not silently repaired. Source-native video/audio not reviewed.
+
+PUBLIC_RIGHTS_LIMIT: Do not publish full third-party transcripts, exact private source-anchor quotations, the full 53-column **2,264-row** private cumulative source-rich ledger or the nested historical B48 private original ZIP. GitHub derivative includes only researcher-written condensed topic labels, attributed teaching summaries, evidence roles, source SHA hashes and audit.
+
+Treat YouTube growth, supposed algorithm mechanics, official monetization policy, third-party executive quotation, subscriber boost effectiveness, AI editing speed improvement, current software credit tariffs or plan offers as **NOT independently verified**. Source-era products may have changed. Rights of reused visuals, brand demonstration and original copyrighted footage require assessment. B25 original top-level private ZIP SHA mismatch OPEN; original audiovisual and T01–T13 experiments NOT_DONE; production Skill and Claude transfer HOLD.

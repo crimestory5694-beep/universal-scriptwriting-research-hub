@@ -1,0 +1,7 @@
+# Batch50 — How I use Ai to Turn Boring Videos Into Masterpiece in Budget.
+
+EDU-SRC0048 original `transcripts (1).zip` 46,557 original bytes / 21,851 decoded chars, SHA256 `5c80660be5497fae8ecd4af8d928ccf426fd78ea3044381b3a930756f9ac5b33`, historical source register MATCH, ZIP CRC PASS. **5 replacement glyphs** and **3 malformed :60 cues** preserved. **83** source-specific provisional observations `EDU-C2182`–`EDU-C2264`, all exact original physical source caption-line / Unicode character / UTF-8 byte anchors PASS privately.
+
+Narrator's AI-assisted editing cases include generative B-roll, synthetic environments, motion graphics, conventional cuts/transitions, Runway Aleph, Luma Modify, Google Flow, Midjourney assets, JSON-structured prompts, reference research, early shot planning, credit-cost budgeting, generator rotation, and limiting paid platforms.
+
+Claims of reducing editing time by 60%, income-based tool allocation, Runway/Google model interfaces, software tariffs and eligibility, student offers and Claude/Perplexity free access are historical speaker descriptions, not current verified subscriptions or tool performance. Speaker's YouTube AI monetization description needs direct official-policy verification. Reusing visual styles without permission can create rights risk; AI scenes require authenticity/editorial context. Exact verbatim original source captions and source-rich ledger remain PRIVATE.
