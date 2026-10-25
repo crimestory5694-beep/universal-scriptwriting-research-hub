@@ -1,0 +1,7 @@
+# Batch 60 — How to Overcome Fear of Public Speaking
+
+**Source:** `EDU-SRC0060` complete original caption member `transcripts (5).zip :: How to Overcome Fear of Public Speaking.txt` (**6,789 UTF-8 bytes**); historical SHA256 `717b898c7c85e55b8977d763ad329f3383127f059d233ab091f4b8bc1b21b60a` EXACT registered MATCH; physical archive CRC PASS. All **30** new source-specific findings (`EDU-C2556`–`EDU-C2585`) have unique original caption text, Unicode character and strict UTF-8 original byte anchors privately **30/30 PASS**. Native video/audio NOT_VERIFIED.
+
+A public-speaking anxiety source groups three short-term practices: double-inhalation/slow-exhale breathing (caption-garbled as physiological side), audience-outward attention rather than appearance worry, and gratitude to reframe previous stressful presentations. The author reports interviews with 34 professional speakers and about three-quarters agreeing on an audience-focused tactic, and attributes fast stress relief to Huberman. Those study, sample and medical/anxiety outcomes remain unverified. The host explicitly calls the exercises short-term, not a demonstrated clinical cure.
+
+**Limitations:** Original 0 malformed :60 caption cues, 0 U+FFFD glyphs preserved without guessing corrections. Public safe claim list contains only brief original researcher paraphrases, not source transcript, third-party quotes, original exact evidence anchors or the complete private 53-column register. Scientific/marketing results NOT_EXTERNALLY_VERIFIED.
