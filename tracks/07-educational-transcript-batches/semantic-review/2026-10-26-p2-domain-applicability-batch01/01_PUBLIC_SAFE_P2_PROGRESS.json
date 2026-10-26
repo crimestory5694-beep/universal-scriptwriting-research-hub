@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-26",
+  "phase": "P2_DOCUMENTARY_CONTEXT_REVIEW_BATCH01",
+  "source_members_in_new_batch": 32,
+  "reviewed_new": 98,
+  "reviewed_previously": 7,
+  "reviewed_p2_total": 105,
+  "provisional_p2_total": 495,
+  "p2_remaining": 390,
+  "individually_reviewed_all_semantic_prior": 149,
+  "individually_reviewed_all_semantic_now": 247,
+  "observations_total": 1222,
+  "individually_unreviewed_total": 975,
+  "context_counts": {
+    "HOOK": 11,
+    "VISUAL": 4,
+    "SCENE": 8,
+    "QUOTE": 6,
+    "INNER": 3,
+    "STRUCT": 19,
+    "RISK": 3,
+    "SHORT": 4,
+    "SELFREPORT": 12,
+    "WORKFLOW": 26,
+    "PACKAGE": 2
+  },
+  "composite_parent_with_legacy_part_hash_hold_in_new_batch": 21,
+  "all_new_rows_prior_anchor_QA": "PASS",
+  "new_canonical_EDU_C_ids": 0,
+  "scientific_script_effectiveness_verified": 0,
+  "review_basis": "ORIGINAL_PRIVATE_RESEARCH_PARAPHRASE_ROLE_CAUTION_PLUS_PREVIOUS_EXACT_BYTE_QA",
+  "other_holds": [
+    "B70_B72_ORIGINAL_PRIVATE_ARCHIVE_MISSING",
+    "NINE_MEMBER_PART_HASH_CONFLICTS",
+    "B25",
+    "B58",
+    "T01_T13_NOT_EXECUTED"
+  ],
+  "production_SKILL_md": "HOLD"
+}
