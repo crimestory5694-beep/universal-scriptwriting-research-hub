@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-10-26",
+  "total_observations": 1222,
+  "P1_total": 128,
+  "P1_previous_completed": 50,
+  "P1_new_individual_reviews": 78,
+  "P1_individually_reviewed": 128,
+  "P1_pending": 0,
+  "latest_review_source_members": 30,
+  "all_observations_individually_reviewed": 149,
+  "other_individual_reviews_pending": 1073,
+  "external_review_scope": "Selected authoritative public sources; unsupported creator-specific claims remain HOLD",
+  "canonical_EDU_C_new": 0,
+  "proven_scriptwriting_retention_rules": 0,
+  "private_original_archive_B70_B72": "MISSING_SURROGATE_NOT_ORIGINAL",
+  "individually_frozen_member_sha_pass_prior": 153,
+  "individual_member_hash_discrepancy_prior": 9,
+  "skill_production_status": "HOLD"
+}
