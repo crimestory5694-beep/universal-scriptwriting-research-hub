@@ -1,0 +1,49 @@
+K_id,historical_K_title,S4_research_only_class,S4_proposed_behavior_not_code,source_depth_admission,skill_approved
+K001,Scope-governance over universal formulas,REQUIREMENT/SAFETY_GUARDRAIL,Declare niche and format before choosing any structure,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K002,Assertions calibrated to available evidence,REQUIREMENT/SAFETY_GUARDRAIL,Link each non-fiction claim to dated evidence and uncertainty,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K003,Atomic claim decomposition and numerical QA,REQUIREMENT/SAFETY_GUARDRAIL,Check numerator denominator units baseline and impossible values,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K004,Accurate captions plus meaningful non-speech information,REQUIREMENT/SAFETY_GUARDRAIL,Preserve captions and meaningful non-speech audio; verify human accuracy,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K005,Separate audience-retention analytics from raw starts/views,WORKFLOW/IMPLEMENTATION_ONLY,Keep reach retention dips rewatches and causation separate,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K006,Subject consent privacy and asymmetric harm checks,REQUIREMENT/SAFETY_GUARDRAIL,Assess consent privacy likeness and harm,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K007,"Separate drafts, research and independent verification",WORKFLOW/IMPLEMENTATION_ONLY,Separate source research drafting and independent review,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K008,Start in active moral dilemma,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Offer sourced dilemma opening only when factual,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K009,Lead with engineering or institutional paradox,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Offer only a documented engineering paradox,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K010,Lead with actionable what/where/when,CONTEXTUAL_RULE,Lead with actionable warning who what where and when,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K011,Self-recognition or relatable problem framing,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Offer relatable problem framing without invented behavior,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K012,Reveal useful central answer once premises suffice,CONTEXTUAL_RULE,Give central answer when support suffices,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K013,Deferred significance of sourced clues,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Defer meaning only for authentic sourced clues,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K014,Three-act as optional model,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Three-act is selectable not mandatory,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K015,Scene-sequel reaction/decision cycles,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Require evidence before attributing decisions,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K016,Modular sectional explanation with cross-section continuity,WORKFLOW/IMPLEMENTATION_ONLY,Track cross-section chronology and factual coherence,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K017,Alternating tension/recovery matched to narrative purpose,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Allow recovery without delaying safety warnings,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K018,Payoff obligation and fair setup resolution,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Answer promises honestly including unresolved facts,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K019,Speakable sentences and visible transition links,CONTEXTUAL_RULE,Read-aloud for clarity; no untested WPM ideal,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K020,Voice consistency while tone shifts with subject,CONTEXTUAL_RULE,Stable voice with subject-appropriate tone,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K021,Control jargon and scaffold for novice/expert audience,CONTEXTUAL_RULE,Explain jargon to actual audience expertise,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K022,Integrate spoken reference with required visuals,WORKFLOW/IMPLEMENTATION_ONLY,Match visual spoken and accessible meaning,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K023,Meaning-preserving localization and register matching,WORKFLOW/IMPLEMENTATION_ONLY,Meaning-preserving English German editorial review,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K024,Use one metaphor coherently where it clarifies,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Offer metaphor only where helpful; no quota,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K025,Do not fabricate human nonfiction dialogue/characters,REQUIREMENT/SAFETY_GUARDRAIL,Reject manufactured nonfiction dialogue and witnesses,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K026,Dated forecasting and uncertainty disclosure,REQUIREMENT/SAFETY_GUARDRAIL,Record issuance validity location and forecast uncertainty,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K027,Separate contract award from operational aircraft capability,REQUIREMENT/SAFETY_GUARDRAIL,Separate award development testing production and deployment,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K028,Proof of historical time/place/quotation,REQUIREMENT/SAFETY_GUARDRAIL,Trace archival time location and quotation,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K029,Mechanism-level psychology evidence review,HOLD_NEEDS_TEST,HOLD alleged neuroscience uplift pending trials,RESEARCH_QUARANTINE,NO
+K030,MOOC short-video engagement association,HOLD_NEEDS_TEST,HOLD extrapolation from retrospective MOOC session data,RESEARCH_QUARANTINE,NO
+K031,Listening modality can change comprehension,HOLD_NEEDS_TEST,HOLD universal readability-history claim F-190 unverified,RESEARCH_QUARANTINE,NO
+K032,Match financial lesson to decision/task and risk,CONTEXTUAL_RULE,Economic decision context as scoped analogy only,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K033,Live play-by-play reorientation and recap,CONTEXTUAL_RULE,Use recap only when supported by event context,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K034,Truth-preserving wildlife sequence compression exception,REQUIREMENT/SAFETY_GUARDRAIL,Label reconstruction and preserve factual authenticity,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K035,Fair-play clue planting,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Clues must have traceable authentic sources,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K036,Controlled uncanny detail/dread,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Fictional dread techniques never invent real disaster details,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K037,Text-first modular narrative authoring,WORKFLOW/IMPLEMENTATION_ONLY,Reversible modular authoring proposal only,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K038,Match resolution to viewer intent rather than forced CTA,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Choose supported ending rather than forced CTA,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K039,Position sponsor/engagement without asserting retention effect,WORKFLOW/IMPLEMENTATION_ONLY,Sponsor disclosures with no causal-retention claim,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K040,Avoid universal loop/payoff seconds quotas,REQUIREMENT/SAFETY_GUARDRAIL,Reject mandatory rehook interval quotas,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K041,No caption-only inference about performance or pauses,REQUIREMENT/SAFETY_GUARDRAIL,Caption-only material cannot validate prosody or shot timing,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K042,Keep script-quality rubric separate from effectiveness,REQUIREMENT/SAFETY_GUARDRAIL,Separate editorial quality from performance measurement,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K043,Adversarial claim checking and review stop condition,WORKFLOW/IMPLEMENTATION_ONLY,Independent adversarial review; R052 original blocked,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K044,Audience intent and expertise segmentation before comparison,CONTEXTUAL_RULE,No generalization across MOOC health or documentary populations,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K045,Rhythm and punctuation depend on performance,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Spoken rhythm requires real audio; no punctuation detector claim,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K046,Semantic function mapping before visuals,WORKFLOW/IMPLEMENTATION_ONLY,Map visual purpose with captions and attribution,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K047,Verify date/entity and longitudinal consistency,REQUIREMENT/SAFETY_GUARDRAIL,Verify dates people entities and continuity after revisions,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
+K048,Core message framing without 15-word mandate,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,Core message can be flexible; no fifteen-word mandate,OWNER_EVIDENCE_AND_RIGHTS_REVIEW_PENDING,NO
