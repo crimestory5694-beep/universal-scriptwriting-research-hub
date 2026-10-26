@@ -1,0 +1,60 @@
+{
+  "phase": "S1_INDEPENDENT_SOURCE_QUALIFIED_REVIEW_RECONCILIATION",
+  "date": "2026-10-27",
+  "original_observations": 1222,
+  "original_observations_unique": 1222,
+  "triage_records": 1222,
+  "triage_unique": 1222,
+  "batch_decisions_by_stream": {
+    "P1": 123,
+    "P2": 493,
+    "P3": 585
+  },
+  "batch_total": 1201,
+  "early_manual_pilot_rows": 26,
+  "pilot_recovered_missing": {
+    "P1": 5,
+    "P2": 2,
+    "P3": 14
+  },
+  "pilot_overlapping_later_batched_reviews": 5,
+  "reconciled_by_stream": {
+    "P1": 128,
+    "P2": 495,
+    "P3": 599
+  },
+  "reconciled_unique_total": 1222,
+  "unreviewed": 0,
+  "duplicate_assignments": 0,
+  "unrecognized_keys": 0,
+  "source_identity_mismatch": 0,
+  "role_paraphrase_caution_mismatch": 0,
+  "missing_individual_reason_or_decision": 0,
+  "educational_members": 58,
+  "match_SHA_class_rows": 1131,
+  "disputed_member_hash_class_rows": 91,
+  "disputed_individual_member_hashes": 9,
+  "nested_zip_crc_layers_passed": 17,
+  "B08_original_sha256": "02b86f50101226b2b4aecbca5f30f9cd2d9f83820f6dab660b049020cacaff91",
+  "private_S1_continuity_sha256": "7b5a6779eeee355e9da581bda75b0cf7120fae8bab7d0ae321c606d61eb5e36c",
+  "private_S1_bytes": 31499565,
+  "local_public_safe_S1_sha256": "4e82be4ae238a7950a5bbdd3b1e2b792b9b6882a68efa39ca67fdd9f10718a43",
+  "local_public_safe_S1_bytes": 7451,
+  "F90": {
+    "PASS": 20,
+    "CONDITIONAL": 64,
+    "FAIL": 5,
+    "UNVERIFIED": 1
+  },
+  "R_discovery_entries": 171,
+  "K_unapproved_research_candidates": 48,
+  "T_protocols_not_executed": 13,
+  "new_canonical_EDU_C_ids": 0,
+  "original_B70_B72": "MISSING",
+  "B25": "OPEN",
+  "B58": "INCOMPLETE",
+  "B06_self_manifest": "MISMATCH_UNCHANGED",
+  "production_approved": false,
+  "claude_implementation": "HOLD",
+  "codex_product_audit": "NOT_STARTED"
+}
