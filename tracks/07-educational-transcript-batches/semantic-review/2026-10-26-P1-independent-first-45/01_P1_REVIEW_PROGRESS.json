@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "individually_reviewed_p1_new": 45,
+  "p1_previously_reviewed": 5,
+  "p1_reviewed_total": 50,
+  "p1_remaining": 78,
+  "p1_total": 128,
+  "source_ids_in_new_batch": 18,
+  "individually_reviewed_all_sources": 71,
+  "total_source_observations": 1222,
+  "provisional_machine_routed": 1222,
+  "new_canonical_EDU_C_ids": 0,
+  "proven_universal_retention_rules": 0,
+  "original_B70_B72_zip": "MISSING_SURROGATE_SEPARATE",
+  "unresolved_legacy_member_hashes": 9,
+  "review_status": "PARTIAL_P1_FACT_EVIDENCE",
+  "validated_skill_release": "HOLD"
+}
