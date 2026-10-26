@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-26",
+  "audit_type": "restricted_original_text_structural_source_evidence_qa",
+  "candidate_rows": 1222,
+  "source_members": 58,
+  "frozen_member_anchor_rows": 1131,
+  "original_parent_verified_legacy_member_part_hash_conflict_rows": 91,
+  "original_source_utf8_unicode_span_pass": 1222,
+  "full_interval_anchor_pass": 1115,
+  "subinterval_anchor_pass": 107,
+  "unqualified_candidate_ids_reused_across_sources": 32,
+  "source_qualified_key_duplicates": 0,
+  "missing_paraphrases": 0,
+  "missing_source_limitations_or_not_established_record": 0,
+  "normalized_paraphrase_exact_duplication_groups": 0,
+  "lexical_possible_overlap_pairs_threshold_064": 1,
+  "possible_overlap_source_ids": [
+    "EDU-SRC0076",
+    "EDU-SRC0080"
+  ],
+  "framework": "PAST (Place, Action, Speech, Thoughts)",
+  "source_texts_reviewed": 162,
+  "individual_frozen_member_hashes_pass": 153,
+  "individual_member_hashes_conflicted": 9,
+  "official_merged_claim_count_unchanged": 3051,
+  "official_merged_source_count_unchanged": 104,
+  "new_EDU_C_ids_issued": 0,
+  "B70_B72_original_private_archive": "UNRECOVERED",
+  "B70_B72_reconstructed_surrogate": "SEPARATE_NOT_ORIGINAL",
+  "test_protocols_T01_T13": "NOT_EXECUTED",
+  "production_SKILL_md": "HOLD",
+  "qa_scope": "STRUCTURAL_AND_ANCHOR_ONLY_NOT_EMPIRICAL_OR_EXPERT_SEMANTIC_APPROVAL"
+}
