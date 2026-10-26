@@ -1,0 +1,49 @@
+K_id,original_K_title,research_only_class,source_F_ids,source_R_ids,unique_analyst_reason,scientific_retention_proof,production_approved
+K001,Scope-governance over universal formulas,REQUIREMENT/SAFETY_GUARDRAIL,F-202,R137,Scope must be determined before borrowing a narrative template,NO,NO
+K002,Assertions calibrated to available evidence,REQUIREMENT/SAFETY_GUARDRAIL,F-070;F-201,R145;R133;R157,Verify each non-fiction assertion against evidence strength,NO,NO
+K003,Atomic claim decomposition and numerical QA,REQUIREMENT/SAFETY_GUARDRAIL,F-073;F-121,R145;R157,Check every numerical denominator unit and source date,NO,NO
+K004,Accurate captions plus meaningful non-speech information,REQUIREMENT/SAFETY_GUARDRAIL,F-170;F-171;F-172,R149;R150,Captions and crucial non-speech cues must be accurate,NO,NO
+K005,Separate audience-retention analytics from raw starts/views,WORKFLOW/IMPLEMENTATION_ONLY,F-022,R098;R160;R161,Platform analytics are observational metrics not script causality,NO,NO
+K006,Subject consent privacy and asymmetric harm checks,REQUIREMENT/SAFETY_GUARDRAIL,F-102;F-075,R145;R133,Consent privacy and likeness protections govern use,NO,NO
+K007,"Separate drafts, research and independent verification",WORKFLOW/IMPLEMENTATION_ONLY,F-083;F-200,R137;R145;R057,Separate research draft and independent review approvals,NO,NO
+K008,Start in active moral dilemma,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-001;F-002,R137,Moral dilemma opener is only an optional sourced-story technique,NO,NO
+K009,Lead with engineering or institutional paradox,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-002;F-203,R137,Engineering paradox demands verified contradictory premises,NO,NO
+K010,Lead with actionable what/where/when,CONTEXTUAL_RULE,F-201,R145,Forecast and disaster essential what-where-when cannot be delayed,NO,NO
+K011,Self-recognition or relatable problem framing,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-203,R163,Relatable problem framing may be useful but is not validated causally,NO,NO
+K012,Reveal useful central answer once premises suffice,CONTEXTUAL_RULE,F-041;F-063,R137,Optional early central answer when explanatory premises permit,NO,NO
+K013,Deferred significance of sourced clues,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-042;F-041,R137,Withhold only non-essential significance of genuinely sourced clues,NO,NO
+K014,Three-act as optional model,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-010,R137,Three-act fiction structure is optional not universal,NO,NO
+K015,Scene-sequel reaction/decision cycles,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-012;F-013,R137,Use reaction/decision sequence only for documented events,NO,NO
+K016,Modular sectional explanation with cross-section continuity,WORKFLOW/IMPLEMENTATION_ONLY,F-015;F-124;F-141,R137,Modular coherence is an authoring process with claim continuity checks,NO,NO
+K017,Alternating tension/recovery matched to narrative purpose,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-020;F-052,R057,Tension recovery is editorial craft not mandatory disaster pacing,NO,NO
+K018,Payoff obligation and fair setup resolution,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-041;F-110,R145,Setup-payoff model must acknowledge open or unresolved real events,NO,NO
+K019,Speakable sentences and visible transition links,CONTEXTUAL_RULE,F-060;F-061;F-064,R057;R163,Conversational readability requires actual read-aloud review,NO,NO
+K020,Voice consistency while tone shifts with subject,CONTEXTUAL_RULE,F-033;F-064,R057;R142,Consistent narrator voice with solemn subject-appropriate tone,NO,NO
+K021,Control jargon and scaffold for novice/expert audience,CONTEXTUAL_RULE,F-063;F-173;F-174,R079;R158,Audience expertise and jargon require source-appropriate calibration,NO,NO
+K022,Integrate spoken reference with required visuals,WORKFLOW/IMPLEMENTATION_ONLY,F-170;F-171;F-172;F-182,R149;R150,Visual and spoken references must preserve facts units and context,NO,NO
+K023,Meaning-preserving localization and register matching,WORKFLOW/IMPLEMENTATION_ONLY,F-090;F-091,R149;R150,Meaning-preserving localization must be fluent and rights-aware,NO,NO
+K024,Use one metaphor coherently where it clarifies,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-130;F-153,R057,Metaphors must not be confused with literal data or maps,NO,NO
+K025,Do not fabricate human nonfiction dialogue/characters,REQUIREMENT/SAFETY_GUARDRAIL,F-100;F-102,R133;R145,No fictional dialogue presented as nonfiction witness testimony,NO,NO
+K026,Dated forecasting and uncertainty disclosure,REQUIREMENT/SAFETY_GUARDRAIL,F-070;F-201,R145,Weather uncertainty location issuance and expiry require live authorities,NO,NO
+K027,Separate contract award from operational aircraft capability,REQUIREMENT/SAFETY_GUARDRAIL,F-070;F-201,R145,Contract award does not establish operational aircraft capability,NO,NO
+K028,Proof of historical time/place/quotation,REQUIREMENT/SAFETY_GUARDRAIL,F-070;F-081;F-121,R145,Historical time place and direct quotation need primary attribution,NO,NO
+K029,Mechanism-level psychology evidence review,HOLD_NEEDS_TEST,F-070;F-121;F-173,R163,Brain chemical explanation is not verified for YouTube retention,NO,NO
+K030,MOOC short-video engagement association,HOLD_NEEDS_TEST,F-063;F-180,R079,MOOC observational video association not a documentary causal rule,NO,NO
+K031,Listening modality can change comprehension,HOLD_NEEDS_TEST,F-190,R163,F-190 UNVERIFIED: limited health text/audio research cannot prove a universal formula negative,NO,NO
+K032,Match financial lesson to decision/task and risk,CONTEXTUAL_RULE,F-063;F-201,R156;R157;R158;R159,Financial education analogy only; no individual financial advice,NO,NO
+K033,Live play-by-play reorientation and recap,CONTEXTUAL_RULE,F-064;F-181,R141;R142,Sports play-by-play analogy is not directly verified documentary method,NO,NO
+K034,Truth-preserving wildlife sequence compression exception,REQUIREMENT/SAFETY_GUARDRAIL,F-100;F-201,R133;R154,Wildlife and any factual sequences must avoid misleading reconstruction,NO,NO
+K035,Fair-play clue planting,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-110;F-111;F-042,NONE,Fair-play clue planting applies only to supported factual evidence,NO,NO
+K036,Controlled uncanny detail/dread,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-050;F-051;F-112,NONE,Uncanny horror techniques are fictional craft not tragedy facts,NO,NO
+K037,Text-first modular narrative authoring,WORKFLOW/IMPLEMENTATION_ONLY,F-113;F-141;F-015,NONE,Text-first modular writing is optional implementation method,NO,NO
+K038,Match resolution to viewer intent rather than forced CTA,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-021;F-041,R057,Conclude viewer's supported question without forced CTA,NO,NO
+K039,Position sponsor/engagement without asserting retention effect,WORKFLOW/IMPLEMENTATION_ONLY,F-180;F-181,R098,Sponsor placement is a publishing workflow not retention proof,NO,NO
+K040,Avoid universal loop/payoff seconds quotas,REQUIREMENT/SAFETY_GUARDRAIL,F-180;F-181,R079;R141,Reject fixed 60/90-second rehook quotas and guaranteed thresholds,NO,NO
+K041,No caption-only inference about performance or pauses,REQUIREMENT/SAFETY_GUARDRAIL,F-200,R149,Caption-only text cannot establish actual voice performance,NO,NO
+K042,Keep script-quality rubric separate from effectiveness,REQUIREMENT/SAFETY_GUARDRAIL,F-022;F-083;F-120,R098;R079;R161,Writing quality and observed platform metrics are distinct constructs,NO,NO
+K043,Adversarial claim checking and review stop condition,WORKFLOW/IMPLEMENTATION_ONLY,F-074;F-075;F-080,R145;R052,Adversarial review can gate unsourced claims; R052 source not directly opened,NO,NO
+K044,Audience intent and expertise segmentation before comparison,CONTEXTUAL_RULE,F-063;F-173;F-202,R079;R163,Segment by real audience needs not invented demographic performance,NO,NO
+K045,Rhythm and punctuation depend on performance,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-132;F-154,R057,Purposeful rhythm is performance-dependent and untested as lift,NO,NO
+K046,Semantic function mapping before visuals,WORKFLOW/IMPLEMENTATION_ONLY,F-182,R149;R150,Semantic scene function maps are production planning not factual footage,NO,NO
+K047,Verify date/entity and longitudinal consistency,REQUIREMENT/SAFETY_GUARDRAIL,F-033;F-206;F-121,R145,Entity date and longitudinal continuity checks are essential to nonfiction,NO,NO
+K048,Core message framing without 15-word mandate,SOURCE_ATTRIBUTED_CREATIVE_HYPOTHESIS,F-203;F-064,R057,Core message framing cannot impose a universal fifteen-word cap,NO,NO
