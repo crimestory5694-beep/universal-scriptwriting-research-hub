@@ -1,0 +1,7 @@
+file_path,bytes,git_blob_sha1,remote_readback
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/00_RESEARCH_REPORT.md,4415,c680d605c6a1bd96e1bebf2f1b6281f4aee5efad,MATCH
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/01_SECTION_SHA_RECONCILIATION.csv,2725,59292d0f3807f24ae4bb3bac219a777e3818a4d9,MATCH
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/02_OPEN_CASES_AND_REPAIRS.csv,1290,c1500bb84f352811638d3072b02991eaec596245,MATCH
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/03_RIGHTS_AND_SCOPE.json,848,7686e1ab4311600685a1f0e09d949759bc805079,MATCH
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/04_QA_REPRODUCTION.md,2786,46e783aecd6871675ba97a0a649498d4917307dd,MATCH
+tracks/07-educational-transcript-batches/history-recovery/2026-10-27-independent-worker/05_CONTINUATION_HANDOFF.md,2190,11165ff551b7da209ff70bbe593dfd7f9181359d,MATCH
