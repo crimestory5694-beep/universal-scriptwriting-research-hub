@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-26",
+  "phase": "P2 documentary applicability Batch 2",
+  "original_p2_total": 495,
+  "prior_p2_individually_reviewed": 60,
+  "new_p2_individually_reviewed": 100,
+  "p2_individually_reviewed_total": 160,
+  "p2_individually_pending": 335,
+  "new_batch_source_members": 47,
+  "source_overall_postfreeze_observations": 1222,
+  "overall_individually_reviewed": 309,
+  "overall_individually_pending": 913,
+  "source_qa_status": "prior original Unicode and UTF8 anchor QA verified",
+  "historic_per_part_hash_conflicts": 9,
+  "original_B70_B72_private_archive": "MISSING",
+  "B70_B72_reconstruction": "SURROGATE_NOT_ORIGINAL",
+  "canonical_edu_c_ids_new": 0,
+  "original_private_zip_retained": true,
+  "retention_causal_trials_completed": 0,
+  "universal_skill_status": "HOLD"
+}
