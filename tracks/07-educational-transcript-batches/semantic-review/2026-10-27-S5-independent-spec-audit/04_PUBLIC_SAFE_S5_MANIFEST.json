@@ -1,0 +1,40 @@
+{
+  "phase": "S5_INDEPENDENT_SPEC_AUDIT",
+  "baseline_main": "fb04d86f1512e71ba571c10315fd4d6a9fa26200",
+  "S4_public_source_sha256": "3f676976c26fa61999a2b8cfb714cd4c2c1ccaed983f0b7c484d0db8494e8e43",
+  "S4_private_source_published": false,
+  "independent_counts": {
+    "K": 48,
+    "niche": 240,
+    "gates": 19,
+    "K_amendments": 9,
+    "K_quarantine": 3,
+    "cell_warnings": 38,
+    "owner_production_approvals": 0,
+    "empirical_tests_executed": 0
+  },
+  "files": [
+    {
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/00_PUBLIC_SAFE_S5_INDEPENDENT_AUDIT_REPORT.md",
+      "characters": 6898
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/01_PUBLIC_SAFE_S5_K48_INDEPENDENT_QA.csv",
+      "characters": 21391
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/02_PUBLIC_SAFE_S5_240_NICHE_COUNTERCASES.csv",
+      "characters": 146293
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/03_PUBLIC_SAFE_S5_G19_GATE_DECISIONS.csv",
+      "characters": 3254
+    },
+    {
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/05_PUBLIC_SAFE_S5_CONTINUATION_HANDOFF.md",
+      "characters": 927
+    }
+  ],
+  "publication_rights": "Original researcher-authored public-safe audit only; no private case keys/source-rich bytes",
+  "zip": "No S5 ZIP produced; individual GitHub files and SHA1 Git blob integrity checked"
+}
