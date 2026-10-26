@@ -1,0 +1,49 @@
+K_id,candidate,prior_F_sources,prior_R_sources,S3_evidence_status,S3_verified_primary_source_ids,retention_effect_established,production_rule_approved
+K001,Scope-governance over universal formulas,F-202,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K002,Assertions calibrated to available evidence,F-070;F-201,R145;R133;R157,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145,NO,NO
+K003,Atomic claim decomposition and numerical QA,F-073;F-121,R145;R157,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145,NO,NO
+K004,Accurate captions plus meaningful non-speech information,F-170;F-171;F-172,R149;R150,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R150,NO,NO
+K005,Separate audience-retention analytics from raw starts/views,F-022,R098;R160;R161,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R098,NO,NO
+K006,Subject consent privacy and asymmetric harm checks,F-102;F-075,R145;R133,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145;S3EXT003,NO,NO
+K007,"Separate drafts, research and independent verification",F-083;F-200,R137;R145;R057,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K008,Start in active moral dilemma,F-001;F-002,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K009,Lead with engineering or institutional paradox,F-002;F-203,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K010,Lead with actionable what/where/when,F-201,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,S3EXT001,NO,NO
+K011,Self-recognition or relatable problem framing,F-203,R163,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K012,Reveal useful central answer once premises suffice,F-041;F-063,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K013,Deferred significance of sourced clues,F-042;F-041,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K014,Three-act as optional model,F-010,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K015,Scene-sequel reaction/decision cycles,F-012;F-013,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K016,Modular sectional explanation with cross-section continuity,F-015;F-124;F-141,R137,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K017,Alternating tension/recovery matched to narrative purpose,F-020;F-052,R057,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K018,Payoff obligation and fair setup resolution,F-041;F-110,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145,NO,NO
+K019,Speakable sentences and visible transition links,F-060;F-061;F-064,R057;R163,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R163,NO,NO
+K020,Voice consistency while tone shifts with subject,F-033;F-064,R057;R142,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K021,Control jargon and scaffold for novice/expert audience,F-063;F-173;F-174,R079;R158,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K022,Integrate spoken reference with required visuals,F-170;F-171;F-172;F-182,R149;R150,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R150;S3EXT003,NO,NO
+K023,Meaning-preserving localization and register matching,F-090;F-091,R149;R150,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K024,Use one metaphor coherently where it clarifies,F-130;F-153,R057,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K025,Do not fabricate human nonfiction dialogue/characters,F-100;F-102,R133;R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145;S3EXT003,NO,NO
+K026,Dated forecasting and uncertainty disclosure,F-070;F-201,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,S3EXT001,NO,NO
+K027,Separate contract award from operational aircraft capability,F-070;F-201,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,S3EXT002;S3EXT006,NO,NO
+K028,Proof of historical time/place/quotation,F-070;F-081;F-121,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,S3EXT005,NO,NO
+K029,Mechanism-level psychology evidence review,F-070;F-121;F-173,R163,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R163,NO,NO
+K030,MOOC short-video engagement association,F-063;F-180,R079,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R079,NO,NO
+K031,Listening modality can change comprehension,F-190,R163,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R163,NO,NO
+K032,Match financial lesson to decision/task and risk,F-063;F-201,R156;R157;R158;R159,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K033,Live play-by-play reorientation and recap,F-064;F-181,R141;R142,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K034,Truth-preserving wildlife sequence compression exception,F-100;F-201,R133;R154,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145;S3EXT003,NO,NO
+K035,Fair-play clue planting,F-110;F-111;F-042,NONE,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K036,Controlled uncanny detail/dread,F-050;F-051;F-112,NONE,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K037,Text-first modular narrative authoring,F-113;F-141;F-015,NONE,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K038,Match resolution to viewer intent rather than forced CTA,F-021;F-041,R057,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R098,NO,NO
+K039,Position sponsor/engagement without asserting retention effect,F-180;F-181,R098,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,S3EXT003;S3EXT004,NO,NO
+K040,Avoid universal loop/payoff seconds quotas,F-180;F-181,R079;R141,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R079;R098,NO,NO
+K041,No caption-only inference about performance or pauses,F-200,R149,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R150,NO,NO
+K042,Keep script-quality rubric separate from effectiveness,F-022;F-083;F-120,R098;R079;R161,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R079;R098,NO,NO
+K043,Adversarial claim checking and review stop condition,F-074;F-075;F-080,R145;R052,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R052;R145,NO,NO
+K044,Audience intent and expertise segmentation before comparison,F-063;F-173;F-202,R079;R163,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R079;R163,NO,NO
+K045,Rhythm and punctuation depend on performance,F-132;F-154,R057,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO
+K046,Semantic function mapping before visuals,F-182,R149;R150,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R150,NO,NO
+K047,Verify date/entity and longitudinal consistency,F-033;F-206;F-121,R145,TARGETED_PRIMARY_CHECK_SCOPE_LIMITED,R145;S3EXT002,NO,NO
+K048,Core message framing without 15-word mandate,F-203;F-064,R057,INHERITED_S2_ONLY_NOT_REVERIFIED,NONE,NO,NO

@@ -1,0 +1,13 @@
+source_id,source_title,verification_depth,source_url,limited_result
+R079,Guo/Kim/Rubin 2014 ACM MOOC,RETROSPECTIVE_PAPER_READ,https://doi.org/10.1145/2556325.2566239,"6.9m watching sessions, 4 courses, not randomized documentary script test"
+R163,Ahmed et al. 2025 JMIR,PUBLISHER_FULL_TEXT_READ,https://www.jmir.org/2025/1/e69772/,"487 health text/audio participants, not universal narration"
+R145,RTDNA Code of Ethics,ORIGINAL_ETHICS_PAGE_READ,https://www.rtdna.org/ethics,journalism standards not effectiveness tests
+R150,W3C Captions/Subtitles,ORIGINAL_GUIDANCE_READ,https://www.w3.org/WAI/media/av/captions/,important non-speech captions and accuracy
+R098,YouTube audience retention help,CURRENT_PLATFORM_HELP_READ,https://support.google.com/youtube/answer/9314415,"spikes have multiple interpretations, not causal mechanism"
+R052,NPR Training voice writing,BLOCKED_ORIGINAL,https://www.npr.org/sections/npr-training/2025/05/31/g-s1-66074/would-you-say-it-that-way-tips-on-writing-for-your-voice,DO NOT UPGRADE from inherited discovery-only
+S3EXT001,NWS watch-warning-advisory,OFFICIAL_PAGE_READ,https://www.weather.gov/dtx/wwa_defs,do not misstate active warning versus uncertain watch
+S3EXT002,GAO acquisition phases,OFFICIAL_REPORT_READ,https://www.gao.gov/products/gao-25-106931,"contract, development, production, fielding distinct"
+S3EXT003,YouTube realistic synthetic disclosures,OFFICIAL_POLICY_READ,https://support.google.com/youtube/answer/14328491,label meaningful photorealistic manufactured real-life scenes
+S3EXT004,2026 TeamYouTube GenAI update,DATED_PLATFORM_ANNOUNCEMENT_READ,https://support.google.com/youtube/thread/424874071,realistic versus script-outline-only distinctions
+S3EXT005,National Archives citing Congress records,ORIGINAL_ARCHIVES_GUIDE_READ,https://www.archives.gov/legislative/research/citation.html,"document date distinct from endorsement date, no WW2 claim established"
+S3EXT006,2026 GAO annual weapon assessment,OFFICIAL_REPORT_READ,https://www.gao.gov/products/gao-26-108457,methodology/capability limitations not an individual weapon proof
