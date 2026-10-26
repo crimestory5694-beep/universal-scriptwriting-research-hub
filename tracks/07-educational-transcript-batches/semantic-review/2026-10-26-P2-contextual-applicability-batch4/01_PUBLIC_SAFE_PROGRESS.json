@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-26",
+  "batch": "P2_B04",
+  "review_type": "individual_source_paraphrase_contextual_applicability_not_native_AV_and_not_causal_impact",
+  "new_individual_reviews": 100,
+  "source_members": 21,
+  "unique_case_specific_rationales": 100,
+  "P1_reviewed": 128,
+  "P1_pending": 0,
+  "P2_reviewed_unique": 362,
+  "P2_pending": 133,
+  "P2_total": 495,
+  "P3_pilot_reviewed_unique": 14,
+  "P3_pending": 585,
+  "P3_total": 599,
+  "total_reviewed_unique": 504,
+  "total_pending_unique": 718,
+  "total_records": 1222,
+  "new_batch_source_provenance": {
+    "individual_frozen_source_member_hash_match": 65,
+    "verified_original_composite_parent_legacy_member_hash_disputed": 35
+  },
+  "new_batch_decisions": {
+    "SUBJECTIVE_SCOPE": 10,
+    "OPTIONAL_TECHNIQUE_UNTESTED": 24,
+    "PRODUCTION_ONLY": 3,
+    "PRESENTATION_CONDITIONAL": 12,
+    "HOLD_PRIMARY_AUTHENTICATION": 8,
+    "CHANNEL_MARKET_ONLY": 4,
+    "TOOL_REFERENCE_VERSIONED": 31,
+    "FICTION_LABEL_ONLY": 1,
+    "NONFICTION_INTERIORITY_BLOCK": 4,
+    "NO_TRANSFER_SAFETY_RISK": 3
+  },
+  "prior_original_private_batch3_sha256": "85250fd7a16b0a60e9496093aef6cae2214a25f64e7064ebb1f693291fd95626",
+  "current_private_zip_sha256": "218f322871cac97c8a0b0c1bb5d85d6ec1d52d507df3dcd5d4f5273219d54ba9",
+  "private_original_evidence_publicly_uploaded": false,
+  "new_EDU_C_claims": 0,
+  "historical_B70_B72_original_zip": "MISSING_NOT_REPLACED",
+  "legacy_part_hash_conflicts": 9,
+  "T01_T13_trials": "NOT_EXECUTED",
+  "production_SKILL_md": "HOLD"
+}
