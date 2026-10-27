@@ -1,0 +1,63 @@
+{
+  "schema": "S5_PUBLIC_SAFE_SHA256_MANIFEST_V3_CORRECTED",
+  "date": "2026-10-27",
+  "branch": "research/s5-audit",
+  "original_source_public_S4_sha256": "3f676976c26fa61999a2b8cfb714cd4c2c1ccaed983f0b7c484d0db8494e8e43",
+  "original_private_S4_sha256": "ec03c8132d511c047701b4c29be563fe705ca5a3155941c77f3f948ec3920aab",
+  "private_material_uploaded": false,
+  "independent_QA": {
+    "K": 48,
+    "niche_conditions": 240,
+    "approval_gates": 19,
+    "scope_K_amendments": 9,
+    "K_quarantine": 3,
+    "flagged_niche_conditions": 38,
+    "production_approvals": 0,
+    "empirical_tests_executed": 0
+  },
+  "digest_method": "SHA256 over exact UTF-8 bytes independently calculated with two known-vector self-tests PASS; Git blob SHA1 verified by remote fetch_file",
+  "files": [
+    {
+      "name": "00_PUBLIC_SAFE_S5_INDEPENDENT_AUDIT_REPORT.md",
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/00_PUBLIC_SAFE_S5_INDEPENDENT_AUDIT_REPORT.md",
+      "utf8_bytes": 6898,
+      "git_blob_sha1": "3198c76bda1abe1ecef5218916ecfbf4fa604af3",
+      "sha256": "3555a2ab8458269f952ce12dda869eecc1e6ae9998975dfbe4093b9fce7c64f5",
+      "readback": "PASS"
+    },
+    {
+      "name": "01_PUBLIC_SAFE_S5_K48_INDEPENDENT_QA.csv",
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/01_PUBLIC_SAFE_S5_K48_INDEPENDENT_QA.csv",
+      "utf8_bytes": 21391,
+      "git_blob_sha1": "ef3a6463d208c3e5dd4bd8bca9f584b390ffb1ad",
+      "sha256": "581048799b4a5043ff54dccc2f2137424188a1c5785980d282737476065c3617",
+      "readback": "PASS"
+    },
+    {
+      "name": "02_PUBLIC_SAFE_S5_240_NICHE_COUNTERCASES.csv",
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/02_PUBLIC_SAFE_S5_240_NICHE_COUNTERCASES.csv",
+      "utf8_bytes": 146293,
+      "git_blob_sha1": "31323edaded1a61f1030bb50d6b53911b0e4527a",
+      "sha256": "087bbb5570a88fb04e35e059e10fa8a486e50df5f9ff480b71693a2ef69cbc44",
+      "readback": "PASS"
+    },
+    {
+      "name": "03_PUBLIC_SAFE_S5_G19_GATE_DECISIONS.csv",
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/03_PUBLIC_SAFE_S5_G19_GATE_DECISIONS.csv",
+      "utf8_bytes": 3254,
+      "git_blob_sha1": "ce1df59caca89ea7d5ec99bf2b7349b3695c98d4",
+      "sha256": "344db8df40b5ac032ed09162e6435c33a994046f19bfa7be1f4c85dfdb35d430",
+      "readback": "PASS"
+    },
+    {
+      "name": "05_PUBLIC_SAFE_S5_CONTINUATION_HANDOFF.md",
+      "path": "tracks/07-educational-transcript-batches/semantic-review/2026-10-27-S5-independent-spec-audit/05_PUBLIC_SAFE_S5_CONTINUATION_HANDOFF.md",
+      "utf8_bytes": 927,
+      "git_blob_sha1": "970b042b08723435aaf2434c799e06796becd2b0",
+      "sha256": "3d47a3f021793a4986c89e8850c0e08fa686de51fd3a0a062c57cec894723c7d",
+      "readback": "PASS"
+    }
+  ],
+  "erratum": "Supersedes incorrect calculated SHA256 values in interim 2026-10-27 S5 verification receipt. Initial Git blob SHA1, contents and row counts were correct. The historical interim commit remains visible.",
+  "S5_zip": "NOT_CREATED; ZIP CRC not applicable; original S4 public/private ZIP CRC independently checked."
+}

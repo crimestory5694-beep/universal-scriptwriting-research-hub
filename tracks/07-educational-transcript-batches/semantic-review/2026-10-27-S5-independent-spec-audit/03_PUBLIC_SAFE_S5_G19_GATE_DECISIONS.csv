@@ -1,0 +1,20 @@
+gate_id,gate_subject,S4_status,independent_gate_verdict,independent_required_action,audit_suggests_approval
+G01,Owner scope,PENDING_OWNER_APPROVAL,OWNER_SCOPE_NOT_APPROVED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G02,Rights and access,HOLD_RIGHTS_UNVERIFIED,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G03,Exact B70-B72 original ZIP,HOLD_ORIGINAL_MISSING,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G04,Nine member-part hashes and 91 observation classifications,HOLD_DISPUTED_PROVENANCE,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G05,B25 and B58 original archive exceptions,HOLD_LEGACY_EXCEPTIONS,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G06,B06 internal self-manifest,DOCUMENT_ONLY_NO_REWRITE,DOCUMENT_ONLY_NOT_CLEARED,Preserve historic manifest anomaly unchanged and document externally,NO
+G07,F-190 / K031 scope,HOLD_UNVERIFIED,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G08,NPR R052 exact primary access,HOLD_SOURCE_ACCESS_BLOCKED,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G09,GitHub S63 and R171 source-depth reconciliation,HOLD_PARTIAL_SOURCE_AUDIT,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G10,Native original audio/video,HOLD_NATIVE_UNVERIFIED,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G11,T01-T13 test authorization and consent,HOLD_NOT_EXECUTED,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G12,German WW1-WW2 archival cases,HOLD_CASE_SPECIFIC,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G13,Weather/disaster authoritative validity,HOLD_CASE_SPECIFIC,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G14,Military capability-stage source checks,HOLD_CASE_SPECIFIC,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G15,Synthetic media consent/disclosure,HOLD_CASE_SPECIFIC,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G16,Seven-track archival and publication completeness,HOLD_INCOMPLETE_TRACKS,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G17,Separate Claude Code workspace transfer,HOLD_NO_TRANSFER_APPROVAL,NOT_CLEARED,"Require original subject evidence, rights, expert review, and owner signoff as specified",NO
+G18,Production SKILL.md authorization,HOLD_NO_SKILL_AUTHORIZATION,NOT_CLEARED,Explicit owner sign-off only after rights and evidence decisions,NO
+G19,Codex independent product QA,NOT_STARTED_DEPENDENT,DOWNSTREAM_AFTER_AUTHORIZED_BUILD,Use after distinct owner-approved build exists; no pre-implementation pass,NO
