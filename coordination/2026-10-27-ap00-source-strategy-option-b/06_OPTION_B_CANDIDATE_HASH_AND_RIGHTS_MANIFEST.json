@@ -1,0 +1,44 @@
+{
+  "document_type": "AP00_AND_OPTION_B_CANDIDATE_MANIFEST_NOT_SIGNED",
+  "date": "2026-10-27",
+  "source_main": "0776afd52001c2d9021b1749f7b936bc1dc4e37d",
+  "source_v02_proposed_branch": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+  "source_v02_blob": "d4b4a19f67772d4588b2ea7c3cd15b0b74e600fb",
+  "option": "B_PROPOSED_NOT_OWNER_SELECTED",
+  "source_original_research_files_in_B_proposal": 0,
+  "source_A_original_five_bytes": 41537,
+  "new_B_proposed_files": [
+    {
+      "id": "B1",
+      "path": "coordination/2026-10-27-ap00-source-strategy-option-b/02_OPTION_B_SOURCE_LIGHT_MOCK_SPEC_V01_PROPOSED.md",
+      "git_blob_sha1": "b8d477e00a965862bb6e3ac3ece6b1e00cecd5bb",
+      "sha256_utf8": "1e499670d1c554f77c6dbac64d715d9d5196a45fc711eddc2d50be76fcc8cd46",
+      "utf8_bytes": 8425,
+      "rights_status": "RIGHTS_UNRESOLVED",
+      "approved_for_external_copy": false
+    },
+    {
+      "id": "B2",
+      "path": "coordination/2026-10-27-ap00-source-strategy-option-b/03_OPTION_B_QA36_SOURCE_LIGHT_COVERAGE.csv",
+      "git_blob_sha1": "8055702ab7fab28619c565dc21defd7ba22be79b",
+      "sha256_utf8": "2df26fcbcfb35c3500550d54212c9e8d499777782a30f604d949009e993e48fe",
+      "utf8_bytes": 6966,
+      "rights_status": "RIGHTS_UNRESOLVED",
+      "approved_for_external_copy": false
+    }
+  ],
+  "new_B_total_utf8_bytes": 15391,
+  "original_QA_ID_coverage": "36/36",
+  "actual_software_tests_executed": 0,
+  "semantic_equivalence_with_F12": "REQUIRES_INDEPENDENT_TECHNICAL_REVIEW",
+  "rights_custodian_attestation": "NOT_RECEIVED",
+  "owner_AP00": "PENDING",
+  "owner_source_approach": "NOT_SELECTED",
+  "owner_AP01": "NOT_AUTHORIZED",
+  "owner_AP02": "NOT_AUTHORIZED",
+  "claude_transfer_authorized_manifest": [],
+  "G17": "HOLD",
+  "G18": "HOLD",
+  "production_skill_implemented": false,
+  "public_safe_purpose": "owner_review_documentation_only"
+}
