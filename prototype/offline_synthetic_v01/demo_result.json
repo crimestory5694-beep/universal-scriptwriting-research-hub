@@ -1,0 +1,50 @@
+{
+  "status": "RESEARCH_ONLY_TERMINAL",
+  "label": "RESEARCH_ONLY_NOT_PUBLISHABLE",
+  "production_allowed": false,
+  "claude_transfer_allowed": false,
+  "independent_human_review_performed": false,
+  "hold_reasons": [],
+  "stage_status": {
+    "A00": "CHECKED",
+    "A01": "CHECKED",
+    "A02": "CHECKED",
+    "A03": "CHECKED",
+    "A04": "CHECKED",
+    "A05": "CHECKED",
+    "A06": "CHECKED",
+    "A07": "MOCK_DRAFT_GENERATED",
+    "A08": "CHECKED",
+    "A09": "DESIGN_ONLY_NO_ANALYTICS",
+    "A10": "RESEARCH_ONLY_TERMINAL"
+  },
+  "artifact": {
+    "title": "How Could Orion Station Observe Pale Comet?",
+    "primary_niche": "N05",
+    "applied_niches": [
+      "N05"
+    ],
+    "claim_ids": [
+      "C-1"
+    ],
+    "source_ids": [
+      "SYN-1"
+    ],
+    "sections": [
+      {
+        "heading": "Opening question",
+        "text": "This is an entirely fictional example, not real reporting. How might Orion Station relate to Pale Comet through a scheduled fictional observation? The starting assertion remains could."
+      },
+      {
+        "heading": "Invented evidence",
+        "text": "The fictional case provides these bounded observations: According to a simulated record, the imaginary telescope may collect two simulated observations."
+      },
+      {
+        "heading": "Limits and unresolved questions",
+        "text": "These invented claims illustrate how an outline can preserve topic identity and attribution. A real documentary would need independently verified sources and authorized human review."
+      }
+    ],
+    "draft": "Opening question\nThis is an entirely fictional example, not real reporting. How might Orion Station relate to Pale Comet through a scheduled fictional observation? The starting assertion remains could.\n\nInvented evidence\nThe fictional case provides these bounded observations: According to a simulated record, the imaginary telescope may collect two simulated observations.\n\nLimits and unresolved questions\nThese invented claims illustrate how an outline can preserve topic identity and attribution. A real documentary would need independently verified sources and authorized human review.",
+    "label": "RESEARCH_ONLY_NOT_PUBLISHABLE"
+  }
+}
