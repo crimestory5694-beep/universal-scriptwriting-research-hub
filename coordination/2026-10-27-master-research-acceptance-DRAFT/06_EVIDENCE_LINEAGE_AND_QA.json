@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-10-27",
+  "status": "DRAFT_NO_OWNER_APPROVAL",
+  "source_main_sha": "65f606ccb9067e642587d9521e016e98f4ba715c",
+  "original_source_git_blob_sha1": {
+    "s4k": "e421c5917e580f66b08432ea37ab3a9db761c43b",
+    "s5k": "ef3a6463d208c3e5dd4bd8bca9f584b390ffb1ad",
+    "s3k": "f60477edf502f775730661a9baf67f26dbe50316",
+    "s4g": "188d9ba800a4391a47aca1645a9522b984646982",
+    "s5g": "ce1df59caca89ea7d5ec99bf2b7349b3695c98d4",
+    "niche": "31323edaded1a61f1030bb50d6b53911b0e4527a",
+    "c": "d07658bc3bebd80d03eee1b354d60a8f771afcee",
+    "b": "59292d0f3807f24ae4bb3bac219a777e3818a4d9"
+  },
+  "source_lengths": {
+    "S4_K": 48,
+    "S5_K": 48,
+    "S3_K": 48,
+    "S4_G": 19,
+    "S5_G": 19,
+    "edited_niche_cases": 38,
+    "all_niche_cases": 240,
+    "source_finding_C": 16,
+    "B_source_hash_rows": 10
+  },
+  "original_ledger_modified": false,
+  "owner_skill_permission": false,
+  "claude_code_transfer": false,
+  "production_workflow_deployed": false,
+  "new_EDU_C_ids": 0,
+  "K_counts": {
+    "DRAFT_ACCEPT_BOUNDED_RESEARCH_DESCRIPTION": 36,
+    "DRAFT_AMENDMENT_AWAIT_OWNER": 9,
+    "QUARANTINE_NO_TRANSFER": 3
+  },
+  "owner_gates_not_cleared": 19,
+  "T_tests_executed": 0,
+  "read_only_proposed_scope": true,
+  "rights": "PUBLIC_SAFE_ORIGINAL_SUMMARY_AND_ALREADY_PUBLIC_IDENTIFIERS"
+}

@@ -1,0 +1,12 @@
+conflict_id,source_and_gate_ids,type,observed_evidence,draft_research_handling,required_next_authorized_action
+MX01,G04;EDU-SRC0139-0147,HASH_INPUT_BOUNDARY,Worker B full-section SHA 10/10 equals frozen; 9 body-only differ,DOCUMENT_EXPLANATION; DO_NOT_CLOSE_91_PROVENANCE_STATUS,Archive custodian confirm section split and classify as append-only note
+MX02,G07;SV-01;F-190;R163,RANDOMIZATION_OVERCLAIM,Parallel comparison; original Methods do not establish assignment randomization,F190_UNVERIFIED_K031_QUARANTINED,Scientific reviewer may create derived erratum but not original ledger rewrite
+MX03,G02;SV-05;S08,THIRD_PARTY_LICENSE,S08 noncommercial and no derivative license in worker C sample,EXCLUDE_REUSE_UNLESS_PERMISSION,Rights custodian assesses exact files/licenses; no restricted bytes in prototype
+MX04,G03;B70-B72,ORIGINAL_ARCHIVE_ABSENT,"Exact SHA 5df730... / 15,051,407 bytes still missing; surrogate differs",KEEP_MISSING; REJECT_SURROGATE_AS_ORIGINAL,Archive custodian recover byte-exact copy if available
+MX05,G05;G06,LEGACY_ARCHIVE_EXCEPTIONS,B25 outer hash mismatch; B58 incomplete fragment; B06 self-hash conflict,PRESERVE_AND_SCOPE_EXCLUDE,"Detached notes, maintain original bytes"
+MX06,G08;R052;K043,BLOCKED_PRIMARY,NPR R052 uninspected; QA independent claims sourced elsewhere,NO_R052_POSITIVE_SOURCE_CLAIM,Use lawful readable primary alternative after review
+MX07,G09;SV-02;SV-03;SV-04;SV-13;SV-14,METHOD_LICENSE_DEPTH,S39/S40 migration proof absent; 63 S /171 R not fully checked; license conflicts,HOLD_WHOLE_REPO_TRANSFER,"Only scoped, independently reviewed author-owned summaries may be transferable"
+MX08,G11;T01-T13,VALIDATION_NOT_PERFORMED,13 T test designs 0 executed; eight A1 cases not cleared,RESEARCH_PLANS_ONLY,"Separately authorize rights, participants, staffing, budget, conduct"
+MX09,G17;G18;G19,IMPLEMENTATION_APPROVAL_CHAIN,"Separate Claude workspace, skill implementation and Codex QA not authorized",CLAUDE_TRANSFER_HOLD; SKILL_NO_GO,"Owner separately authorizes limited development, scoped workspace, then Codex QA"
+MX10,G13;G14;G12;G15,NICHE_AUTHORITY,"Weather source time, military capability, historical quotes and synthetic depictions require authentic evidence",HOLD_ACTUAL_NICHE_USE,Case-by-case domain editor authorization
+MX11,S5-F01-F15,SCOPE_CORRECTIONS,"Nine amended K, 38 niche warnings, 3 quarantined",DECISIONS_DRAFT_NOT_CANONICAL,Owner accepts/rejects new derivative specification revisions

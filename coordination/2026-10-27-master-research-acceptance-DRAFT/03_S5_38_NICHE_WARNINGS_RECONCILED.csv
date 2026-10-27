@@ -1,0 +1,39 @@
+K_id,niche,issue_code,S5_original_cell_verdict,draft_master_resolution,research_fixture_only,owner_approval
+K007,USA_WEATHER,INDEPENDENCE_STAFFING_FALLBACK,CONDITION_NARROWING_OR_HOLD,"Separate research, drafting, and independent reviewer lanes. Specify fallback when only one reviewer exists; never call self-check independent.",YES,NO
+K007,MILITARY_AVIATION,INDEPENDENCE_STAFFING_FALLBACK,CONDITION_NARROWING_OR_HOLD,"Separate research, drafting, and independent reviewer lanes. Specify fallback when only one reviewer exists; never call self-check independent.",YES,NO
+K007,GERMAN_WW1_WW2_HISTORY,INDEPENDENCE_STAFFING_FALLBACK,CONDITION_NARROWING_OR_HOLD,"Separate research, drafting, and independent reviewer lanes. Specify fallback when only one reviewer exists; never call self-check independent.",YES,NO
+K007,DISASTER_DOCUMENTARY,INDEPENDENCE_STAFFING_FALLBACK,CONDITION_NARROWING_OR_HOLD,"Separate research, drafting, and independent reviewer lanes. Specify fallback when only one reviewer exists; never call self-check independent.",YES,NO
+K007,GENERAL_LONG_FORM,INDEPENDENCE_STAFFING_FALLBACK,CONDITION_NARROWING_OR_HOLD,"Separate research, drafting, and independent reviewer lanes. Specify fallback when only one reviewer exists; never call self-check independent.",YES,NO
+K027,MILITARY_AVIATION,MILITARY_CAPABILITY_UNDERWEIGHTED,CONDITION_NARROWING_OR_HOLD,"When asserting capabilities, require separately supported procurement / prototype / test / delivery / operational fielding stage; not a fixed script trick.",YES,NO
+K028,GERMAN_WW1_WW2_HISTORY,GERMAN_ARCHIVE_CHECK_UNDERWEIGHTED,CONDITION_NARROWING_OR_HOLD,"For asserted German historical date/place/quotation, use case-linked archival authentication or explicitly unresolved; no invented quotation.",YES,NO
+K029,USA_WEATHER,K029_LEGACY_FIT_OVERRIDDEN_BY_HOLD,CONDITION_NARROWING_OR_HOLD,Quarantine psychological-effect claim across all niches.,YES,NO
+K029,MILITARY_AVIATION,K029_LEGACY_FIT_OVERRIDDEN_BY_HOLD,CONDITION_NARROWING_OR_HOLD,Quarantine psychological-effect claim across all niches.,YES,NO
+K029,GERMAN_WW1_WW2_HISTORY,K029_LEGACY_FIT_OVERRIDDEN_BY_HOLD,CONDITION_NARROWING_OR_HOLD,Quarantine psychological-effect claim across all niches.,YES,NO
+K029,DISASTER_DOCUMENTARY,K029_LEGACY_FIT_OVERRIDDEN_BY_HOLD,CONDITION_NARROWING_OR_HOLD,Quarantine psychological-effect claim across all niches.,YES,NO
+K029,GENERAL_LONG_FORM,K029_LEGACY_FIT_OVERRIDDEN_BY_HOLD,CONDITION_NARROWING_OR_HOLD,Quarantine psychological-effect claim across all niches.,YES,NO
+K032,GENERAL_LONG_FORM,GENERAL_ECONOMICS_EXCEPTION,CONDITION_NARROWING_OR_HOLD,Admit financial decision framing only for actually finance/economics-relevant long-form case; no universal transfer.,YES,NO
+K033,USA_WEATHER,LIVE_ONLY_CONTEXT,CONDITION_NARROWING_OR_HOLD,Offer rolling/live play-by-play recap only when the case genuinely updates live; not all pre-edited documentaries.,YES,NO
+K033,MILITARY_AVIATION,LIVE_ONLY_CONTEXT,CONDITION_NARROWING_OR_HOLD,Offer rolling/live play-by-play recap only when the case genuinely updates live; not all pre-edited documentaries.,YES,NO
+K033,GERMAN_WW1_WW2_HISTORY,LIVE_ONLY_CONTEXT,CONDITION_NARROWING_OR_HOLD,Offer rolling/live play-by-play recap only when the case genuinely updates live; not all pre-edited documentaries.,YES,NO
+K033,DISASTER_DOCUMENTARY,LIVE_ONLY_CONTEXT,CONDITION_NARROWING_OR_HOLD,Offer rolling/live play-by-play recap only when the case genuinely updates live; not all pre-edited documentaries.,YES,NO
+K033,GENERAL_LONG_FORM,LIVE_ONLY_CONTEXT,CONDITION_NARROWING_OR_HOLD,Offer rolling/live play-by-play recap only when the case genuinely updates live; not all pre-edited documentaries.,YES,NO
+K034,USA_WEATHER,WILDLIFE_SCOPE_OVERGENERALIZATION,CONDITION_NARROWING_OR_HOLD,Constrain wildlife-compression discussion to actually applicable sequence reconstruction; never treat as five-niche universal.,YES,NO
+K034,MILITARY_AVIATION,WILDLIFE_SCOPE_OVERGENERALIZATION,CONDITION_NARROWING_OR_HOLD,Constrain wildlife-compression discussion to actually applicable sequence reconstruction; never treat as five-niche universal.,YES,NO
+K034,GERMAN_WW1_WW2_HISTORY,WILDLIFE_SCOPE_OVERGENERALIZATION,CONDITION_NARROWING_OR_HOLD,Constrain wildlife-compression discussion to actually applicable sequence reconstruction; never treat as five-niche universal.,YES,NO
+K034,DISASTER_DOCUMENTARY,WILDLIFE_SCOPE_OVERGENERALIZATION,CONDITION_NARROWING_OR_HOLD,Constrain wildlife-compression discussion to actually applicable sequence reconstruction; never treat as five-niche universal.,YES,NO
+K034,GENERAL_LONG_FORM,WILDLIFE_SCOPE_OVERGENERALIZATION,CONDITION_NARROWING_OR_HOLD,Constrain wildlife-compression discussion to actually applicable sequence reconstruction; never treat as five-niche universal.,YES,NO
+K039,USA_WEATHER,SPONSOR_DISCLOSURE_SPLIT,CONDITION_NARROWING_OR_HOLD,Split mandatory paid-promotion/disclosure review from optional sponsor timing and descriptive retention metrics.,YES,NO
+K039,MILITARY_AVIATION,SPONSOR_DISCLOSURE_SPLIT,CONDITION_NARROWING_OR_HOLD,Split mandatory paid-promotion/disclosure review from optional sponsor timing and descriptive retention metrics.,YES,NO
+K039,GERMAN_WW1_WW2_HISTORY,SPONSOR_DISCLOSURE_SPLIT,CONDITION_NARROWING_OR_HOLD,Split mandatory paid-promotion/disclosure review from optional sponsor timing and descriptive retention metrics.,YES,NO
+K039,DISASTER_DOCUMENTARY,SPONSOR_DISCLOSURE_SPLIT,CONDITION_NARROWING_OR_HOLD,Split mandatory paid-promotion/disclosure review from optional sponsor timing and descriptive retention metrics.,YES,NO
+K039,GENERAL_LONG_FORM,SPONSOR_DISCLOSURE_SPLIT,CONDITION_NARROWING_OR_HOLD,Split mandatory paid-promotion/disclosure review from optional sponsor timing and descriptive retention metrics.,YES,NO
+K043,USA_WEATHER,R052_BLOCKED_SOURCE,CONDITION_NARROWING_OR_HOLD,Independent adversarial factual QA can rely on verified sources; R052 must remain blocked and never be cited as directly read.,YES,NO
+K043,MILITARY_AVIATION,R052_BLOCKED_SOURCE,CONDITION_NARROWING_OR_HOLD,Independent adversarial factual QA can rely on verified sources; R052 must remain blocked and never be cited as directly read.,YES,NO
+K043,GERMAN_WW1_WW2_HISTORY,R052_BLOCKED_SOURCE,CONDITION_NARROWING_OR_HOLD,Independent adversarial factual QA can rely on verified sources; R052 must remain blocked and never be cited as directly read.,YES,NO
+K043,DISASTER_DOCUMENTARY,R052_BLOCKED_SOURCE,CONDITION_NARROWING_OR_HOLD,Independent adversarial factual QA can rely on verified sources; R052 must remain blocked and never be cited as directly read.,YES,NO
+K043,GENERAL_LONG_FORM,R052_BLOCKED_SOURCE,CONDITION_NARROWING_OR_HOLD,Independent adversarial factual QA can rely on verified sources; R052 must remain blocked and never be cited as directly read.,YES,NO
+K045,USA_WEATHER,NATIVE_AUDIO_UNVERIFIED,CONDITION_NARROWING_OR_HOLD,"Text may undergo a readability desk check; timing, pauses and prosody require access to authentic performed audio, otherwise mark not checked.",YES,NO
+K045,MILITARY_AVIATION,NATIVE_AUDIO_UNVERIFIED,CONDITION_NARROWING_OR_HOLD,"Text may undergo a readability desk check; timing, pauses and prosody require access to authentic performed audio, otherwise mark not checked.",YES,NO
+K045,GERMAN_WW1_WW2_HISTORY,NATIVE_AUDIO_UNVERIFIED,CONDITION_NARROWING_OR_HOLD,"Text may undergo a readability desk check; timing, pauses and prosody require access to authentic performed audio, otherwise mark not checked.",YES,NO
+K045,DISASTER_DOCUMENTARY,NATIVE_AUDIO_UNVERIFIED,CONDITION_NARROWING_OR_HOLD,"Text may undergo a readability desk check; timing, pauses and prosody require access to authentic performed audio, otherwise mark not checked.",YES,NO
+K045,GENERAL_LONG_FORM,NATIVE_AUDIO_UNVERIFIED,CONDITION_NARROWING_OR_HOLD,"Text may undergo a readability desk check; timing, pauses and prosody require access to authentic performed audio, otherwise mark not checked.",YES,NO
