@@ -10,12 +10,12 @@
 - No new research batches, workers, scientific viewer-effect claims, third-party content import, or repeat audit cycles are in scope for the v0.1 milestone.
 
 ## Immediate, independently developed build milestone
-Create a **self-contained and wholly newly authored** Python-standard-library proof of concept, using entirely fictional, user-authored fixtures and **zero copied research-source files**. It may: validate intake and identities; apply five niche-specific synthetic safety checks; bind fictional claims to invented evidence; preserve subject/object/epistemic qualifiers; generate a basic illustrative paragraph draft; run deterministic QA tests; and refuse any production/release.
+Create a **self-contained and wholly newly authored** dependency-free standard-library proof of concept (the v0.1 selected engine uses Node.js ESM; no npm packages), using entirely fictional, user-authored fixtures and **zero copied research-source files**. It may: validate intake and identities; apply five niche-specific synthetic safety checks; bind fictional claims to invented evidence; preserve subject/object/epistemic qualifiers; generate a basic illustrative paragraph draft; run deterministic QA tests; and refuse any production/release.
 
 **No Claude transfer:** source-copy allowlist remains `[]`; no proprietary scripts, research originals, transcript bodies, real-event source materials or personal records go into the mock. No network, paid providers, model API, YouTube publishing, production `SKILL.md`, or human trials.
 
 ## Objective and acceptance evidence
-The next deliverable is **runnable code + a locally executable test suite + one working example** and results recorded from an actual Python execution. The mock must be explicitly non-production and report typed HOLD reasons rather than pretending a bad fixture succeeded. A designed test case is not an executed PASS.
+The next deliverable is **runnable code + an executable test suite + one working example** and results recorded from an actual Python execution. The mock must be explicitly non-production and report typed HOLD reasons rather than pretending a bad fixture succeeded. A designed test case is not an executed PASS.
 
 The v0.1 demo is NOT implementation of the complete eleven-module production system or an operational scriptwriting model. It is not adopted B1/B2 and must not be presented as rights- or release-cleared. A formal external build/Claude transfer still requires distinct owner/custodian authorization under AP-01/AP-02 in accordance with prior governance.
 
