@@ -1,0 +1,31 @@
+{
+  "kind": "EXECUTED_SYNTHETIC_ENGINE_REGRESSION_RECEIPT",
+  "executed_in": "isolated JavaScript V8 evaluation using exact GitHub-fetched engine function and JSON fixture bytes",
+  "executed_cases": 45,
+  "passed": 45,
+  "failed": 0,
+  "qa_001_036_cases": 36,
+  "extra_cases": 8,
+  "positive_fixture": 1,
+  "all_ids_exact": true,
+  "snippets_tested_from_exact_git_blobs": {
+    "engine": "de1579d87a604cedd0e668a30ba646de9ac7eb4c",
+    "sample": "52649ee85b7edf0b0ea90ff4bc1fd4ccb20cb084",
+    "case_matrix": "4dfc03b1d878138cf381318143d9653e2c9ad345",
+    "cli": "b33e8f17d59117dd4720f4b963c7df6d8b818103",
+    "runner": "c4957ea68fff7face1e2f3684f71caed7f2988f7"
+  },
+  "cli_and_test_runner_syntax_normalization_checks": {
+    "runner": true,
+    "cli": true
+  },
+  "example_status": "RESEARCH_ONLY_TERMINAL",
+  "example_production_allowed": false,
+  "notes": [
+    "No Node.js subprocess, operating-system isolation, publishing, code release, or network test was performed by this receipt.",
+    "Only V8 core logic was invoked; Node.js CLI uses the same pure engine source and independent runtime test script.",
+    "All evidence claims and events are wholly invented. No actual source, copyright, weather, military, incident, or human study verified.",
+    "No AP-00/01/02 or rights-custodian authorization asserted and no Claude bytes transferred."
+  ],
+  "failures": []
+}
