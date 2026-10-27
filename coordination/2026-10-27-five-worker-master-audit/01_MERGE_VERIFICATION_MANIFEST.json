@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-27",
+  "repository": "crimestory5694-beep/universal-scriptwriting-research-hub",
+  "starting_main": "fb04d86f1512e71ba571c10315fd4d6a9fa26200",
+  "after_merges_before_audit_commit": "e7b5de56412ec622910c3fc7e9bbcbcabeeb3aca",
+  "workers": [
+    {
+      "worker": "A",
+      "scope": "S5 independent audit",
+      "source_branch": "research/s5-audit",
+      "pr": 1,
+      "merged_sha": "8956aeb9c4010e3b48be516dceef397faf5f1ecb",
+      "added_files": 7,
+      "decision": "PASS_RESEARCH_ONLY"
+    },
+    {
+      "worker": "B",
+      "scope": "Historical recovery",
+      "source_branch": "research/history-recovery",
+      "pr": 2,
+      "merged_sha": "3f5a470af741f35471daacc680db547780b03e3d",
+      "added_files": 8,
+      "decision": "PASS_RESEARCH_ONLY"
+    },
+    {
+      "worker": "C",
+      "scope": "Source verification and rights",
+      "source_branch": "research/source-verification",
+      "pr": 3,
+      "merged_sha": "2d2c31fc762ef352d7825b932302fce34fc7363a",
+      "added_files": 5,
+      "decision": "PASS_RESEARCH_ONLY"
+    },
+    {
+      "worker": "D",
+      "scope": "Validation execution design",
+      "source_branch": "research/validation",
+      "pr": 4,
+      "merged_sha": "d3360c75f07d5acc20c2d42a17737a5338509cf8",
+      "added_files": 12,
+      "decision": "PASS_DESIGN_ONLY"
+    },
+    {
+      "worker": "E",
+      "scope": "Skill architecture design",
+      "source_branch": "research/skill-architecture",
+      "pr": 5,
+      "merged_sha": "e7b5de56412ec622910c3fc7e9bbcbcabeeb3aca",
+      "added_files": 10,
+      "decision": "PASS_DESIGN_ONLY"
+    }
+  ],
+  "added_files": 42,
+  "changed_existing_files": 0,
+  "deleted_files": 0,
+  "overlapping_worker_paths": 0,
+  "post_merge_verified_blob_equal": 42,
+  "independent_SHA256_manifest_check_counts": {
+    "A": 5,
+    "B": 0,
+    "C": 0,
+    "D": 10,
+    "E": 8
+  },
+  "independent_sha256_match_total": 23,
+  "remote_Git_SHA_and_byte_manifest_checked": {
+    "A": 5,
+    "B": 6,
+    "D": 10,
+    "E": 8
+  },
+  "source_C_findings": 16,
+  "source_C_lineage_input_records": 11,
+  "A_K": 48,
+  "A_niche": 240,
+  "A_gate": 19,
+  "D_T_designs": 13,
+  "D_T_executed": 0,
+  "D_A1_slots": 8,
+  "E_fixture_designs": 36,
+  "E_fixture_executed": 0,
+  "production_permission": false,
+  "rights_cleared_globally": false,
+  "original_B70_B72_recovered": false,
+  "nine_legacy_source_hashes_owner_reclassified": false,
+  "research_merge_status": "ACCEPTED",
+  "science_status": "UNVALIDATED",
+  "skill_implementation_status": "HOLD",
+  "claude_transfer_status": "HOLD"
+}
