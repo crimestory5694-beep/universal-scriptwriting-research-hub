@@ -1,0 +1,326 @@
+{
+  "title": "W8 independent remote-file-identity manifest",
+  "date": "2026-10-27",
+  "repository": "crimestory5694-beep/universal-scriptwriting-research-hub",
+  "original_main_sha": "0776afd52001c2d9021b1749f7b936bc1dc4e37d",
+  "worker_count": 8,
+  "files_verified_against_direct_full_Github_content_and_tree": 50,
+  "source_files_changed": 0,
+  "github_sha1_plus_utf8_bytes_check": "50/50 PASS",
+  "all_50_sha256_independently_recomputed": false,
+  "source_branch_trees": [
+    {
+      "id": "A",
+      "branch_head": "eede8f4f08938851020505b12afbe3da50d6d7a2",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/00_SPEC_REVIEW.md",
+          "git_blob_sha1": "7e170e70b9ac0f3558188e35aa6088606b3e57aa",
+          "utf8_bytes": 7311
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/01_WB_SEVEN_DECISION_MATRIX.csv",
+          "git_blob_sha1": "f1d778694256c2ea0b111f8f10d3b3e756794935",
+          "utf8_bytes": 3714
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/02_V02_GAPS_AND_ASSUMPTIONS.md",
+          "git_blob_sha1": "058af52cea4812ed702892d07306536f1cbcdde2",
+          "utf8_bytes": 6610
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/03_AP00_UNSIGNED_DECISION.md",
+          "git_blob_sha1": "feec14f4180b2ef9bccaeac6f1c49094bf849774",
+          "utf8_bytes": 2897
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/04_VERIFICATION_RECEIPT.md",
+          "git_blob_sha1": "27d36e3387d5f5eb6095b13fd48f03400c5cf84c",
+          "utf8_bytes": 3089
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-a-ap00/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "382a1e577c61b7ca798b0f16390723ea731edff0",
+          "utf8_bytes": 2827
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "branch_head": "c773415851de7bfa6d089de65aef9d3c0f878305",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/00_B1_INDEPENDENT_RIGHTS_SCREEN.md",
+          "git_blob_sha1": "154a5e0514005537c01cef38c94b89e573d4fe7b",
+          "utf8_bytes": 7643
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/01_B1_SECTION_LEVEL_RISK_LEDGER.csv",
+          "git_blob_sha1": "fb81bfca20aabca03f8aa707c95712e72674ff98",
+          "utf8_bytes": 8108
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/02_HASH_PROVENANCE_RECEIPT.md",
+          "git_blob_sha1": "a3c379e05afe7e99bd925c94b5db5c476440bab0",
+          "utf8_bytes": 1552
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/03_CUSTODIAN_EVIDENCE_REQUEST.md",
+          "git_blob_sha1": "0db0988cd1330f53730f4b4cdcbacc75e2f8eb89",
+          "utf8_bytes": 3742
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/04_QA_AND_REMOTE_READBACK.md",
+          "git_blob_sha1": "6e3df6be13a0fc8aaa23efec111e989e7bdedac1",
+          "utf8_bytes": 3377
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-b-b1-rights/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "1c6b1280913a49c048339758942d89e1c112c186",
+          "utf8_bytes": 2420
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "branch_head": "276d34586d752579ce4e99b00e8f8200a196bd44",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/00_B2_INDEPENDENT_RIGHTS_AUDIT.md",
+          "git_blob_sha1": "1417d61a9c7c971574eb106cf941aaa4b06c05b2",
+          "utf8_bytes": 6373
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/01_QA36_EXPRESSION_RISK_LEDGER.csv",
+          "git_blob_sha1": "3e83f3f2e323fb9fdeec66932483513732809736",
+          "utf8_bytes": 20808
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/02_B2_HASH_AND_SOURCE_LINEAGE.md",
+          "git_blob_sha1": "f6820b7c69935ef73aad97e9b90fce99b9f299e2",
+          "utf8_bytes": 3958
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/03_REWRITE_OR_EXCLUDE_PROPOSALS.md",
+          "git_blob_sha1": "a4354c953ce611f851713308756f4efc958a5e71",
+          "utf8_bytes": 5219
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/04_QA_REMOTE_READBACK.md",
+          "git_blob_sha1": "ca6104218104304d758a4a34452a4f39fe6cd88c",
+          "utf8_bytes": 3396
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-c-b2-rights/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "281142c833ba27636ec65961a912f9b3be335fdd",
+          "utf8_bytes": 2171
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "branch_head": "56da55635a974ff79c0f92883651591f1750b51d",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/00_CORE_COVERAGE_REVIEW.md",
+          "git_blob_sha1": "ca91cafb4ce740effc01d519b686bc7b2a0feb0e",
+          "utf8_bytes": 9413
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/01_A00_A10_TRACEABILITY.csv",
+          "git_blob_sha1": "f25f102b86b4eb7468812b82a6785f4cb744b5c8",
+          "utf8_bytes": 6763
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/02_DATA_AND_GATE_GAPS.md",
+          "git_blob_sha1": "9ee21dd7dfa26eec0895753de4d2a409a49eb696",
+          "utf8_bytes": 7323
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/03_MINIMUM_TECHNICAL_AMENDMENTS.md",
+          "git_blob_sha1": "e091793705d15036abc90ae9b6ba83f775906b09",
+          "utf8_bytes": 7551
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/04_VERIFICATION_QA.md",
+          "git_blob_sha1": "33ec23deb16462cebab4c1c967899ef1698ce475",
+          "utf8_bytes": 4590
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-d-core-coverage/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "e6014df9f1762e9a409766ce9e680ed3b55b544d",
+          "utf8_bytes": 5004
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "branch_head": "52a00c4fdc9b89780a1e98aab3ed6ffb9739c35d",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/00_NICHE_SAFETY_REVIEW.md",
+          "git_blob_sha1": "3e4efaa91ee577fd3077138ae54f9df327d176c2",
+          "utf8_bytes": 11190
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/01_FIVE_NICHE_GUARD_MATRIX.csv",
+          "git_blob_sha1": "0a0da81d60395f0e1d1a0545a6d704e8fed5e2d2",
+          "utf8_bytes": 8200
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/02_SYNTHETIC_COUNTEREXAMPLES.md",
+          "git_blob_sha1": "b3e110e75fb1d3f40b8a472392d443721e342b3a",
+          "utf8_bytes": 12358
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/03_CROSS_OVERLAY_FAIL_CLOSED_CHECKS.md",
+          "git_blob_sha1": "22f9d9fa8b77bae48a1fb602426a454629e4bb8b",
+          "utf8_bytes": 7574
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/04_REMOTE_QA_RECEIPT.md",
+          "git_blob_sha1": "dcc91b5cb6f725848e4722d5f834a46656b3a811",
+          "utf8_bytes": 4408
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-e-niche-safety/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "b408b113359b56af3f51af078e70f9328fc8b22a",
+          "utf8_bytes": 6041
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "branch_head": "9addf5ede4e7cd08b6dc6392e4143c4c6d8b2529",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/00_QA36_SEMANTIC_REVIEW.md",
+          "git_blob_sha1": "c53979b18748621efa7fd6b9b3c41262500b94b8",
+          "utf8_bytes": 25363
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/01_QA36_ONE_TO_ONE_COVERAGE.csv",
+          "git_blob_sha1": "b1e871c01afc635fa83f82822e6ddf4ed97204c3",
+          "utf8_bytes": 15682
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/02_GAPS_AND_PROPOSED_FIXES.md",
+          "git_blob_sha1": "4b0cc06c2d28bddd084a2890f69a0b834637dc62",
+          "utf8_bytes": 10976
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/03_OPTIONAL_NEW_B2_AMENDMENT_DRAFT.md",
+          "git_blob_sha1": "ca6f87d062c9f4a9aac30afd5b6985c7944e9871",
+          "utf8_bytes": 12678
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/04_VERIFICATION_RECEIPT.md",
+          "git_blob_sha1": "d3f8e197a7355616b34eea495857489eaa1425a0",
+          "utf8_bytes": 3985
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-f-qa36/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "92a8d2a964c5546fd302ea5a32f8c32ffd5ae404",
+          "utf8_bytes": 1896
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "branch_head": "0dbbabea790c9bdf1d42d17d13ad3ae5846cbad8",
+      "count": 6,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/00_OFFLINE_THREAT_MODEL.md",
+          "git_blob_sha1": "e1f2d7f91d5cf1ec799849ee6c3a2f79ee0bc148",
+          "utf8_bytes": 13127
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/01_SCOPE_SECURITY_CONTROL_MATRIX.csv",
+          "git_blob_sha1": "d3c850cb5e840a1ea933b147f2acb700f689b60f",
+          "utf8_bytes": 6271
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/02_APPROVED_INPUT_GATE_DESIGN.md",
+          "git_blob_sha1": "a940b4da7b3dfd2455300a8427c2fad0a01eec54",
+          "utf8_bytes": 7795
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/03_LOCAL_RUNTIME_OPTIONS_AND_NO_SPEND.md",
+          "git_blob_sha1": "21236e7e86aee68a4b99b752486d23e866b2912d",
+          "utf8_bytes": 6428
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/04_SECURITY_QA_RECEIPT.md",
+          "git_blob_sha1": "4c9ce392ac00bd5a24783888841f7d7462bc70d0",
+          "utf8_bytes": 5182
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-g-isolation/05_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "261b993a8a0e65b7721f5041ebd576696bd49196",
+          "utf8_bytes": 3936
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "branch_head": "0b70cf2a0fd608139f7e03fd18fd3d0507472c6c",
+      "count": 8,
+      "files": [
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/00_OWNER_DECISION_OVERVIEW.md",
+          "git_blob_sha1": "b38d7c51b4f27311e1f6eff63df7479005c7f912",
+          "utf8_bytes": 5621
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/01_AP00_AND_WB_UNSIGNED_FORM.md",
+          "git_blob_sha1": "1d54a55d57d3350e1bfd920032c115870ff26739",
+          "utf8_bytes": 3757
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/02_SOURCE_STRATEGY_ABC_UNSIGNED.md",
+          "git_blob_sha1": "20d95dd3419489c3a63f049b6e02b114f6a00b32",
+          "utf8_bytes": 5409
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/03_AP01_AP02_SEPARATE_FORMS.md",
+          "git_blob_sha1": "57492a48f6bf9cab0882adac2b034115714d25f4",
+          "utf8_bytes": 6654
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/04_RIGHTS_CUSTODIAN_CHECKLIST.md",
+          "git_blob_sha1": "144bc4563dd2031ecf5296c87261604620ac1351",
+          "utf8_bytes": 6988
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/05_OPEN_APPROVAL_DEPENDENCIES.csv",
+          "git_blob_sha1": "8f87b2826be064c04e4bb724f86e7632277eb36b",
+          "utf8_bytes": 6168
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/06_QA_REMOTE_READBACK.md",
+          "git_blob_sha1": "f2b47bd76def545093afe3b9d6ed62384702ccc1",
+          "utf8_bytes": 5071
+        },
+        {
+          "path": "coordination/2026-10-27-w8-preauthorization/worker-h-owner-choices/07_CONTINUATION_HANDOFF.md",
+          "git_blob_sha1": "496ced77d8e31bf8eb415dcee9feb7dcd3357c10",
+          "utf8_bytes": 5408
+        }
+      ]
+    }
+  ],
+  "AP00": "PENDING",
+  "AP01": "NOT_AUTHORIZED",
+  "AP02": "NOT_AUTHORIZED",
+  "approved_source_bytes": 0,
+  "external_transfer_allowlist": [],
+  "QA36_executed": 0,
+  "T01_T13_executed": 0
+}
