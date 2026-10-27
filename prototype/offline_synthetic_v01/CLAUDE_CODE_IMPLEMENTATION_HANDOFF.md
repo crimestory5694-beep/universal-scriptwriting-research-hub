@@ -1,66 +1,60 @@
-# CLAUDE CODE — BUILD THE ACTUAL UNIVERSAL SCRIPTWRITING SKILL (CANDIDATE)
+# CLAUDE CODE: CONTINUE ORIGINAL THREE-SOURCE PROJECT — CORRECTED IMPLEMENTATION HANDOFF
+Date: 2026-10-28. This REPLACES the prior zero-research / start-from-scratch handoff at this path.
 
-**Owner request, 2026-10-28:** Wave 8 research collection is frozen. Use **Claude Code as the implementation agent**, NOT ChatGPT or the initial Node.js demo as the final Skill. Perform implementation, not another research audit. This is a self-contained **newly authored instruction**, not a grant of rights to import prior repository contents.
+## Conversation selection
 
-## Important repository/isolation rule
+PREFER THE EXISTING CLAUDE CODE RESEARCH CHAT / WORKSPACE. Do not restart prior GitHub skill research or discard it. If context is full, open one new continuation chat with this entire handoff and the last verified Claude branch/commit; treat it as continuation, not a fresh project.
 
-The historical research repository `crimestory5694-beep/universal-scriptwriting-research-hub` includes materials whose **external reuse/Claude transfer rights are unresolved**. **DO NOT clone, mirror, bulk-download, recursively browse or import this research repository in a Claude Cloud environment**, even if a GitHub URL or branch was mentioned as a checkpoint. Reading/using a GitHub public repository is not proof of permission to copy all its contents to an external workspace.
+## Actual owner-defined research → Skill pipeline
 
-Start inside a **new, empty, separately owned implementation repository or empty local working folder** approved by the owner. The only initial source input is the original instruction in this handoff, **pasted by the owner directly into Claude Code**. Do not fetch Wave 8 B1/B2, transcripts, archives, unpublished source records or internal files. The historical wave checkpoint is a project tracking label only: `0416f7bcbd2cb939fb95aafb09afa63d258116dc`. Current allowed external research-source file manifest: `[]`.
+The original project merged THREE research streams before Claude Code would build the reusable Universal Scriptwriting Skill:
 
-If a connected cloud Claude Code session requires a repository, use a new clean, isolated repository. Do not choose the existing research hub as the session's repository. If you cannot establish isolation, explain the precise blocker; still create complete local original source files and tests in a suitably isolated working folder if available, rather than reopening research.
+1. CLAUDE / GitHub research: Study existing public Skill repositories and SKILL.md patterns, compare architectures, tests, workflow, conditional authoring and licensing. Reuse Claude's ALREADY COLLECTED artifacts from its existing chat and its separate GitHub working repository.
+2. CHATGPT / real-world web evidence: Official guidance, original academic and professional sources, research-backed storywriting evidence, contradictions, applicability, S/R/F/K/RW crosswalks and quality gates.
+3. OWNER-SUPPLIED YOUTUBE TRANSCRIPTS + CHATGPT analysis: Real video examples, legitimate supplied captions, Script DNA (hook, narrative movement, pacing, open loops, payoff), limitations and counterexamples. Use original analytical summaries instead of redistributing protected caption bodies.
 
-## Role
+First INTEGRATE the existing findings (proper provenance and rights handling). Then implement a tested Skill. No new 63-repository crawl, no new giant education batch and no research-loop restarts.
 
-You are **Claude Code, lead implementation engineer and Skill author**. Deliver an *actually runnable, tested, source-free candidate Universal Scriptwriting Skill*. Write actual files and tests, not merely an architecture plan, progress report or handoff. Do not run third-party paid APIs, use secrets, scrape YouTube or fetch external protected transcripts. Do not make a production publication or external-file transfer.
+## Verified ChatGPT GitHub archive inventory
 
-## What the user is trying to obtain
+PUBLIC REPO: crimestory5694-beep/universal-scriptwriting-research-hub
+MAIN CHECKPOINT: 0776afd52001c2d9021b1749f7b936bc1dc4e37d
+WAVE 8 RESEARCH CHECKPOINT (DRAFT/UNMERGED): research/w8-final-master-reconciliation-v02 at 0416f7bcbd2cb939fb95aafb09afa63d258116dc
 
-A reusable Claude-driven documentary scriptwriting Skill supporting five styles:
-- N01: USA weather documentary
-- N02: military / aviation / current conflict documentary
-- N03: German WWI/WWII human-story documentary
-- N04: disaster documentary
-- N05: general explainer / psychology documentary
+These EXACT paths have been checked on main:
 
-The target is factual, evidence-linked 15–25 minute narration in English, except N03 can generate German after qualified German source-language review. The Skill must preserve topic **subject**, **object**, source attribution, modal language, geographic/time scope, uncertainty and supported mechanism. The exact narration length is a user input (e.g. 2,500–3,000 words), not an invented universal effectiveness law.
+- tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Claude_Code_GitHub_Skill_Research.md (the original Claude GitHub-only agent brief)
+- tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Universal_Scriptwriting_GitHub_Research_Archive_S01-S63.md (GitHub S01–S63 archive, source tiers, licensing and limitations)
+- tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/ChatGPT_Real_World_Script_Research.md
+- tracks/01-knowledge-extraction-inventory/source-files/director-recovery-2026-10-24/Parallel_Scriptwriting_Research_Protocol.md (original Claude + ChatGPT + integration logic)
+- tracks/05-evidence-extraction-batch-two/verified-batch2/ (real-world evidence crosswalk, contradictions, copyrights)
+- tracks/03-research-synthesis-package/source-files/controlled-synthesis-2026-10-19/ (conditional technique synthesis)
+- coordination/RESEARCH_INTEGRATION_K001_K048_2026-10-24.csv (technique proposals)
+- tracks/04-youtube-script-research/source-files/2026-10-18-script-dna-pilot/ (V01–V12 Script DNA and source/rights registers)
+- tracks/07-educational-transcript-batches/ (EDU transcript analysis indexes; private original transcript archives NOT fully public)
+- worker-deliverables/skill-architecture/2026-10-27/ (11-module architecture, five adapters, proposed QA36)
+- coordination/CLAUDE_TRANSFER_GATE.md (rights/provenance and transfer gate)
 
-## Required actual deliverables
+The owner also has an EXISTING CLAUDE RESEARCH GITHUB REPO. Its exact repo/branch has NOT been verified in this ChatGPT GitHub connection. FIRST recover it from the EXISTING Claude session; do not mistakenly assume it is the same as the above ChatGPT archive.
 
-1. `candidate_skill/SKILL_CANDIDATE.md`: newly written candidate instructions organized into meaningful stages, with testable input/output contracts and no claim of production approval. The eventual deployable `.claude/skills/universal-scriptwriting/SKILL.md` is **not** approved; do not install/deploy it in this task.
-2. `candidate_skill/modules/`: **11 independently understandable modules A00–A10**, with A00 intake, A01 source/rights registry, A02 evidence admission, A03 context policies, A04 atomic claims, A05 narrative options, A06 topic/outline lock, A07 draft generation, A08 independent review, A09 output quality/metric separation, A10 release denial. A06 can have internal pre-lock and final-lock milestones so A05 is not circular. Explicit versioned inputs/outputs and typed HOLD reasons.
-3. `candidate_skill/adapters/`: exactly N01–N05. Policies accumulate; no implicit permissive fallback for unknown hazard/domain. Explicitly label synthetic visuals vs. authentic source media, quotation status, language uncertainties, and false impact claims.
-4. `candidate_skill/contracts/`: original, self-authored JSON Schemas or equivalent validators for TopicLock, SourceRecord, EvidenceLink, AtomicClaim, PolicySet, DraftSpan, ReviewPacket, RunBundle. Use separate `retrieved_at` and `reviewed_at`; source byte hash only if really calculated. Multiple HOLD reasons must never be discarded.
-5. `candidate_skill/runner/`: runnable **offline**, **zero-dependency if practical** interface taking fictional JSON fixtures and emitting an outline, source/claim matrix, structured synthetic script draft, and typed QA/HOLD report. No actual web browsing or external service in this prototype.
-6. `candidate_skill/tests/`: executable positive and adverse cases, including all **36 distinct QA-001...QA-036 synthetic test *intents***, invented from this contract. Never copy the historical QA test case wording or original restricted archives. Add explicit no-release/no-transfer and multi-overlay checks.
-7. `candidate_skill/demo/`: at least one complete, understandable invented documentary example, plus expected test commands, observed stdout/test report and reproducible output.
-8. `BUILD_RESULT.md`: actual file list, git commit SHA if available, exact tests executed and PASS/FAIL (do not claim checks that were not run), demonstrated shortcoming(s), and one specific next engineering milestone.
+An archival reference/link is NOT approval to copy source bytes. AP-02 exact-file external Claude transfer is still unset (empty approved manifest). Do not bulk clone, download private transcript ZIPs, or mirror the public research hub into Claude's cloud workspace without owner approval of specific files and applicable rights. Reuse previously available Claude-original results; for additional inputs make a short explicit safe-summary candidate manifest and identify any rights blocker. Use the research for its authorized original analyses and evidence pointers, not to clone third-party copyrighted scripts.
 
-## Functional definition of done
+## Required implementation sequence in CURRENT CLAUDE CHAT
 
-- The candidate can process one input document end to end and produce actual sections with linked fictional source/claim IDs. A section must not be filled with unsupported invented factual assertions; if evidence is insufficient, emit `HOLD_INSUFFICIENT_EVIDENCE` rather than padding words.
-- Show working topic subject/object lock, uncertainty preservation, source roles, frozen review revisions, five niche guard overlays, no fabricated real event assertions, and HOLD reasons that can co-exist.
-- If enough fully fictional evidence exists to support a 2,500–3,000-word example, produce one. Otherwise produce an honest shorter sample plus a failing full-length scenario that explicitly reports missing evidence/coverage. **Never inflate script length or fake completion.**
-- Execute tests using the actual implementation runtime. A CSV labeled DESIGN_ONLY does not count as an executed test.
-- Do not assert scientifically proven hook/retention improvement, copyright clearance, independence of a real human reviewer or production readiness without proper evidence.
-- Every generated artifact includes `RESEARCH_ONLY_NOT_PUBLISHABLE`, `production_allowed=false`, and `claude_transfer_allowed=false`.
-- Never publish/deploy an active Skill or use true historical scripts, news, private files or claims for testing.
+PHASE 1 — RECOVER, NOT RESEARCH: Show actual Claude GitHub repo and saved source-architecture artifacts, plus already accessible ChatGPT/YouTube synopsis inventories. Distinguish actual accessible files from merely referenced ones. One compact checkpoint, then proceed.
 
-## Run order — strict
+PHASE 2 — EVIDENCE INTEGRATION: Map existing GH/S source design patterns to R/F/K/RW real-world findings and V/EDU YouTube observations. One compact crosswalk: rule, original source IDs/links, independence, conflicts, scope, conditionality, exception, copyright/reproduction status and exact QA fixture. Classify rules as UNIVERSAL, CONDITIONAL, EXPERIMENTAL or REJECTED; no causal audience-retention claims based on views or repeated GitHub patterns.
 
-1. Create an isolated empty working tree, choose a new project branch; write a minimal project README and module skeleton. **Do not begin another educational or source audit.**
-2. Implement the working contracts, small engine and adapter checks. Use self-authored fictional test fixtures only.
-3. Implement the candidate Skill instructions and real script-drafting path, with citation/claim traceability.
-4. Run an executable test suite, fix failed functional tests, produce one generated output and a test receipt.
-5. Commit/push only newly authored source-safe implementation files **if the owner has granted repository write access**, leave changes on a feature branch or DRAFT PR, never merge to protected/main without explicit approval.
-6. Return a compact completion report including paths, tested counts, runnable command, demonstrated demo, known limitations and next owner decision.
+PHASE 3 — ACTUALLY BUILD: In a NEW implementation branch of the OWNER-APPROVED Claude project (not a new research track), author a candidate SKILL_CANDIDATE.md, A00–A10 stage references, N01–N05 domain adapters (USA weather; military/aviation/conflict; German war-era human stories; disasters; psychology/general explainers), reusable JSON contracts and a runnable scriptwriting workflow with title/topic lock, research claims, blueprint, narrative, editorial polish, evidence checks and HOLD status.
 
-## Stops, not rabbit holes
+PHASE 4 — SHOW SCRIPT OUTPUT: Demonstrate meaningful multi-section original synthetic documentary narration, not merely a tiny template or outline. Specify duration and section word budgets. If 2,500–3,000 words cannot be supported by sufficient fictional evidence, report honest HOLD rather than padding invented facts. Trace fictional source/claim IDs.
 
-NO new education batches, rights research loops, 8-worker parallel audits, PR merges, research archives, giant architectural documents, or vague claims of 'ready'. If a rights/access dependency actually blocks use of historical source, leave it out and continue the completely independent source-free candidate. Build and test before elaborating further governance. Ask the owner only if working directory or authorized source scope is genuinely unavailable.
+PHASE 5 — ACTUALLY TEST: Run at least 36 independently authored adverse/positive synthetic checks plus integration cases and record true executed results, output and failure fixes. Do not equate the historical 36 design rows with executed tests. No unauthorized paid services, data transfer, publication or release.
 
-## Governance
+PHASE 6 — DELIVERY: Commit only rights-safe newly authored work to an isolated Claude implementation feature branch/draft PR (no merge) and report actual Skill candidate files, produced script, command, executed test results, final commit, blockers and next engineering step in Roman Urdu.
 
-This is authorization to **prepare and test a non-production, independently authored candidate in an isolated workspace** only to the extent the owner's Claude environment permits. It is not a formal signed AP-01 implementation grant, a specific AP-02 file-transfer licence, a rights-custodian certification, production G18 release, or permission to import historical source bytes. Keep external source manifest `[]`; production and release HOLDS remain closed.
+## Nonnegotiable source safety and approval boundaries
 
-**User-facing final reply: Roman Urdu. Source code, candidate Skill and test documentation: English.**
+GitHub S01–S63 means 63 recorded entries, NOT 63 independently effective or fully licensed methods. Real captions may be inaccurate; no raw transcripts in public or cloud transfer unless authorized. F-190 cannot be positive evidence; R052 blocked; K029–K031 quarantined; B70–B72 original source availability has caveats. Full source-rich private archives must stay private. Prior AP-00/01/02 forms are not signed by virtue of this handoff. Building a new source-free/nonproduction candidate must not be misrepresented as production authorization or a complete rights release. Preserve original IDs, caveats and independent review requirements.
+
+DO NOT ask the user to repeat ten days of research. Do not say the Node prototype is the final Skill. Do not start a new evidence collection wave. Use existing Claude chat, existing collected data and actual verified material to proceed to implementation.
