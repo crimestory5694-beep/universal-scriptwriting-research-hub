@@ -1,0 +1,50 @@
+{
+  "audit_id": "PRE_CLAUDE_13_FILE_RIGHTS_ALLOWLIST_2026_10_27",
+  "source_commit": "ea07c53375e64ebbd6724a35a57d1b245526d1a8",
+  "input_main_before_this_audit": "fe15b0f8eb73f232f8e48e75ffdb7aed67c504c3",
+  "appendix_zip_sha256": "22db3c06d2b59af958966f1f5923314a6bcd5449484df17a85da00a78a5230d5",
+  "appendix_rows": 13,
+  "appendix_zip_members": 3,
+  "appendix_zip_crc_pass": 3,
+  "original_candidate_git_blobs_match": 13,
+  "original_candidate_missing": 0,
+  "original_candidate_sha_mismatch": 0,
+  "github_repository_visibility": "public",
+  "github_root_LICENSE_present": false,
+  "github_license_metadata": null,
+  "transfer_rights_global_clearance": false,
+  "content_classification": {
+    "conditional_candidates": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06",
+      "F07",
+      "F08",
+      "F09",
+      "F10",
+      "F12"
+    ],
+    "pending_link_scope": [
+      "F11"
+    ],
+    "excluded_from_implementation_payload": [
+      "F13"
+    ],
+    "approved_for_claude_transfer": []
+  },
+  "data_rights_review": "BOUND_CONTENT_SCREEN_NOT_LEGAL_CLEARANCE",
+  "owner_AP01": "NOT_AUTHORIZED",
+  "owner_AP02": "NOT_AUTHORIZED",
+  "production_SKILL": "HOLD",
+  "T01_T13_executed": 0,
+  "scope": "research_summaries_and_metadata_only",
+  "git_repo_original_data_modified": false,
+  "verified_file_blobs": {
+    "report": "9a014574284ca7e4fb64bd09b072fabc71cdca16",
+    "row_ledger": "0ae51e59d0e4e5d934f8b17a68d92a33f5013dc4",
+    "exclusions": "c110ba6ac4b976277e8df58eb61726fd5c73011d"
+  }
+}
