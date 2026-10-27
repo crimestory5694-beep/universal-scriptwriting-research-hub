@@ -1,0 +1,220 @@
+{
+  "title": "Final 3-worker owner-review research-only master manifest",
+  "date": "2026-10-27",
+  "repository": "crimestory5694-beep/universal-scriptwriting-research-hub",
+  "baseline_main": "0776afd52001c2d9021b1749f7b936bc1dc4e37d",
+  "pr10_head": "afa8600bcb62b26e9b2101ba732e7f7259d41c6c",
+  "pr10_state": "OPEN_DRAFT_UNMERGED",
+  "master_report_branch": "research/ap-final-three-worker-master-audit",
+  "worker_documents_verified": 28,
+  "worker_source_git_blobs_and_utf8_bytes_matched": "28/28",
+  "source_sha256_worker_reports_read_but_all_28_not_independently_recomputed_by_master": true,
+  "original_research_files_modified": 0,
+  "claude_transfer_authorized_files": 0,
+  "claude_export_bytes": 0,
+  "owner_AP00": "PENDING",
+  "owner_AP01": "NOT_AUTHORIZED",
+  "owner_AP02": "NOT_AUTHORIZED",
+  "G17": "HOLD",
+  "G18": "HOLD",
+  "QA36_executed": 0,
+  "T01_T13_executed": 0,
+  "worker_file_ledger": [
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/00_AP00_SPECIFICATION_REVIEW.md",
+      "git_blob_sha1": "7c47afb078c927a3e90b38590306b43e53ab3fd6",
+      "utf8_bytes": 6211
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/01_F02_DERIVATIVE_INTEGRITY_REPORT.md",
+      "git_blob_sha1": "b28c915b08a1b031d1253b431affdadc3efab164",
+      "utf8_bytes": 3630
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/02_WB_C01_C07_DECISION_MATRIX.csv",
+      "git_blob_sha1": "cf6792824a31ca101a318d5c544cf2ee2e19ad79",
+      "utf8_bytes": 5790
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/03_PROPOSED_PROTOTYPE_SPEC_V02.md",
+      "git_blob_sha1": "d4b4a19f67772d4588b2ea7c3cd15b0b74e600fb",
+      "utf8_bytes": 11902
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/04_V01_V02_CHANGELOG_AND_COMPATIBILITY.md",
+      "git_blob_sha1": "d415169524a1220c68050e7a81ca89779935813e",
+      "utf8_bytes": 4430
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/05_QA36_SPECIFICATION_COMPATIBILITY.md",
+      "git_blob_sha1": "b5a3cad7fca55693b90334b8b7b315e5ab8c58ef",
+      "utf8_bytes": 4740
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/06_OWNER_AP00_DECISION_DRAFT.md",
+      "git_blob_sha1": "9e85a1bc806670c20e4872bddd0dd315978272d0",
+      "utf8_bytes": 3136
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/07_SOURCE_MANIFEST_AND_QA_RECEIPT.md",
+      "git_blob_sha1": "b6de6c53a237d45dc9d81dc01b4509c1eafe9b2d",
+      "utf8_bytes": 5742
+    },
+    {
+      "worker": "A",
+      "source_branch_commit": "9ed29940cc435520ae64e12df95d8823a8e7fc41",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-a-ap00/08_CONTINUATION_HANDOFF.md",
+      "git_blob_sha1": "15b16f36fe817f51ed69a9c0339274e42445c183",
+      "utf8_bytes": 2827
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/00_INDEPENDENT_RIGHTS_REVIEW.md",
+      "git_blob_sha1": "cc6280c5cf934ad797d00ae0660147567538ac36",
+      "utf8_bytes": 14704
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/01_SIX_FILE_CONTENT_PROVENANCE_LEDGER.csv",
+      "git_blob_sha1": "4e2438e40fbe9ddc62ede0c39c4b4bad54904aea",
+      "utf8_bytes": 5989
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/02_SHA256_AND_GIT_BLOB_VERIFICATION.md",
+      "git_blob_sha1": "e730446ac6734cd5befc935464b4efcd75472778",
+      "utf8_bytes": 3188
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/03_THIRD_PARTY_RIGHTS_RISK_REGISTER.md",
+      "git_blob_sha1": "7b94de9e6bf3331e34c83815471ff53cdbd07147",
+      "utf8_bytes": 4395
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/04_MINIMUM_SOURCE_OPTIONS_COMPARISON.md",
+      "git_blob_sha1": "b082ba80c25d8247f556e9c50889ca1c7bcc128e",
+      "utf8_bytes": 4104
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/05_RECOMMENDED_RIGHTS_REVIEW_QUEUE.md",
+      "git_blob_sha1": "3c4ceb2bb1a229a710d87df9eb3a1078625c3487",
+      "utf8_bytes": 3310
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/06_CUSTODIAN_EVIDENCE_REQUIRED.md",
+      "git_blob_sha1": "6ab7849abee6702f1035366b80a8f0830f01d2aa",
+      "utf8_bytes": 4332
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/07_QA_AND_REMOTE_READBACK_RECEIPT.md",
+      "git_blob_sha1": "68bbb608943669ba900e4c562a70c015dd439269",
+      "utf8_bytes": 3969
+    },
+    {
+      "worker": "B",
+      "source_branch_commit": "be96bcc937614c79714ebf9bb1bf38928bc5d4be",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-b-rights/08_CONTINUATION_HANDOFF.md",
+      "git_blob_sha1": "1af0046358527cd7f6431b5be0b0246408b1f38e",
+      "utf8_bytes": 2736
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/00_FINAL_OWNER_READINESS_OVERVIEW.md",
+      "git_blob_sha1": "d03776a920c8702758e1cab4c3105cb162a813a3",
+      "utf8_bytes": 4498
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/01_AP00_PLANNING_DECISION_DRAFT.md",
+      "git_blob_sha1": "6f9bca584238cd0504d12600c671cb8d2b9edcd1",
+      "utf8_bytes": 4505
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/02_AP01_PROTOTYPE_DEVELOPMENT_AUTHORIZATION_DRAFT.md",
+      "git_blob_sha1": "42e3d6934817dfa5d8da438d863efdd8446b8356",
+      "utf8_bytes": 7643
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/03_AP02_EXACT_FILE_TRANSFER_AUTHORIZATION_DRAFT.md",
+      "git_blob_sha1": "fb22e943e7bf27dcdfd68ce840c3cfd86aff84bd",
+      "utf8_bytes": 14820
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/04_AP01_AP02_DEPENDENCY_AND_GATES_MATRIX.csv",
+      "git_blob_sha1": "63525cde1299c99ab804aef84cb89ae83e8e4ed3",
+      "utf8_bytes": 3922
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/05_PROPOSED_ISOLATED_WORKSPACE_REQUIREMENTS.md",
+      "git_blob_sha1": "2f8b5670eedd0694489fcdbc2d3282a0a904f4ea",
+      "utf8_bytes": 4302
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/06_FUTURE_CLAUDE_HANDOFF_READINESS_CHECKLIST.md",
+      "git_blob_sha1": "4ee5539248a9a5349e629a045bb7014b11aa0400",
+      "utf8_bytes": 4586
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/07_UNRESOLVED_OWNER_AND_RIGHTS_DECISIONS.md",
+      "git_blob_sha1": "86121700a0a9e30ef86a7fe131551f7d708776e4",
+      "utf8_bytes": 4721
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/08_GITHUB_QA_AND_READBACK_RECEIPT.md",
+      "git_blob_sha1": "3660b51f35a1a56f002c181c268ed26273928d1b",
+      "utf8_bytes": 5415
+    },
+    {
+      "worker": "C",
+      "source_branch_commit": "ff02cdc729aa96e18b1fa591ff6694cbb787354d",
+      "path": "coordination/2026-10-27-final-owner-review-workers/worker-c-authorizations/09_CONTINUATION_HANDOFF.md",
+      "git_blob_sha1": "8d74bee1677a1905de47aa7b4c4e8ad4702617a5",
+      "utf8_bytes": 4504
+    }
+  ]
+}
