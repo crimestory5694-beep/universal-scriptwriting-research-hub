@@ -1,0 +1,229 @@
+{
+  "audit": "OWNER_CLEARANCE_4_WORKER_MASTER_MERGE_2026_10_27",
+  "status": "RESEARCH_ARCHIVE_ACCEPTED_ONLY",
+  "original_main_sha": "38d743640534cb390865824d36aeb2c890d628aa",
+  "main_after_4_merges": "9613abb86455d82b39839e9aaf2048c6024da61b",
+  "worker_merges": [
+    {
+      "id": "A",
+      "branch": "research/ap-rights-f01-f06",
+      "head": "cf5bd6b643968ca7766d06c8ed284df860f59289",
+      "folder": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/",
+      "files": 7,
+      "pr": 6,
+      "merge": "fc213dec23fad0f9e6b748bf83ab5360aaa6f8ec"
+    },
+    {
+      "id": "B",
+      "branch": "research/ap-rights-architecture",
+      "head": "79549a6bb74c18d586023e37ea992147e2a64fcc",
+      "folder": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/",
+      "files": 7,
+      "pr": 7,
+      "merge": "b9a18cfe6b8ebd8e783056d8eb601c8357a0fd74"
+    },
+    {
+      "id": "C",
+      "branch": "research/ap-f11-link-scope",
+      "head": "d30838b42b4765375793eba3745d5f3ebe737668",
+      "folder": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/",
+      "files": 7,
+      "pr": 8,
+      "merge": "34f8c5ae8abd75e088e39656694824c895c4f6c1"
+    },
+    {
+      "id": "D",
+      "branch": "research/ap-owner-authorizations",
+      "head": "f48f2bc79485275140fa02dd27f2adf2cebf9876",
+      "folder": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/",
+      "files": 8,
+      "pr": 9,
+      "merge": "9613abb86455d82b39839e9aaf2048c6024da61b"
+    }
+  ],
+  "remote_source_to_main_file_identity_matches": 29,
+  "original_files_edited": 0,
+  "merged_files": [
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/00_AUDIT_REPORT.md",
+      "blob_sha1": "3c16654a4e6e48006f61f6e193d0282bbc50bc4f",
+      "bytes": 6087
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/01_F01_F06_FILE_RIGHTS_LEDGER.csv",
+      "blob_sha1": "a9a915b4b39824d07bdf0893325763b3f41b7a96",
+      "bytes": 3849
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/02_SOURCE_PROVENANCE_AND_RISKS.md",
+      "blob_sha1": "a3a72cbe3e9ba2ccd56c58d6e8ff32c1747d1393",
+      "bytes": 5429
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/03_RECOMMENDED_CANDIDATE_ALLOWLIST.md",
+      "blob_sha1": "8e71e15bb2937f1b923062dd20ab4bbb4b1e17d1",
+      "bytes": 2945
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/04_QA_AND_VERIFICATION_REPORT.md",
+      "blob_sha1": "085dc6350d1db0a8ea27f77fb1b2260857fd3c92",
+      "bytes": 3284
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/05_CONTINUATION_HANDOFF.md",
+      "blob_sha1": "d101da9eb13c1a87590b6e562dae72a59102e41d",
+      "bytes": 2506
+    },
+    {
+      "worker": "A",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-a-f01-f06/06_GITHUB_READBACK_RECEIPT.md",
+      "blob_sha1": "eb3f1de672079a7e22d12e368d89a34f5df9965e",
+      "bytes": 3519
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/00_ARCHITECTURE_RIGHTS_AUDIT.md",
+      "blob_sha1": "288769903a6d3904b2c700ecc1b9772e331094ef",
+      "bytes": 6966
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/01_F07_F10_F12_FILE_LEDGER.csv",
+      "blob_sha1": "acc2fa12eb6ac7a7f127d9fe2a0379d0ca770832",
+      "bytes": 3741
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/02_INTERFACE_AND_SCOPE_COMPATIBILITY.md",
+      "blob_sha1": "9732e17be66e1bfce7ab76e0ec23ed2be2a4d739",
+      "bytes": 5180
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/03_QA36_INTEGRITY_REPORT.md",
+      "blob_sha1": "0ae97766b86dbe22b3fbf8dc51fd4d3266afee11",
+      "bytes": 4690
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/04_RIGHTS_SAFE_TECHNICAL_CANDIDATES.md",
+      "blob_sha1": "6d4351e04bc446e6b1c1307fe5f37638f5d862d9",
+      "bytes": 5251
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/05_QA_AND_VERIFICATION_RECEIPT.md",
+      "blob_sha1": "7ff70435d186735f101d9ac4889c0578fd4fd623",
+      "bytes": 4773
+    },
+    {
+      "worker": "B",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-b-architecture/06_CONTINUATION_HANDOFF.md",
+      "blob_sha1": "0cc0ecf35bfee3ade71af62d222b7c76a7ae9dd6",
+      "bytes": 3782
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/00_F11_INDEPENDENT_AUDIT.md",
+      "blob_sha1": "7588eb4275ad0b3bf7b221db303ef9a6891a9b5f",
+      "bytes": 4720
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/01_THIRTEEN_LINK_VERIFICATION_LEDGER.csv",
+      "blob_sha1": "745dbc89a13d1c98533a6a4f5d45419b8b08a6f2",
+      "bytes": 9295
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/02_SOURCE_RIGHTS_AND_PROVENANCE_RISKS.md",
+      "blob_sha1": "ee0b7f2e0a4a1946fe437666a4efa8dd51edc584",
+      "bytes": 6271
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/03_SANITIZED_F11_REFERENCE_PROPOSAL.md",
+      "blob_sha1": "7a7b5b25b8ecc399cb796c31e6c06c86f3c3acd0",
+      "bytes": 7525
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/04_EXCLUDED_AND_UNRESOLVED_TARGETS.md",
+      "blob_sha1": "00f0b2a0358c88c7b29f9985e0588cc2ae961b13",
+      "bytes": 2785
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/05_QA_AND_REMOTE_READBACK_RECEIPT.md",
+      "blob_sha1": "f9ebcacf31ee28c9afc2dc766f8af0cffcfa738c",
+      "bytes": 3042
+    },
+    {
+      "worker": "C",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-c-f11-links/06_CONTINUATION_HANDOFF.md",
+      "blob_sha1": "0fb502d998670c8e113ce19b5426e2167eddd8cb",
+      "bytes": 1993
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/00_OWNER_AUTHORIZATION_OVERVIEW.md",
+      "blob_sha1": "9c0865432c8655c523aae9cbeaf4f4c540e43085",
+      "bytes": 4549
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/01_AP00_AP05_DECISION_TEMPLATES.md",
+      "blob_sha1": "c168ef16556f90071ff3145bde5d42f6c04804e5",
+      "bytes": 9403
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/02_G01_G19_CROSSWALK.csv",
+      "blob_sha1": "2ed96a326307b84dae678fdf6d83cc7326c64201",
+      "bytes": 8992
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/03_WORKSPACE_AND_IMPLEMENTATION_SCOPE.md",
+      "blob_sha1": "7e4420e8552a1f5cff7f9f65f99517c29c5496eb",
+      "bytes": 5649
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/04_RIGHTS_CUSTODIAN_SIGNOFF_CHECKLIST.md",
+      "blob_sha1": "9704e6c7c10ed7bcf62cbfe8b88a52c7b2bbf478",
+      "bytes": 6540
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/05_READINESS_AND_BLOCKERS_MATRIX.csv",
+      "blob_sha1": "5ede062491dcaffe6c56c008757a96643e8e4cb6",
+      "bytes": 4124
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/06_QA_AND_REMOTE_VERIFICATION.md",
+      "blob_sha1": "c4bb65f18a0030a606a5bb71960a44f9994ea50e",
+      "bytes": 4424
+    },
+    {
+      "worker": "D",
+      "path": "coordination/2026-10-27-owner-clearance-workers/worker-d-owner-approvals/07_CONTINUATION_HANDOFF.md",
+      "blob_sha1": "2b5447594b12e780884535998346a4aca0317a6c",
+      "bytes": 4782
+    }
+  ],
+  "owner_signoffs": 0,
+  "rights_approved_for_transfer": 0,
+  "claude_transfer_performed": false,
+  "prototype_implemented": false,
+  "production_skill_approved": false,
+  "QA36_executed": 0,
+  "T01_T13_executed": 0
+}
