@@ -29,7 +29,7 @@ QA-027,Review,An editor deletes the original disagreement after resolution,Rejec
 QA-028,Review,Mock style score is high but one severe unsupported claim remains,Keep the claim severity hold active,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
 QA-029,Review,A mock source cannot be opened for factual adjudication,Return not-assessable rather than fabricating a numeric score,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
 QA-030,Review,Subtitle timing is interpreted as measured vocal expressiveness,Deny audio inference without actual audio review,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
-QA-031,Accessibility,A color-only chart lacks a textual explanation,Flag accessible meaning for correction,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-031,Accessibility,A color-only chart and unchecked synthetic captions lack usable explanations,Require accessible descriptions and caption correction before review,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
 QA-032,Analytics,A synthetic click-through observation is called higher retention,Reject the conversion between different measures,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
 QA-033,Analytics,An unexecuted experiment plan is described as completed validation,Mark experiment unperformed and reject effect claim,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
 QA-034,Change,A synthetic agency record changes after editor sign-off,Invalidate dependent fact checks and draft approvals,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
