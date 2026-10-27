@@ -25,3 +25,24 @@
 ## Publish/read-back
 
 The GitHub commit SHA, per-file blob SHA and UTF-8 byte counts are recorded in the **GitHub publication/read-back result** returned after writing; if that later verification fails, publication is not considered verified. This paragraph does not itself constitute a read-back. No execution of test cases, code implementation, Claude transfer, merge, owner signoff, rights approval or external research occurred.
+
+## Remote publication read-back — verified after initial commit
+
+- Initial publication commit: `e6a97f61db1b125dd862881e05021d6bbceb322f`.
+- GitHub main still `0776afd52001c2d9021b1749f7b936bc1dc4e37d`; original research and PR #12 remain unchanged.
+- Commit comparison vs main: one commit ahead, only the six files inside Worker F's exclusive output path added, zero files elsewhere.
+- Read-back fetched all six GitHub files by the immutable initial publication commit, checked returned Git blob SHAs, counted UTF-8 bytes and matched locally authored lengths. Results:
+
+| Published file | Initial blob SHA | UTF-8 bytes | Remote read-back |
+|---|---|---:|---|
+| 00_QA36_SEMANTIC_REVIEW.md | `c53979b18748621efa7fd6b9b3c41262500b94b8` | 25363 | MATCH |
+| 01_QA36_ONE_TO_ONE_COVERAGE.csv | `b1e871c01afc635fa83f82822e6ddf4ed97204c3` | 15682 | MATCH |
+| 02_GAPS_AND_PROPOSED_FIXES.md | `4b0cc06c2d28bddd084a2890f69a0b834637dc62` | 10976 | MATCH |
+| 03_OPTIONAL_NEW_B2_AMENDMENT_DRAFT.md | `ca6f87d062c9f4a9aac30afd5b6985c7944e9871` | 12678 | MATCH |
+| 04_VERIFICATION_RECEIPT.md (initial snapshot, prior to this addendum) | `305c9904af2bcf48f850872868e062b06f427cc0` | 2144 | MATCH |
+| 05_CONTINUATION_HANDOFF.md | `92a8d2a964c5546fd302ea5a32f8c32ffd5ae404` | 1896 | MATCH |
+
+- Coverage CSV read-back: exactly 36 unique ordered QA IDs; 5 SEMANTIC_MATCH / 18 CONDITIONAL_MATCH / 13 MATERIAL_GAP.
+- Documentation comparison and file-integrity checks do **not** constitute software QA execution (still zero) or rights review approval.
+
+*This receipt addendum is a second documentation commit and therefore changes only this receipt's Git blob. Its final updated blob SHA and final branch HEAD are independently verifiable from the subsequent GitHub read-back; the initial six-file verification table above remains pinned to the first commit.*
