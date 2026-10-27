@@ -1,0 +1,12 @@
+# Worker B — Continuation handoff (research only)
+
+**Assignment:** Option B1 independently screened for authorship, source lineage, copyright expression, attribution, confidentiality and transfer eligibility. Audit limited to B1 and comparison references. No source files changed.
+**Decision:** \`CONTENT_SCREEN=CONDITIONAL\`; \`LEGAL_TRANSFER=RIGHTS_UNRESOLVED\`; \`CLAUDE_ALLOWLIST=[]\`; \`AP-00=PENDING\`; \`AP-01/AP-02=NOT_AUTHORIZED\`; \`G17/G18=HOLD\`.
+**Pinned input:** source B1 commit \`1e496c994835742bfdd63ffac0679ba8123e1734\`; blob \`b8d477e00a965862bb6e3ac3ece6b1e00cecd5bb\`; UTF-8 bytes \`8425\`; SHA-256 \`1e499670d1c554f77c6dbac64d715d9d5196a45fc711eddc2d50be76fcc8cd46\`.
+**Baseline:** main \`0776afd52001c2d9021b1749f7b936bc1dc4e37d\`; PR #12 draft/unmerged; Worker B dedicated branch \`research/w8-b1-provenance\`.
+**Outputs:** \`00_B1_INDEPENDENT_RIGHTS_SCREEN.md\`, \`01_B1_SECTION_LEVEL_RISK_LEDGER.csv\` (35 row granularity), \`02_HASH_PROVENANCE_RECEIPT.md\`, \`03_CUSTODIAN_EVIDENCE_REQUEST.md\`, \`04_QA_AND_REMOTE_READBACK.md\` and this handoff.
+**Readback and final branch HEAD:** see \`04_QA_AND_REMOTE_READBACK.md\` and GitHub branch history. No independently verified record may be presumed if GitHub returns an error.
+**What independent audit found:** no 5+ contiguous exact shared ASCII-normalized word spans with F07–F10; no visible long quoted third-party body, HTTP links, fenced code or email. This is narrow evidence, not an ownership/legal clearance. The structural concepts, role names and fields are visibly derivative of the upstream research system.
+**Outstanding:** written specific authorship/assignment, provenance/permission for F07–F10/v0.2 composition and embedded matter, other contributors, notices, confidentiality clearance, actual recipient workspace and custodian/owner AP-02 exact byte consent. B2 separately audited by Worker C; QA semantic completeness remains other workers' responsibility.
+**Next qualified actor:** rights custodian conducts a documented exact-file audit without exporting unknown-rights inputs; project owner decides planning strategy/APs only after evidence. Master integrates eight workers without automatically merging or overriding unresolved gates.
+**Explicit restrictions:** No source transfer, Claude call, code, production skill, legal attestation, historical limitation promotion, or PR merge was performed or approved here.
