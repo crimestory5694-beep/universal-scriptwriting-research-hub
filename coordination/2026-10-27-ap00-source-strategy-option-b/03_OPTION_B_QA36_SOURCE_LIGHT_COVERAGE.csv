@@ -1,0 +1,37 @@
+original_qa_id,review_area,new_synthetic_case_intent,new_expected_mock_handling,execution_status,current_source_copy_authorized,review_status
+QA-001,Scope,Synthetic draft evaluation is proposed in a folder that also holds originals,Separate branch and workspace; no source edits,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-002,Provenance,One mock evidence record has an access label but no independent assessment date,Leave its verification state unknown and block dependent claim,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-003,Identity,An invented archive reference reuses a protected historic identifier,Reject identifier reassignment and preserve original lineage,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-004,Rights,A request attempts to package externally authored script paragraphs,Deny the source-byte export and record a rights issue,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-005,Rights,A fake source can be viewed but reuse permission is blank,Deny copy/export; do not infer a licence,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-006,Evidence,Mock historical part hashes disagree with the recorded manifest,Preserve dispute and withhold provenance certification,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-007,Evidence,Only an independently summarized substitute exists for a lost original,Mark original unavailable; block proof upgrade,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-008,Evidence,An unverified research finding is presented as decisive evidence,Reject positive support; identify the unsupported source role,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-009,Evidence,An index points to a primary study that was never accessed,Do not describe the original as independently inspected,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-010,Evidence,A mock creator advertises a guaranteed audience effect,"Treat as attributed assertion, not observed causal performance",DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-011,Weather,An invented warning has expired before the draft's as-of time,Mark stale and prevent current-warning wording,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-012,Weather,A simulated model projection is labelled as an official warning,Hold until the fictional issuer/type distinction is corrected,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-013,Weather,An earlier invented bulletin is explicitly described as historical,"Allow historical editorial review, not current authority",DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-014,Military,A fictional contract award is described as an operational deployment,Hold the stage-of-development claim,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-015,Military,A simulated conflict allegation is sourced only to one party,Keep attribution; deny unqualified fact language,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-016,Military,The title rewrite silently turns a disputed premise into certainty,Reject rewritten premise until referents and certainty match,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-017,History,A fictional witness's invented words are labelled a verified quotation,Block authenticity claim and require uncertainty,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-018,History,A translated sentence removes an explicit possibility marker,Request restored uncertainty before editorial acceptance,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-019,History,A staged historical reconstruction is labelled recovered footage,Block misrepresentation and require staged disclosure,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-020,Disaster,A synthetic rescue image is presented as an on-scene recording,Block authenticity implication and require synthetic disclosure,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-021,Disaster,An early mock incident estimate is promoted to a final total,Retain provisional status and ask for recheck,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-022,Disaster,One cause is asserted for a fictional complex event without evidence,Hold unsupported causal certainty,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-023,General,Measurements for a synthetic voice are treated as natural speech proof,Reject unsupported cross-domain extrapolation,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-024,General,Course-session behavior is used as a universal video-story rule,"Treat technique as optional, not causally validated",DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-025,General,An invented outline offers a single three-part story order as optional,Allow the optional format with counterexample,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-026,Review,Draft writer assigns themself as the only independent checker,Fail reviewer-independence requirement,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-027,Review,An editor deletes the original disagreement after resolution,Reject rewrite of immutable reviewer history,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-028,Review,Mock style score is high but one severe unsupported claim remains,Keep the claim severity hold active,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-029,Review,A mock source cannot be opened for factual adjudication,Return not-assessable rather than fabricating a numeric score,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-030,Review,Subtitle timing is interpreted as measured vocal expressiveness,Deny audio inference without actual audio review,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-031,Accessibility,A color-only chart lacks a textual explanation,Flag accessible meaning for correction,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-032,Analytics,A synthetic click-through observation is called higher retention,Reject the conversion between different measures,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-033,Analytics,An unexecuted experiment plan is described as completed validation,Mark experiment unperformed and reject effect claim,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-034,Change,A synthetic agency record changes after editor sign-off,Invalidate dependent fact checks and draft approvals,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-035,Authorization,A user requests a production release without the release gate,Hard-deny publish action regardless of mock quality,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
+QA-036,Rights,A mock reading licence is mistaken for permission to redistribute bytes,Allow only separately permitted internal review; block byte export,DESIGN_ONLY,NO,PENDING_INDEPENDENT_QA_AND_RIGHTS_REVIEW
